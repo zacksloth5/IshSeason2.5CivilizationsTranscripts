@@ -1,0 +1,862 @@
+1:191 minute, 19 secondshello how are you well played
+1:321 minute, 32 secondswelcome welcome I'm just getting a couple last minute things set up here and uh server opens in about 10 minutes
+1:391 minute, 39 secondsso we'll be jumping in around
+1:451 minute, 45 seconds[Music]
+1:581 minute, 58 secondsthen
+2:272 minutes, 27 secondsyou're good that's good I'm doing all right I'm uh I really enjoyed yesterday so I'm looking forward to day two of
+2:352 minutes, 35 secondsthis event SL experiment thingy I'm actually realized I should set up a command explaining what it
+2:442 minutes, 44 secondsis
+2:462 minutes, 46 seconds[Music]
+2:562 minutes, 56 secondsum that way I don't have to kind ofur hardly explain it every time whenever somebody asks exactly what
+3:063 minutes, 6 secondsI'm doing so I'm just putting that in on nightbot right now but uh definitely excited looking
+3:133 minutes, 13 secondsforward to day
+3:163 minutes, 16 seconds[Music]
+3:283 minutes, 28 secondstwo
+3:383 minutes, 38 seconds[Music]
+3:493 minutes, 49 seconds[Music]
+3:563 minutes, 56 seconds[Music]
+4:044 minutes, 4 secondsnow in theory what do you mean the Alias does
+4:134 minutes, 13 secondsnot exist that is interesting if I
+4:234 minutes, 23 secondsdo no aliases
+4:314 minutes, 31 secondsah there we go that works exactly like what I
+4:364 minutes, 36 seconds[Music]
+4:414 minutes, 41 seconds[Music]
+4:554 minutes, 55 seconds[Music]
+4:584 minutes, 58 secondswanted are you uh are you familiar with ises
+5:075 minutes, 7 secondsevents well played or the the general concept of these thousand player
+5:205 minutes, 20 secondsexperiments I remember correctly you were originally around for um subnotica
+5:275 minutes, 27 secondsI believe so the whole Minecraft of things might be a new territory for you it's a new
+5:345 minutes, 34 secondsterritory for me as well this kind of event specifically I've been playing Minecraft for many many
+5:425 minutes, 42 secondsyears too many years it's a good game
+5:565 minutes, 56 secondsthough two three four five 6
+6:026 minutes, 2 seconds[Music]
+6:236 minutes, 23 seconds78 don't think any of these content labels fit for the last for
+6:316 minutes, 31 secondsMinecraft thankfully last time I joined one of
+6:426 minutes, 42 secondsyour streams was during a subnotica stream yeah my stic playthrough is still technically going on I um had to take a
+6:516 minutes, 51 secondsbreak away for a while just to deal with some stuff and then focus on other
+6:576 minutes, 57 secondsthings but the basic rundown is that um a guy named
+7:067 minutes, 6 secondsish he does these experiments these videos on YouTube where
+7:137 minutes, 13 secondsum well so for instance this time it's a thousand players divided across two different islands um and you don't really know
+7:227 minutes, 22 secondswhat to expect until you're like right either right before the event or at the actual beginning of the event I think
+7:297 minutes, 29 secondsabout an hour or two before the event he announced that essentially Island one has basically no
+7:387 minutes, 38 secondsresources and is pretty Barren and uh Island 2 is like super Lush super nice has lots of nice
+7:477 minutes, 47 secondsthings um basically doing a like one island is really poor one island is
+7:537 minutes, 53 secondswealthy resource-wise take on things and um
+8:018 minutes, 1 secondhe like I said he told us like an hour before so we're like oh okay and when I say resource Baron I have found exactly
+8:118 minutes, 11 secondsone piece of iron in the whole time we spent yesterday the couple hours and there was only one tree on the whole
+8:188 minutes, 18 secondsisland um and it was I mean it's a giant tree it was in the middle but it's a giant Island as well a couple thousand
+8:268 minutes, 26 secondsby a couple thousand don't so it took people a while to find them and then saplings are slowly getting dispersed
+8:348 minutes, 34 secondsout amongst the colonies so people can grow wood and the only source of food is the very rare
+8:418 minutes, 41 secondsvery occasional animal spawn and people growing wheat
+8:488 minutes, 48 seconds[Music]
+8:498 minutes, 49 secondsum who will win so as of now there are no rules about
+8:568 minutes, 56 secondslike this person versus that person person right there there's no or this island versus that Island um they allow
+9:059 minutes, 5 secondsbefore the event they have channels and official things where people can create groups and factions and start recruiting
+9:149 minutes, 14 secondsfor different groups
+9:189 minutes, 18 seconds[Music]
+9:199 minutes, 19 secondsum so people can kind of group up and team up and find people to play with before going in the only
+9:269 minutes, 26 secondsmod is voice chat mods you can voice chat in game with other nearby players um otherwise it's vanilla
+9:369 minutes, 36 secondsMinecraft um I think they have some custom recipes in but um other than that there's there's
+9:459 minutes, 45 secondsnothing super crazy wealthy island or poor island well I have read through the Discord some I haven't
+9:539 minutes, 53 secondsbeen um there's a really really active Discord Community around the event and
+10:0210 minutes, 2 secondsum a lot of people are like pulling the old Eat the Rich this and that and our whole island needs to
+10:0910 minutes, 9 secondsteam up and take down their Island and I'm like we haven't even had official in-game contact with the other Island
+10:1710 minutes, 17 secondslike I don't think anybody's been between the islands I don't even know if you can travel between the islands right now but um it's that was day one it's a
+10:2710 minutes, 27 seconds7-Day thing and it's two hours a day at the set time every day um they open the server so that
+10:3510 minutes, 35 secondseverybody can go in which is usually right about now so I'm going to pull up the Discord on my other monitor and go see what announcements
+10:4310 minutes, 43 secondsare being posted about today day two starts soon right now the devs are making a few
+10:5110 minutes, 51 secondslast minute changes fixing a few things and adding features to make your experience better then in a few minutes we will open the server and gradually
+10:5910 minutes, 59 secondsincrease the max player account uh once that's done we're all good to go I will ping everyone once the server is ready for everyone to
+11:0711 minutes, 7 secondsjoin so they're going to ease the server open over probably 10 or 15 minutes as they did before they've got some kind of
+11:1611 minutes, 16 secondsserver sharding mechanism to my understanding and basically each Shard holds like 100 players
+11:2311 minutes, 23 secondsand a whole bunch of stuff I've never had to deal with for a Minecraft server cuz I never had a Minecraft server with
+11:3011 minutes, 30 secondsa thousand people on it at once which was kind of wild to see
+11:3811 minutes, 38 secondsyesterday but I am live streaming the whole or deal on Twitch
+11:4711 minutes, 47 secondsum and then I have no idea how long it's going to take to make I have not used the Minecraft replay mod
+11:5711 minutes, 57 secondsbefore um but I have that so I'm going to use that
+12:0412 minutes, 4 secondsfor cinematic shots and storytelling shots replaying um what all happened in game and hopefully make a more narrative
+12:1212 minutes, 12 secondsbased YouTube video currently I've just been making mostly well I have a mixture
+12:2012 minutes, 20 secondsof edited down streams like my um little nightmares streams I edited into
+12:2912 minutes, 29 secondsepisodes and then my um I filmed a couple videos specifically
+12:3812 minutes, 38 secondsfor YouTube and edited them down some like Cozy Corner little build videos and
+12:4712 minutes, 47 secondsum one sponsored video that I got a key for and um I've been watching a lot of
+12:5512 minutes, 55 secondsnarrative focused uh YouTube videos recently that are like anywhere from 30 minutes to an hour long of just very
+13:0413 minutes, 4 secondsnarrative focused content um and I've been really enjoying it and wanting to try my hand at making
+13:1113 minutes, 11 secondsthat um so we'll see how that goes and how all of this
+13:2113 minutes, 21 secondsgoes but yeah I'm excited it's been fun so far
+13:4413 minutes, 44 secondsvery exciting so far um all right let me navigate back I also need to remember to
+13:5113 minutes, 51 secondspost when I go live everywhere because I'm really bad about forgetting to post
+14:0214 minutes, 2 secondsabout being
+14:2614 minutes, 26 secondslive because I do not be getting on social
+14:4014 minutes, 40 secondsmedia so Chrome and blue sky do not get along for some
+14:4714 minutes, 47 secondsreason it's very
+14:5114 minutes, 51 seconds[Music]
+14:5714 minutes, 57 secondsinteresting solv posted and said that I as a man of
+15:1015 minutes, 10 secondsthe people pushing for 7h hour extension to make up for this abhorent 10 10-minute delay which is a little
+15:2715 minutes, 27 secondsfunny
+15:5715 minutes, 57 secondsI
+16:0616 minutes, 6 seconds[Music]
+16:2716 minutes, 27 secondsI
+16:5516 minutes, 55 secondsI need more intro music for when my intro is longer than like three
+17:1017 minutes, 10 secondssongs that's not what I wanted to launch I have too many things on my my hot
+17:1917 minutes, 19 secondsbar I clicked the wrong ones quite frequently
+17:5717 minutes, 57 secondshe
+18:1118 minutes, 11 seconds[Music]
+18:1418 minutes, 14 secondsbum bum bum bum like how even in your YouTube you're talking like you're doing ASMR okay
+18:2118 minutes, 21 secondsspecifically the the like the building ones and the Cozy Corner ones are supposed to be
+18:2818 minutes, 28 secondsmore chill laid-back videos and I usually film them at like nighttime and when I'm in a very relaxed
+18:3718 minutes, 37 secondsmood they're not very high energy they're very low energy they're very Chill Vibes build be comfy cozy type of
+18:4418 minutes, 44 secondsvideo um but also that's kind of just how I am most of the time anyways so I I I don't talk
+18:5318 minutes, 53 secondsI don't talk in a specific way on purpose I kind of just talk but uh thank you I appreciate that what's up Faith
+19:0119 minutes, 1 secondhow are you coming into my channel amus twerking what's up pal how's
+19:1519 minutes, 15 secondslife how is life what are you up to these days I think last time we talked you
+19:2219 minutes, 22 secondssaid you were doing
+19:2419 minutes, 24 seconds[Music]
+19:2619 minutes, 26 secondsuh what is that one Battle Royale game Apex I think it was Apex was what you were getting into last
+19:3419 minutes, 34 seconds[Music]
+19:3619 minutes, 36 secondstime basking in a raging ball of Co you know Faith honestly I
+19:4519 minutes, 45 secondsprobably could have and would have guessed that you were sick even without you telling me I swear 98% of the time you're
+19:5419 minutes, 54 secondssick or getting over sick or starting to feel sick just unlucky all around one life is
+20:0420 minutes, 4 secondsa one ball of sick exactly
+20:1120 minutes, 11 seconds[Music]
+20:1420 minutes, 14 secondsoh how have I been I've been okay um it's been a very eventful busy year and
+20:2220 minutes, 22 secondsuh these last honestly I've just been really busy the last month or two work in live stuff so I haven't really had
+20:2920 minutes, 29 secondsmuch time to stream or make content um but this was a really exciting
+20:3920 minutes, 39 secondsopportunity and um I was like you know what I'm going to
+20:4720 minutes, 47 secondsbe playing anyways and it's only two hours so I can kind of uh I'll just go live for it I don't have to do anything fancy I don't have
+20:5420 minutes, 54 secondsto do anything crazy I want it's I mostly want to make a YouTube video for it but being live on Twitch is you know
+21:0221 minutes, 2 secondswhy not like it's an additional thing an additional little cool thing to
+21:1521 minutes, 15 seconds[Music]
+21:2421 minutes, 24 seconds[Music]
+21:2721 minutes, 27 secondsdo kind of grinded Apex for a while got to Plat and kind of gave up I see I
+21:3621 minutes, 36 secondssee I man what was it pubg and H1 were my I
+21:4621 minutes, 46 secondsthink we talked about this before pubg and H1 were my OG Battle Royale is like so many hours in those games and then by
+21:5421 minutes, 54 secondsthe time all this new gen like Apex and fortnite and all the battle Royals that are out now came out I was already burnt out on the
+22:0222 minutes, 2 secondsthe genre as a whole CU I had just put so many hours into um those two
+22:1122 minutes, 11 secondsspecifically let me see if they've posted any more anouncement oh two minutes ago they said all right we're almost done fixing
+22:1922 minutes, 19 secondsthings get ready and posted a Pepe on fire Emoji oh no sorry poo evil he's standing
+22:2822 minutes, 28 secondsin front of fire he's being evil so we will see how this
+22:4022 minutes, 40 secondsgoes kind of got back into GTA hard for a while there but now I'm just kind of chilling burnt on games I get that a
+22:4822 minutes, 48 secondsth% I think how did my journey go after New Haven shut down I jumped over to Red
+22:5622 minutes, 56 secondsDead and I did the whole Red Dead RP thing for a couple months um primarily with cat
+23:0523 minutes, 5 secondsand um she and I did a lot over on Red Dead and then I I don't remember I just kind of one day was like eh feeling kind
+23:1423 minutes, 14 secondsof burnt out on it um I was like oh I'll take like a week off and then just never really went back to it I've gone through
+23:2123 minutes, 21 secondsa cycle of like um different types of games I'm
+23:2823 minutes, 28 secondsgoing to switch over to hopefully this
+23:3523 minutes, 35 secondsworks there it goes May didn't like that it wasn't in full screen
+23:4423 minutes, 44 secondsum so yeah I switched over to just random kind of Steam games I've
+23:5223 minutes, 52 secondsput a lot of time into core keeper and mechab Bellum I think those are the two primary games that I have played um up to 150 people in the server so
+24:0224 minutes, 2 secondsthey'll usually up the player count limit by about 50 each time every 30 seconds to a minute and slowly let
+24:1024 minutes, 10 secondspeople in until the server hits cap um oh y see another 200 so or another 50 so we're at 200 but uh I've
+24:2024 minutes, 20 secondsbeen doing a lot more not gaming in my free time or like watching YouTube watching movies stuff
+24:2824 minutes, 28 secondslike that so I definitely get the uh burnt out on games feeling I get that Vibe I've
+24:3624 minutes, 36 secondsuh been dealing with that off and on for a while games will pop up that I'm interested in
+24:4324 minutes, 43 secondsand it said 401 so I thought maybe it was open to 450 people and I could grab a
+24:5024 minutes, 50 secondsspot um but yeah I get it and I mean obviously best thing to to do whenever
+24:5824 minutes, 58 secondsyou're burnt out is not force yourself to keep playing you know take a break cuz if you
+25:0725 minutes, 7 secondsum you know force yourself to keep playing you only get burnt out more and then you might never want to go back to that game that you used to
+25:1425 minutes, 14 secondsenjoy I did that to myself with um original Counter Strike I
+25:2325 minutes, 23 secondsthink oh man like 2015 2016 oh hi Macy good
+25:3025 minutes, 30 secondsmorning oh Big Stretch Big Stretch yeah oh
+25:3925 minutes, 39 secondsoh you need buy okay I'll go forward there you
+25:4725 minutes, 47 secondsgo Macy's been limping since yesterday her legs are bothering her a little bit so I'm keeping her
+25:5425 minutes, 54 secondson not not House rest but room arrest she's stuck in here with me and then if she wants to go up or down the stairs I'll carry her put her on a leash so she
+26:0326 minutes, 3 secondscan't go too fast trying to help her nurse this leg back she's limping a not as bad as she was yesterday
+26:1226 minutes, 12 secondsum which is good she's limping real bad but and she's putting weight on it which is a good sign when she heard her other
+26:2026 minutes, 20 secondsleg she couldn't put weight on it at all so she basically unrest of rest she
+26:2826 minutes, 28 secondsgot to rest up yeah yeah you do hi hi pretty
+26:3726 minutes, 37 secondsgirl well we're up to 650 players now oh we got in
+26:5026 minutes, 50 secondsnice there she goes oh
+27:1227 minutes, 12 secondsI'm not going to move around to do too much until um they're pretty much at a thousand
+27:2127 minutes, 21 secondsbecause it's going to lag really bad until they get every player in
+27:3427 minutes, 34 secondslooking at getting another puppy so I've been keeping my eyes out for one really want a husky retriever but they're hard to come by I don't know if I've
+27:4227 minutes, 42 secondsever heard of or seen a husky retriever I mean it sounds like a cute
+27:5027 minutes, 50 secondscombination but um is not something I have seen myself
+27:5827 minutes, 58 secondsnow I have to look it up let's see husky
+28:0928 minutes, 9 secondsretriever need to UNP screen it so I can Tab
+28:2228 minutes, 22 secondsout oh they it it just looks like a golden with the blue husky eyes is that what it
+28:3528 minutes, 35 secondsis there's an article that says people amazed at what a Siberian Husky and golden Trever mix looks like and it just looks like a a
+28:4528 minutes, 45 secondshusky oh this one has a really pretty fur pattern the golden with the Husky fur pattern is really
+28:5328 minutes, 53 secondspretty it's like uh yellow and white in the pattern of the
+29:0129 minutes, 1 secondhus the Husky pattern oh that's
+29:0829 minutes, 8 seconds[Music]
+29:2029 minutes, 20 secondspretty they're very pretty dogs but I'm also partial because I like dogs so I'm going to think they're cute
+29:3129 minutes, 31 secondsregardless one that looks like a husky with the long retriever fur do you want it to be husky colors or retriever
+29:4629 minutes, 46 secondscolors uh diesel devil this is the guy that caught us talking about stealing last
+29:5629 minutes, 56 secondstime we're going to stay over here for
+30:0630 minutes, 6 secondsnow I also need to very quickly defeat the habit of Sprint jumping
+30:1530 minutes, 15 secondsbecause food is so scarce it's so hard to come buy food um it looks
+30:2630 minutes, 26 secondslike
+30:4630 minutes, 46 secondslet's see okay so it looks like the the player cap is all the way up to a th000 so that people can
+30:5430 minutes, 54 secondsjoin um and I believe our friend yesterday said he was part of Covenant and
+31:0431 minutes, 4 secondsum so if we aren't able to meet up with him again today then we
+31:1131 minutes, 11 secondswill try to find where Covenant is on the
+31:2531 minutes, 25 secondsisland they also finally dropped the um dropped the map like a picture of the whole island
+31:3431 minutes, 34 secondsand people have been making maps about like who is where stuff like that we're going to stay away
+31:4731 minutes, 47 secondsfrom somebody froze to death not the way you want to start the
+31:5631 minutes, 56 secondsday I'm just going to start out by you know grabbing some
+32:0432 minutes, 4 secondswheat wait why are they AR they daming the
+32:1832 minutes, 18 secondswater they must have made plans to do this for distrib
+32:3132 minutes, 31 secondsif anybody has wheat they need to hand it to me for distribution I need dirt wardat do you have
+32:3932 minutes, 39 secondsdirt no okay 30 I've got 30 oh yes please please give me that oh thank you
+32:4832 minutes, 48 secondsyou are very welcome hey do you have oh thank you so
+32:5632 minutes, 56 secondsmuch that's a lot fig I'd want to look neutral to him even if I am one of the leg
+33:0833 minutes, 8 secondsreally do not see our friend vibing duck which is
+33:2033 minutes, 20 secondsunfortunate doing our best to fit in and look like a farmer here for now I don't actually want to join up with these people officially
+33:3133 minutes, 31 secondsbut okay well how much do you how much how much food would you give me for three coal you want two bread is that okay
+33:4033 minutes, 40 secondsbre how about bre all right does anyone have wood I need to
+33:5033 minutes, 50 secondsmake do you have any other stuff do you have like a not really right how about I I give you two
+33:5833 minutes, 58 secondsI give you two Co you give me the two
+34:1334 minutes, 13 secondsbread all right um let me
+34:2234 minutes, 22 secondssee so right now we're in West Helm and I know that just up the river was the Blue
+34:3034 minutes, 30 secondsCross and a couple other places so we might hike up the river and see if the Blue Cross is
+34:4034 minutes, 40 secondsstill a thing I would assume they are yeah we'll do that for now they kind of aligned with the
+34:4834 minutes, 48 secondscharacter that I wanted to make for um for the Run of this game
+35:1135 minutes, 11 secondsI just want yeah Tessa be careful it does uh half slabs make it safe for some reason so we're doing that if you want
+35:1835 minutes, 18 secondsto help out I see you know what I have a bunch of Cobble I'll go make some all right uh there's a stone cutter up by
+35:2635 minutes, 26 secondswhere the uh City is going to be so you can save some resources there oh does the water hurt
+35:3535 minutes, 35 secondsnow H interesting apparently the water Burns but they have figured out that putting
+35:4335 minutes, 43 secondshalf slabs in it will uh oh protect you from
+35:5235 minutes, 52 secondsdamage stay safe
+36:0536 minutes, 5 secondsping is sitting around 200 I might disconnect and reconnect and see if that fixes my ping but it might
+36:1336 minutes, 13 secondsalso be because there are so many people leaving and joining a they turned off the leaving and joining messages as well which is good because my chat was
+36:2136 minutes, 21 secondsabsolutely flooded with them yesterday I'm going to hike up the river
+36:2736 minutes, 27 secondsand see what's going on with the Blue Cross see if they're still alive and
+36:3436 minutes, 34 secondswell and if they figured out the um the half slab trick might be good knowledge to pass along in exchange for
+36:4136 minutes, 41 secondssome food oh there's a fork in the
+36:5536 minutes, 55 secondsriver don't know which way to
+37:0437 minutes, 4 secondsthem there's a lot of trees here so it might be this way somebody is
+37:1337 minutes, 13 secondsabsolutely going ham with the tree
+37:2437 minutes, 24 secondsplanting is not ideal
+37:4237 minutes, 42 secondshello hello do you know where the Blue Cross is are they further up the river
+37:4837 minutes, 48 secondshere cross is I think's an intersection yeah there's a I just hit a fork I just
+37:5537 minutes, 55 secondscame from the fork so they're the other way
+38:0138 minutes, 1 secondH okay cool also um water hurts in case you didn't
+38:0738 minutes, 7 secondsknow but right so what people have figured out as well is if you put a half
+38:1438 minutes, 14 secondsslab it makes the water safe yeah so
+38:2338 minutes, 23 secondslike see a half slab on the bottom and you can s it and be safe just good knowledge to have that way we can still
+38:3038 minutes, 30 secondsuse the water for transportation and stuff yep yep apparently the valley of wheat has
+38:4038 minutes, 40 secondsalso settled by Blue Cross which is another group civilization I don't really know what to call them
+38:4938 minutes, 49 secondsbut yeah we'll see how they go
+38:5738 minutes, 57 secondsprobably end up joining with and working for them but we'll
+39:0439 minutes, 4 secondssee I will be interested to see if uh our stealing from West
+39:1239 minutes, 12 secondsTown comes back to bite
+39:2139 minutes, 21 secondsus because there was one individual that memorized our names and he was like I will remember you guys I don't forget a
+39:3039 minutes, 30 secondsface very menacingly looks like
+39:3939 minutes, 39 secondsthey're there's a decent amount of people
+39:5139 minutes, 51 secondshere dirt like things Stone got a few stacks of uh mud now if
+39:5939 minutes, 59 secondsanyone needs Valley of wheat Blue Cross
+40:1040 minutes, 10 secondsheadquarters also we need to knock down all the Tre I think these are the people that made an entire or they're trying to cover the entire area in
+40:2040 minutes, 20 secondswheat and I think Blue Cross is the one that's supposed to provide Aid to anybody that needs it but I'm not sure what are they making
+40:3340 minutes, 33 secondshere underground there people with fishing
+40:4540 minutes, 45 secondspoles that means somebody's found string I also haven't seen any animals I'm wondering if there are animal spawns
+40:5340 minutes, 53 secondsat all now that I think about it
+41:1341 minutes, 13 secondsI like how they're not worried about the random people being here at
+41:2341 minutes, 23 secondsall not that it's possible to know everybody in your group in a like
+41:3341 minutes, 33 secondsthis yeah so this is where we came down before we came down and we walked down that
+41:4341 minutes, 43 secondsway looks like someone's making a settlement up here too or at least planted a bunch of trees oh that's a lot of
+41:5541 minutes, 55 secondstrees
+42:2042 minutes, 20 secondssee who these guys are
+42:2942 minutes, 29 secondsping is 500 I might need to reconnect and see if that
+42:3942 minutes, 39 secondsfixes cuz last time it did drop my ping down to under 100 when I reconnected I don't know if I'm going to be able to sufficiently have
+42:4742 minutes, 47 secondsconversations with people with 500 ping you want to call this day
+42:5542 minutes, 55 secondstwo initial spawn and
+43:0243 minutes, 2 secondsexplore got to keep them named somewhat relevant that way I can sort through them
+43:1343 minutes, 13 secondslater let's see what our ping settles to now
+43:2343 minutes, 23 seconds14 surely it's higher than 14 the farm
+43:4943 minutes, 49 secondsShack looks like it's named something like Starin Maybe Lu and have them drop
+43:5843 minutes, 58 secondsit do you think they changed the mob drops by the
+44:0944 minutes, 9 secondsway who's up here the Covenant
+44:2144 minutes, 21 secondsyeah but there's nobody here h
+44:3844 minutes, 38 secondswhen you make a mine here was Covenant who we said our friend was with looks like they ended up not staying
+44:4844 minutes, 48 secondshere no signs of Life a very deep hole
+45:0145 minutes, 1 secondmaybe they got pushed out by this other group or felt pushed out or wanted to go somewhere with more
+45:1245 minutes, 12 secondsspace sorum's resource
+45:2245 minutes, 22 seconds[Music]
+45:2445 minutes, 24 secondsstorage
+45:3945 minutes, 39 secondsnobody's really chatting see if somebody has a mic
+45:4845 minutes, 48 secondshello what group is this
+45:5845 minutes, 58 secondsJ is I don't know are you crazy
+46:0746 minutes, 7 secondsoh he's just stealing from their
+46:1246 minutes, 12 seconds[Music]
+46:1546 minutes, 15 secondsfarm he whispered to me I don't
+46:2346 minutes, 23 secondsknow hey are you with this group yeah what group is it uh this is the
+46:3046 minutes, 30 secondsnation of Starland Starland okay are you guys accepting new people I'm not from
+46:3846 minutes, 38 secondsanywhere I don't have a group are you uh no I'm here oh our King is right
+46:4546 minutes, 45 secondsbe next to you like who's the king with the helmet hello you
+46:5246 minutes, 52 secondshello yes come with me also I bring
+47:0147 minutes, 1 secondknowledge no mic so what's my job
+47:2447 minutes, 24 secondscome uh you can go away for now I'll call you
+47:3647 minutes, 36 secondsin a bit I just need to talk to him are you guys together uh no
+47:4347 minutes, 43 secondsokay um so what job did you want to do uh well I thought about doing farming
+47:5047 minutes, 50 secondsbut I didn't have my heart set on anything yeah we can do uh we can have you be a farmer just making sure you're
+47:5847 minutes, 58 secondsnot part of Any Nation though no I'm not part of Any Nation okay I didn't pick any groups
+48:0548 minutes, 5 secondsbefore going in I figured I'd you know find one when I got in yeah okay fair enough yeah um you can
+48:1348 minutes, 13 secondsgo ahead and join the farmers you can speak to Scarlet if you have any questions okay um and also in case you
+48:2048 minutes, 20 secondsguys didn't already know I came through uh what was it West something westm yeah West Helm I walked through
+48:2848 minutes, 28 secondsWest Helm and they figured out down there that if you take a half slab and put it on the bottom part of a water
+48:3548 minutes, 35 secondsblock uh you won't take damage from the water that's good so to know we can
+48:4248 minutes, 42 secondsright so you can put it in your farm so if you fall in the water you don't take damage and then that'll still keep the rivers open for trade and travel because
+48:5048 minutes, 50 secondsa boat can still float in that I think I'm not sure on that part but yeah yeah yeah yeah yeah I've been traveling
+48:5848 minutes, 58 secondsUp and Down the River to tell people that way they can implement it yeah we appreciate that of
+49:1149 minutes, 11 secondscourse um I think they're all the way on the north side of the island if you look in the the season 1 chat there's a map
+49:1849 minutes, 18 secondsthat has them on the North End no no no like all the way on the north side of the Island like by the
+49:2649 minutes, 26 secondsocean I think oh we got a
+49:3749 minutes, 37 secondshacker all right who's starting the the pro the project of replacing the entire bottom of the river with
+49:4449 minutes, 44 secondsslaps hello I was coming to tell you about that specifically but I guess it's already spread did you overhear my
+49:5149 minutes, 51 secondsconversation with the king I sure did as soon as I heard it I was like I got to try this he a That was supposed to be my big
+49:5849 minutes, 58 secondsreveal it was definitely him I will I will take no credit well to to be fair I walked through westelm and they had used it and
+50:0750 minutes, 7 secondsI was like oh so that works so I I traveled all the way up the river telling everybody that I saw oh I haven't done that one yet yeah yeah okay
+50:1550 minutes, 15 secondsI no that's one way to check do that to the water F and then maybe if feeling optimistic about it do
+50:2450 minutes, 24 secondsthe river more people to fall into it and burn sounds
+50:4350 minutes, 43 secondsgood does anyone have any spare Cobblestone that they can donate for the guard Tower I'm using my Cobblestone to plug
+50:5250 minutes, 52 secondsthe holes right now
+51:0251 minutes, 2 secondsis corrupt in I saw him just ago but he didn't respond to theity chat so I
+51:1151 minutes, 11 secondscheck all right if he manages to get in see if he can find him um have you found
+51:1951 minutes, 19 secondscup no I've been looking for he's in the Discord though if you
+51:2551 minutes, 25 secondswant to talk to him there okay
+51:5451 minutes, 54 secondsokay let's see where is they said Scarlet was
+52:0552 minutes, 5 secondsin charge of farming I accidentally I think they
+52:1252 minutes, 12 secondsfixed it already accidentally filled in one of the
+52:2052 minutes, 20 secondsholes it was over here where I did it yeah it
+52:2752 minutes, 27 secondswas hey do we have a bucket I got a bucket I accidentally
+52:3452 minutes, 34 secondsfilled in one of the holes over here thank
+52:4452 minutes, 44 secondsyou oh yeah these slaps do save
+52:5452 minutes, 54 secondsyou
+53:2453 minutes, 24 secondsI might turn the try to build stairs and stuff on paths that way you don't have to jump to
+53:3253 minutes, 32 secondsget
+53:4453 minutes, 44 secondsanywhere this seems like it would be an ideal location for a path to come
+53:5453 minutes, 54 secondsthrough
+54:0654 minutes, 6 secondsI hate that you can't make a path oh but you can a maybe that's a different thing they've changed too cuz at one point you
+54:1454 minutes, 14 secondscouldn't make paths unless it was grass grown there like you couldn't make a path on
+54:2454 minutes, 24 secondsdirt let's see what do I have room to make less stacks
+54:3054 minutes, 30 secondsof I guess I could like place a torch or
+54:5454 minutes, 54 secondssomething put that one there all
+55:1055 minutes, 10 secondsright I will go ahead and contribute my questionably legally acquired seeds
+55:1855 minutes, 18 secondsto uh this group's efforts because I
+55:2455 minutes, 24 secondshave just over two stacks
+55:3255 minutes, 32 secondsnow this place is growing man
+55:3955 minutes, 39 secondsyep I uh I have a lot of seeds if you guys want to make another area for me to put them down I think Nova might be a farm over behind the
+55:4855 minutes, 48 secondsF okay I'll go check it out
+56:0156 minutes, 1 secondwhat SC thank you so much man yeah what a nice this is a this is a cute little place this is lovely yeah I have some
+56:0956 minutes, 9 secondssnowballs if anyone
+56:2356 minutes, 23 secondswants nice would you like some snowballs as a peace offering yes thank you I'll make you're welcome are you making a
+56:3256 minutes, 32 secondsfarm over here I was told you might need some
+56:5356 minutes, 53 secondsseeds
+57:1057 minutes, 10 secondshow's that I might be able to fill up one more
+57:2357 minutes, 23 secondsplot
+57:4057 minutes, 40 secondsokay that's all the seeds I've got but that should get you a good
+57:5357 minutes, 53 secondsstart that
+58:2358 minutes, 23 secondsworks
+58:3458 minutes, 34 secondsoh wait is PVP on uh would you like to punch me to test it ow
+58:4458 minutes, 44 secondsit's I just saw that in chat get mess like as well make
+58:5358 minutes, 53 secondssure so they did announce that there was going to
+59:0259 minutes, 2 secondsbe PVP on at some point today and that they weren't going to announce it so that we were just going to have to find out the
+59:1059 minutes, 10 secondsuh the oldfashioned way I guess so it's quickly spreading through
+59:1659 minutes, 16 secondsthe island via chat that PVP is indeed now
+59:2359 minutes, 23 secondson
+59:4659 minutes, 46 secondsI have almost another half stack of wheat seeds I can take back over to the the new smaller Farm but it looks like they're building one up here as well I
+59:5459 minutes, 54 secondsthink I'll focus on this one for
+1:00:021 hour, 2 secondsnow are your farmer now
+1:00:221 hour, 22 secondshere to 36 wheat which is a good
+1:00:291 hour, 29 secondsamount actually I didn't even did I eat I must have eaten bread at some point because my uh hunger's
+1:00:371 hour, 37 secondsback up to full that or it's possible they just refilled everybody's hunger until
+1:00:461 hour, 46 secondsright before or right before they enabled PVP I don't know who knows I have not been paying attention though it's certainly a very different
+1:00:541 hour, 54 secondsstyle of playing also for now I'm going to keep
+1:01:071 hour, 1 minute, 7 secondsbuilding in this Farm area because it's uh won't have to go between the two Farm
+1:01:171 hour, 1 minute, 17 secondsareas a little more convenient why are you asking are you
+1:01:251 hour, 1 minute, 25 secondsinterested in joining uh I'm just looking around okay
+1:01:531 hour, 1 minute, 53 secondsluck
+1:02:231 hour, 2 minutes, 23 secondsB
+1:02:351 hour, 2 minutes, 35 secondsvery shaded under the trees over
+1:02:481 hour, 2 minutes, 48 secondshere it's one way to build up to a tree
+1:03:331 hour, 3 minutes, 33 secondsprobably should put like the group that I'm in in my stream title or something that or write it down so I can actually
+1:03:431 hour, 3 minutes, 43 secondsremember Starlin they have deep SL CH H let me look uh yeah actually I do
+1:03:511 hour, 3 minutes, 51 secondscobbled yeah that's fine holy oh my god um I spent the f I
+1:03:591 hour, 3 minutes, 59 secondsspent like I don't know the first day most of it U below the the lava level in a strip
+1:04:081 hour, 4 minutes, 8 secondsmine so I had a lot of it
+1:04:161 hour, 4 minutes, 16 secondsyep could Cobblestone by chance got cobone have a bit
+1:04:241 hour, 4 minutes, 24 secondsmuch do you
+1:04:381 hour, 4 minutes, 38 secondsneed the tree if you want string
+1:04:521 hour, 4 minutes, 52 secondsinteresting someone else died died to drowning in
+1:05:091 hour, 5 minutes, 9 secondsLa I think the biggest thing that I always forget about vanilla Minecraft is that
+1:05:171 hour, 5 minutes, 17 secondsin modded Minecraft like if there's a fully done crop I can walk up to it and right click on it and it will give me the product and auto replant it versus I
+1:05:261 hour, 5 minutes, 26 secondsmean it's it's one click versus two but it's such a nice quality of life feature that I miss for modded
+1:05:391 hour, 5 minutes, 39 secondsMinecraft think well I don't I don't know so I can't speak to it but I feel like it wouldn't be too hard to implement in
+1:05:471 hour, 5 minutes, 47 secondsvanilla without a any crazy mods cuz you can do a lot without without having to have
+1:05:541 hour, 5 minutes, 54 secondspeople download actual
+1:06:231 hour, 6 minutes, 23 secondsmods
+1:06:531 hour, 6 minutes, 53 secondsall I brought you all my seeds earlier and planted your two fields for
+1:07:221 hour, 7 minutes, 22 secondsyou
+1:07:461 hour, 7 minutes, 46 secondsall right well I filled up this area this Farm expansion is complete I'm going to see what they're
+1:07:541 hour, 7 minutes, 54 secondsdoing over here as far as expansion just around the path it looks
+1:08:001 hour, 8 minuteswhere are people getting coal from wonder if they're making it from well it's not charcoal so they're
+1:08:091 hour, 8 minutes, 9 secondsnot making it from
+1:08:191 hour, 8 minutes, 19 secondswood that covered um apparently not
+1:08:521 hour, 8 minutes, 52 secondsyeah
+1:09:111 hour, 9 minutes, 11 secondsthe SLS work oh yeah
+1:09:181 hour, 9 minutes, 18 secondsnice does that like the block into BL no idea but it works I'm
+1:09:261 hour, 9 minutes, 26 secondsstanding in it not burning to death like the person that just died
+1:09:451 hour, 9 minutes, 45 secondsdid more stairs in the field I keep accidentally landing on some of our
+1:09:521 hour, 9 minutes, 52 secondscrops
+1:10:021 hour, 10 minutes, 2 secondsred and I almost die to a
+1:10:221 hour, 10 minutes, 22 secondsskeleton
+1:10:521 hour, 10 minutes, 52 secondsthis are you getting anything good from
+1:11:011 hour, 11 minutes, 1 secondcomposting or is it just standard stuff just bone me this is as big as
+1:11:101 hour, 11 minutes, 10 secondsI'm any extra SE be like here um yeah there was another guy making a farm over
+1:11:171 hour, 11 minutes, 17 secondsbehind the farm house so I've been donating extra seeds to that for now till he gets up and running
+1:11:441 hour, 11 minutes, 44 secondsyeah you like that that technology that half slab technology
+1:11:521 hour, 11 minutes, 52 secondsyeah
+1:13:221 hour, 13 minutes, 22 secondsfor
+1:13:381 hour, 13 minutes, 38 secondsuh a cop oh yeah um
+1:13:501 hour, 13 minutes, 50 secondsthe tting table you found sugar or
+1:13:591 hour, 13 minutes, 59 secondspaper nope hey guys we're going to have a
+1:14:061 hour, 14 minutes, 6 secondsfuneral for someone that died yesterday if you guys want to follow me okay oh yeah forgot oh somebody punched me was
+1:14:151 hour, 14 minutes, 15 secondscorrupt oh PP is on now now find you PVP is on can you hear us can you
+1:14:251 hour, 14 minutes, 25 secondshear us hey the water Hurts by the way you got inst right push have someting let
+1:14:331 hour, 14 minutes, 33 secondsyou pick your mic and headphones make sure your mic is on first as well oh no put oh somebody died died there is so
+1:14:411 hour, 14 minutes, 41 secondsmany people dying to Lava one now probably
+1:14:481 hour, 14 minutes, 48 secondsmining no I don't have any extra deep slate
+1:14:571 hour, 14 minutes, 57 secondsall right um is everybody ready to come to the funeral I guess oh well
+1:15:041 hour, 15 minutes, 4 secondsyes with
+1:15:221 hour, 15 minutes, 22 secondsf
+1:15:331 hour, 15 minutes, 33 secondsif anyone down here is uh interested in attending the funeral for ninon who died yesterday just follow
+1:15:521 hour, 15 minutes, 52 secondsme
+1:16:091 hour, 16 minutes, 9 secondsferal funeral some died in the mines
+1:16:181 hour, 16 minutes, 18 secondsyesterday crazy to oh my goodness that is a good looking tomb out
+1:16:451 hour, 16 minutes, 45 secondsthere I'm on an episode of lost you might be
+1:17:071 hour, 17 minutes, 7 secondsif you ever uh need some wheat on Valley of wheat we're going to be setting up shop just over Over Yonder pretty soon
+1:17:131 hour, 17 minutes, 13 secondsso um probably soon we'll
+1:17:191 hour, 17 minutes, 19 secondshave awesome yeah I got you
+1:17:291 hour, 17 minutes, 29 secondsuh the funeral is starting now if you wanted to go King
+1:17:441 hour, 17 minutes, 44 secondsyeah maybe maybe not maybe he doesn't know where he's
+1:17:521 hour, 17 minutes, 52 secondsgoing I know he's he's a really chill dude and he you know he's really becoming a good friend and then like it really honestly
+1:18:001 hour, 18 minutesbroke my heart to see him uh to see him that he had passed
+1:18:081 hour, 18 minutes, 8 secondson this is St oh hello we're in we're in furnace hi welcome in furnace Welcome to
+1:18:151 hour, 18 minutes, 15 secondsour funeral hi we're having a funeral right now I'm soor I'm who are we paying respects to who
+1:18:241 hour, 18 minutes, 24 secondsare we paying respects to who are weon he the king yesterday in a mining
+1:18:311 hour, 18 minutes, 31 secondsaccident listen listen listen if I if I may if I may say a prayer if I may say a prayer like listen caps CS at least with
+1:18:401 hour, 18 minutes, 40 secondsthe you know from the flame we came from and from the flame to the flame we return okay I'm so sorry that this happened to you guys my deepest
+1:18:491 hour, 18 minutes, 49 secondscondolences um who okay sorry sorry sorry here's
+1:18:581 hour, 18 minutes, 58 secondsa does anyone else have any remarks that they would like to make some from us wait who who's the
+1:19:111 hour, 19 minutes, 11 secondspeople have you lost any other people or is it just so far it's just and I hope it stays that I I want I would like to
+1:19:201 hour, 19 minutes, 20 secondsmake some kind of I want to make some kind message for um Z
+1:19:321 hour, 19 minutes, 32 secondsnitron the queen don't want to give me some food
+1:19:431 hour, 19 minutes, 43 secondsH can we get a round of applause for zon yes all right
+1:19:531 hour, 19 minutes, 53 secondsno you don't mind we shall yeah we shall now send his soul up to the
+1:20:031 hour, 20 minutes, 3 secondsheavens fire spreads may he be in a formal may he be in in a formal plane
+1:20:111 hour, 20 minutes, 11 secondsflame in peace yeah thank you we
+1:20:211 hour, 20 minutes, 21 secondsall what we come from the flame return to the flame and when he crosses to the
+1:20:291 hour, 20 minutes, 29 secondsother side he will be embraced amen
+1:20:361 hour, 20 minutes, 36 secondsamen sorry I got cold feet earlier know Sor happens to the best of us may for don't know this
+1:20:461 hour, 20 minutes, 46 secondsanyone by the kingdom of Starin is a friend of ours okay INF ferace greatly
+1:20:531 hour, 20 minutes, 53 secondsyou know listen I say it all the time all heads fall before before infurnace all heads fall before the flame but our
+1:21:011 hour, 21 minutes, 1 secondheads fall to you you are our friends you are our sister nation and we greatly appreciate you and any member any member
+1:21:081 hour, 21 minutes, 8 secondsof Starin is a member of Inferno okay your people are our people and we are here to serve you as you have also
+1:21:161 hour, 21 minutes, 16 secondsserved us in your you know good relations and diplomacy we can if you
+1:21:251 hour, 21 minutes, 25 secondsthank you glory to the people of infer Glory
+1:21:321 hour, 21 minutes, 32 seconds[Music]
+1:21:341 hour, 21 minutes, 34 secondsGlory
+1:21:371 hour, 21 minutes, 37 seconds[Music]
+1:21:431 hour, 21 minutes, 43 secondsgloryland listen if I may just say a few words okay yes you can Island two Island two okay they have they have their Lush
+1:21:501 hour, 21 minutes, 50 secondsforests their abundant resources okay but for us a bunch of hugging
+1:21:581 hour, 21 minutes, 58 secondspries we may have bar fields and empty mountains okay but we have a fighting Spirit okay we loving people they don't
+1:22:081 hour, 22 minutes, 8 secondswant a challenge they're just given everything for free we came here for the challeng no challenge at all we came here because we know that there is
+1:22:151 hour, 22 minutes, 15 secondsnothing that we cannot conquer glory to Island one glory to glory glory to Island
+1:22:241 hour, 22 minutes, 24 seconds[Music]
+1:22:261 hour, 22 minutes, 26 secondslet's go let's go all right aie did you want to
+1:22:351 hour, 22 minutes, 35 secondshave yes all right good luck thank you than St thank you
+1:22:471 hour, 22 minutes, 47 secondsbye what I'm King
+1:23:111 hour, 23 minutes, 11 secondsalso talk to you
+1:23:211 hour, 23 minutes, 21 secondsum
+1:24:301 hour, 24 minutes, 30 secondswell that was eventful um interested to see how alliances and other things
+1:24:381 hour, 24 minutes, 38 secondsgo also I'm
+1:24:511 hour, 24 minutes, 51 secondsyes I'm thinking I might ask him if he wants
+1:25:011 hour, 25 minutes, 1 secondas like me as like a bodyguard or like an a knight or something I don't really see much military around here plus then
+1:25:091 hour, 25 minutes, 9 secondsI could listen to all the tea and the gossip and be a little bit more
+1:25:211 hour, 25 minutes, 21 secondsinvolved you want to talk globally do team
+1:25:281 hour, 25 minutes, 28 secondsmessage interesting I wonder I need to I need to
+1:25:361 hour, 25 minutes, 36 secondslearn all the the radiuses and commands and stuff I think if it has the poor tag in
+1:25:471 hour, 25 minutes, 47 secondsfront of it that means that it's islandwide and if it doesn't that means it's local you have more time actually I do have a
+1:25:561 hour, 25 minutes, 56 secondsgift for you come with me oh word okay let's if everyone just can step back so I can give it to
+1:26:061 hour, 26 minutes, 6 secondsher whoa oh my goodness as a welcome gift of course thank you thank you uh
+1:26:141 hour, 26 minutes, 14 secondsunfortunately I did not come very GI it's fine all the rest our yeah yeah yeah we're trying
+1:26:231 hour, 26 minutes, 23 secondsto we're Kingdom of fishes right now to be honest so but don't worry don't worry you know we don't
+1:26:341 hour, 26 minutes, 34 secondswant there's a West Ambassador right behind right here oh shoot hello yes that's me what's up okay
+1:26:431 hour, 26 minutes, 43 secondswhat's up good I wanted to say hi uh I I was wishing to visit you guys today I wanted to present the river trade deal
+1:26:511 hour, 26 minutes, 51 secondsbut uh the river is and but yes I just wanted to say hi to you guys say that West is nearby if you
+1:27:001 hour, 27 minutesneed anything we're here we consider gifting your stuff but we're still setting up shop and besides dirt and
+1:27:061 hour, 27 minutes, 6 secondsseeds we don't have much else to give so um yeah uh is the I I do have a question
+1:27:151 hour, 27 minutes, 15 secondsis the river yes of course is the river dangerous around here as well uh yeah yeah it is I was hoping because they're further
+1:27:241 hour, 27 minutes, 24 secondsaway from the from the volano
+1:27:311 hour, 27 minutes, 31 secondshey hey do you have six planks chance I have 12
+1:27:421 hour, 27 minutes, 42 secondsPLS I want to give this
+1:28:171 hour, 28 minutes, 17 secondswell this field has grown a lot
+1:28:241 hour, 28 minutes, 24 secondsseem to be an island of
+1:28:511 hour, 28 minutes, 51 secondswheat
+1:29:491 hour, 29 minutes, 49 secondsyou need more seeds still happy
+1:29:561 hour, 29 minutes, 56 seconds[Laughter]
+1:30:201 hour, 30 minutes, 20 secondsbirthday
+1:30:501 hour, 30 minutes, 50 secondsheck
+1:31:321 hour, 31 minutes, 32 secondsI see
+1:31:501 hour, 31 minutes, 50 secondsit
+1:32:211 hour, 32 minutes, 21 secondstwo and a half stacks of bread not bad not bad not
+1:32:301 hour, 32 minutes, 30 secondsbad um I feel like we should um mine in groups because I kind of feel safe since
+1:32:371 hour, 32 minutes, 37 secondsI know the mobs in the um mines
+1:32:451 hour, 32 minutes, 45 secondsguys talking yo what you guys call of a group yep you have a group or
+1:32:531 hour, 32 minutes, 53 secondsjoin us I'm just walking around I'm just seeing Oh I'm just I'm just walking around seeing what people yeah this is
+1:33:011 hour, 33 minutes, 1 secondStarin yeah how many people in your guys I don't have a headcount number
+1:33:081 hour, 33 minutes, 8 secondsno 2030 maybe 40 20 you guys trying to St the other group here now you guys trying to be
+1:33:171 hour, 33 minutes, 17 secondspeaceful uh peaceful as far as I can tell there's not much to fight for on this island you got to kind of got to band together to survive here to fight
+1:33:251 hour, 33 minutes, 25 secondsyou know mhm guys find diamonds ir and all that or I haven't been in the mines I've been
+1:33:321 hour, 33 minutes, 32 secondsfarming people had a little is that actual mines you just got to dig down you just got to dig down watch out for the
+1:33:401 hour, 33 minutes, 40 secondslava yeah I see a lot of people dying from that no I think they're dying to water oh yeah the water Burns you to
+1:33:491 hour, 33 minutes, 49 secondsdeath it's boiling the water get out I want to get out of here I want to go Island too I hate this
+1:33:571 hour, 33 minutes, 57 secondsisland well I don't know if you can do that with the water boiling find way you we can swim on
+1:34:051 hour, 34 minutes, 5 secondsboats to other Islands I thought you still burnt if you were in the boat do you not no I I I tried before and I
+1:34:131 hour, 34 minutes, 13 secondsdidn't burn oh nice
+1:34:231 hour, 34 minutes, 23 secondswe're talking about certain um right of course let me just go can I be part of you can I be part of you yeah we do only have 35 minutes until the server closes
+1:34:321 hour, 34 minutes, 32 secondsyeah yeah yeah yeah so we do need to get home at some point um we will get back to you on that we will uh we will discuss it as a counil of course and on
+1:34:401 hour, 34 minutes, 40 secondsthis I think I think I can I think we can all because I I got spoke with all the other it's basically the value of
+1:34:471 hour, 34 minutes, 47 secondswhe and the Blue Cross I also mentioned the deal with them as well if you want to tomorrow hold a meeting all of our Nations to sign the deal uh we could we
+1:34:561 hour, 34 minutes, 56 secondscould do this somewhere maybe in the middle right in the value of maybe maybe yeah it looks like you have places to go
+1:35:051 hour, 35 minutes, 5 secondsand we also have places I think that you should go to the valley of we check y should find it out we will when we get home because the server is closing in 35
+1:35:131 hour, 35 minutes, 13 secondsminutes so yeah okay character but we must go home and you guys have places to be
+1:35:251 hour, 35 minutes, 25 secondsknow you guys play fortnite yeah anyways let's go let's go let's go we got head back fornite thank
+1:35:321 hour, 35 minutes, 32 secondsyou again thank you again see you again one day all yeah what up guys what's the plan safe travels what's the plan what's
+1:35:391 hour, 35 minutes, 39 secondsthe plan thank you thank you thank you so yeah yes yeah I think that was most I just wanted to say hi and extend
+1:35:481 hour, 35 minutes, 48 secondswell West Helm's um I was going to say welcome but this doesn't make very a lot of sense since we settled at about the
+1:35:561 hour, 35 minutes, 56 secondssame time in the same region but yeah just say hi yes it's been a pleasure introductions and
+1:36:031 hour, 36 minutes, 3 secondsformalities oh yes indeed um okay I believe I have sent you the file for the de right for the yes you okay so yes if
+1:36:121 hour, 36 minutes, 12 secondsyou're up to it just give me I I know you're in your case I I did edit the file so because flattening the river
+1:36:191 hour, 36 minutes, 19 secondsaround here would be a nightmare I hadn't gone up here so I didn't know that yeah so I did edit the file so that
+1:36:271 hour, 36 minutes, 27 secondsit applies mostly to the other side of the river but yes if you want to join the ACT you're more than welcome uh West
+1:36:341 hour, 36 minutes, 34 secondshome is more than more than happy to have close eyes for every single River nation in this
+1:36:411 hour, 36 minutes, 41 secondsisland yeah cool I'll think about it yeah okay great thank you and I guess we will be going then thank you for reing
+1:36:491 hour, 36 minutes, 49 secondsus take care safe travels you thank you thank you for the
+1:37:201 hour, 37 minutes, 20 secondshonor
+1:37:371 hour, 37 minutes, 37 secondsfound diamonds at - 255 so that means they also went below the lava level like we were at the other day
+1:37:501 hour, 37 minutes, 50 secondsinteresting maybe we were just mad unlucky with our uh day one strip
+1:38:071 hour, 38 minutes, 7 secondsmine Pates
+1:38:191 hour, 38 minutes, 19 secondsobvious yeah I know I've been uh you know keeping them in mind we're going to be building a wall
+1:38:261 hour, 38 minutes, 26 secondsthough so yep no worries thank
+1:38:431 hour, 38 minutes, 43 secondsyou hello that was Dan that I was speaking
+1:38:491 hour, 38 minutes, 49 secondswith is the the department
+1:38:591 hour, 38 minutes, 59 secondsthat yeah care for it by the way I can hear myself through your
+1:39:061 hour, 39 minutes, 6 secondsmic do you uh what is the uh progress on any kind of a military or militia do we have
+1:39:161 hour, 39 minutes, 16 secondsany yeah we have the royal guard right now the captain is Starlight yeah what do they function primarily
+1:39:251 hour, 39 minutes, 25 secondsas sorry what do they like what is their primary function at the moment they're pretty much on Military
+1:39:321 hour, 39 minutes, 32 secondsthey right now they I think they're just helping around um you know with the farming and the building um but they
+1:39:401 hour, 39 minutes, 40 secondswill be pretty much making sure that no thieves come in and no Rogue players try to kill any of us pretty much I think
+1:39:491 hour, 39 minutes, 49 secondsI'd be interested in something like that too like just helping around generally and then probably joining up with the
+1:39:551 hour, 39 minutes, 55 secondsguard yeah I think uh we'll need more military um once we get everything running
+1:40:021 hour, 40 minutes, 2 secondssmoothly okay um and then there's a Discord right yeah um it's in the recruitment page yeah I'll go through and find it
+1:40:111 hour, 40 minutes, 11 secondsyeah I just heard about it so I'll go through and find it before tomorrow yeah no worries um yeah if you want to be a farmer for now and then
+1:40:201 hour, 40 minutes, 20 secondsjoin up with God later on that's that's fine sure sounds good to me all
+1:40:271 hour, 40 minutes, 27 secondsright good
+1:40:381 hour, 40 minutes, 38 secondsluck I already forgot what name he said was the lead of the guard for me to go talk
+1:40:491 hour, 40 minutes, 49 secondsto prob the Min if anything yeah I still
+1:41:001 hour, 41 minuteslike tined with so far and I just hopped on today I think whenever it says they like
+1:41:081 hour, 41 minutes, 8 secondsburned in lava it means the water surely right water oh the water you can't go in the
+1:41:151 hour, 41 minutes, 15 secondsyou can you'll just take fire damage right but you'll take fire damage
+1:41:231 hour, 41 minutes, 23 secondsmaybe then it is miners digging down into the lava you guys enjoy yeah yeah hold up hold
+1:41:311 hour, 41 minutes, 31 secondsup wait wait wait
+1:41:491 hour, 41 minutes, 49 secondsit
+1:42:191 hour, 42 minutes, 19 secondsinteresting very suspicious
+1:42:491 hour, 42 minutes, 49 secondsman he's now done a full
+1:42:581 hour, 42 minutes, 58 secondscircle we'll see if he comes back very suspicious
+1:43:191 hour, 43 minutes, 19 secondsindividual
+1:44:041 hour, 44 minutes, 4 secondsthis Farm is excellent by the way uh I'll say thanks to the rest of the team as
+1:44:111 hour, 44 minutes, 11 secondswell yeah it's I have 19 bread by the way so let
+1:44:201 hour, 44 minutes, 20 secondsme if anyone needs there's plenty of at least
+1:44:491 hour, 44 minutes, 49 secondsneed I haven't lost any hunger today
+1:45:101 hour, 45 minutes, 10 secondsinteresting Who's down river is this just Valley of Wheat and Blue Cross like right over
+1:45:191 hour, 45 minutes, 19 secondshere that looks like the Blue Cross building
+1:45:261 hour, 45 minutes, 26 secondswe were at earlier yeah this is it Valley of we
+1:45:381 hour, 45 minutes, 38 secondsBlue Cross so they're just hop skiping and jump away
+1:45:491 hour, 45 minutes, 49 secondsinteresting see now I'm losing hunger but only when
+1:45:591 hour, 45 minutes, 59 secondsI'm Sprint jumping which I can comfortably do now
+1:46:061 hour, 46 minutes, 6 secondscuz I have a stack and a half of bread at
+1:46:191 hour, 46 minutes, 19 secondsleast is your leg bothering
+1:46:311 hour, 46 minutes, 31 secondsyou yeah you're leg bothering you a little bit I'm sorry poor
+1:46:491 hour, 46 minutes, 49 secondsgirly my inventory is full I'm not even
+1:47:021 hour, 47 minutes, 2 secondspicking up the Wheats to decorate the inside of the farm Shack would make it a little more
+1:47:111 hour, 47 minutes, 11 secondshomey yeah make it look more like a farming you know I wanted to mention it to someone
+1:47:211 hour, 47 minutes, 21 secondslet me get the we back
+1:47:341 hour, 47 minutes, 34 secondshere oh that's not
+1:47:441 hour, 47 minutes, 44 secondsideal I have no idea but I mean you can just break this hey Nova do you know if it'll will break the infinity pool if we
+1:47:511 hour, 47 minutes, 51 secondsput like that uh I just accidentally stepped in it is
+1:47:591 hour, 47 minutes, 59 secondswhy wait try taking from the corner uh oh so you could just break a
+1:48:051 hour, 48 minutes, 5 secondsslab and then oh that's not ideal it's fine yeah
+1:48:131 hour, 48 minutes, 13 secondsjust you could just break a slab whenever you need water
+1:48:221 hour, 48 minutes, 22 seconds[Music]
+1:48:251 hour, 48 minutes, 25 secondsum yeah sorry you're super quiet uh I don't know apparently someone's saying the lava is
+1:48:371 hour, 48 minutes, 37 secondsrising I'm just saying it's in the chat is there any way that uh we could
+1:48:461 hour, 48 minutes, 46 secondsget some food yeah I can give you guys some food where yall from Elum Elum and Bre media yeah the news
+1:48:561 hour, 48 minutes, 56 secondsguys news who needs
+1:49:031 hour, 49 minutes, 3 secondsfood than anybody else need food I
+1:49:101 hour, 49 minutes, 10 secondsuse some fell up a ladder anybody
+1:49:171 hour, 49 minutes, 17 secondselse thank you so much of course best of luck um way where is this what nation is this Starland okay all right
+1:49:261 hour, 49 minutes, 26 secondsthank you of course you know which way to infer I do not Alie behind you might
+1:49:331 hour, 49 minutes, 33 secondsknow he's our our King is right behind you very nice going this all right yeah
+1:49:441 hour, 49 minutes, 44 secondsit should be that way all right thank you thank you pretty place
+1:49:511 hour, 49 minutes, 51 secondsyeah D they were nice
+1:50:031 hour, 50 minutes, 3 secondsenough I didn't need them so I don't know well they said they were Allied and uh I gave them a little bit of bread they said they were going to the some
+1:50:111 hour, 50 minutes, 11 secondsother Nation are they part of inferus or another group uh no I don't think they said they
+1:50:201 hour, 50 minutes, 20 secondswere in furnace that's where they're headed right yeah yeah they said they were part of someone else hold on let me look and see if I can remember the nation
+1:50:411 hour, 50 minutes, 41 secondsname I think they said never more or no no it was elisium one of the
+1:50:481 hour, 50 minutes, 48 secondstwo okay I think uh sin the queen of inferus was in Nevermore earlier
+1:50:581 hour, 50 minutes, 58 secondsso yeah either way they were headed to the volcano to see INF ferace cuz I guess there's a group that's uh popped up around the
+1:51:061 hour, 51 minutes, 6 secondsvolcano yeah um one of uh the farmers told me there's like a malicious group kind of thing going on near the
+1:51:151 hour, 51 minutes, 15 secondsvolcano wonder if that's them then cuz yeah they said they were going to the volcano to see a group named INF ferace so that might be
+1:51:231 hour, 51 minutes, 23 secondsthem uh no INF ferace is our Ally oh so there's a smaller group a potential
+1:51:291 hour, 51 minutes, 29 secondssmaller group ah okay let's keep an eye out for them then
+1:51:401 hour, 51 minutes, 40 secondsyeah I need to save this picture before I lose
+1:51:481 hour, 51 minutes, 48 secondsit
+1:52:021 hour, 52 minutes, 2 secondsto yoink this
+1:52:181 hour, 52 minutes, 18 secondspicture
+1:52:301 hour, 52 minutes, 30 secondsall right so we've got about 18 minutes till everything shuts down again for the day
+1:52:391 hour, 52 minutes, 39 secondsthen I need to go this is not the valley of wheat this is not the
+1:52:481 hour, 52 minutes, 48 secondsCovenant we bu the thing yeah I kind
+1:52:581 hour, 52 minutes, 58 secondsof excuse me I thought there was no space
+1:53:181 hour, 53 minutes, 18 secondsthat
+1:53:401 hour, 53 minutes, 40 secondsyou still need seeds Nova
+1:53:471 hour, 53 minutes, 47 secondsokay wanted to make sure before I Mol all
+1:53:561 hour, 53 minutes, 56 secondsthese composting whatever you call it I just have stacks of
+1:54:141 hour, 54 minutes, 14 secondsseeds going it yep I got stacks yeah put
+1:54:231 hour, 54 minutes, 23 secondssome yeah we need more we need to actually wait this you talking about for the seeds or for the bone meal seeds
+1:54:301 hour, 54 minutes, 30 secondsOkay yeah I'll go through what I have there yeah just do whatever
+1:54:431 hour, 54 minutes, 43 secondsman sure
+1:54:541 hour, 54 minutes, 54 secondsI'll put that many don't have any excess wheat I will
+1:55:031 hour, 55 minutes, 3 secondskeep my bread on me for now seems to be good for doing out when people need everybody wants to
+1:55:121 hour, 55 minutes, 12 secondsbe The Bread Guy
+1:55:311 hour, 55 minutes, 31 secondsdo you know why leaves are not Decay I would assume that's just something that
+1:55:381 hour, 55 minutes, 38 secondshappens I would assume it's intentional honestly it might help
+1:55:461 hour, 55 minutes, 46 secondsthings just run smoother oh yeah because Decay is another thing
+1:55:531 hour, 55 minutes, 53 secondsthat has to be calculated every tick oh
+1:56:041 hour, 56 minutes, 4 secondswait I got speaking of seeds uh we should probably start getting someone on the
+1:56:141 hour, 56 minutes, 14 secondsbone also just keep a large stock of seeds just in case those two are
+1:56:401 hour, 56 minutes, 40 secondsfull is so quick and easy to get seeds when you got to field the Fig it's
+1:56:481 hour, 56 minutes, 48 secondscrazy
+1:57:131 hour, 57 minutes, 13 secondsTower Norwest fi tower all right yeah
+1:57:221 hour, 57 minutes, 22 secondskind of yeah wait wait wait wait wait I got a question what's up where the hell do you
+1:57:311 hour, 57 minutes, 31 secondsguys get material to build all that uh we don't know the only we have to build
+1:57:381 hour, 57 minutes, 38 secondsstas blocks and then wood so you just Farm it yourself or you get from the
+1:57:451 hour, 57 minutes, 45 secondschest I'm pretty sure the miners are on that I'll be honest for what what are you talking about
+1:57:551 hour, 57 minutes, 55 secondsspecifically oh I mean that's all Stone and deep slate that's all stuff from underground they just turn the Deep slate into bricks and then smelted the
+1:58:021 hour, 58 minutes, 2 secondsstone into smooth Stone that's that's all bricks and stone that's all very easy stuff to
+1:58:131 hour, 58 minutes, 13 secondsget well I think all of the community materials are going towards the guard Tower so you probably have to go mining
+1:58:211 hour, 58 minutes, 21 secondsif you want your own luckily there's a Giant Mountain right there and also a mine shaft
+1:58:281 hour, 58 minutes, 28 secondssomewhere around true wait isn't that that's not volano right what no it's not the volcano
+1:58:381 hour, 58 minutes, 38 secondsvolcano's over there I think I don't
+1:58:451 hour, 58 minutes, 45 secondsremember couldn't tell you
+1:59:051 hour, 59 minutes, 5 secondsapparently we have an overabundance of
+1:59:181 hour, 59 minutes, 18 secondscopper
+1:59:471 hour, 59 minutes, 47 secondswhato yo did they found the witch they found the witch that was down here they did find it did they find one they said there was
+1:59:561 hour, 59 minutes, 56 secondsone down here uh I think they said it was in the Attic or something of a building but I have no idea if it's killed or
+2:00:032 hours, 3 secondsnot something there was a space for it to
+2:00:142 hours, 14 secondsspawn they might have killed it already though
+2:00:252 hours, 25 secondsSt think I can make into that water there nope wait are you the guy that's
+2:00:332 hours, 33 secondsleading the guards yes H I talked to the king about joining up um I was going to spend the rest of today as a farmer and
+2:00:412 hours, 41 secondsthen join up with the guard tomorrow okay yeah um it would probably be better to do that at the end of today because
+2:00:492 hours, 49 secondstomorrow I'm going to be at work so oh well then um right now because we have 10 minutes
+2:00:562 hours, 56 secondsleft oh shoot um yeah so down there you can see where I've started building the guard Tower
+2:01:052 hours, 1 minute, 5 secondsyeah yeah yeah yeah Su stinky no you it looks a lot a
+2:01:122 hours, 1 minute, 12 secondslot cooler with my uh schematic on it my hologram yeah the finished product to
+2:01:192 hours, 1 minute, 19 secondslook better as usual yeah yeah um yeah if you want to join have Alie give you the royal guard and then I'll add you to
+2:01:272 hours, 1 minute, 27 secondsmy squad and say again so I have Alie give you the royal guard rooll okay I'll add
+2:01:352 hours, 1 minute, 35 secondsyou to my squad which is honor Squad okay and I'll have a temporary squad leader
+2:01:432 hours, 1 minute, 43 secondstomorrow while I'm out and the main Commander will be Sergeant corrupt who
+2:01:502 hours, 1 minute, 50 secondsis somewhere around here sounds good he is still in the mines he's in the mines over there cool
+2:02:002 hours, 2 minutesthank you what's your Discord tag uh it'll be the same as my in-game name I haven't joined the Discord yet though I haven't gone to find
+2:02:102 hours, 2 minutes, 10 secondsit all right yeah just do that today then um I'll be on my phone at least like watching the Discord
+2:02:172 hours, 2 minutes, 17 secondsprobably on my break tomorrow but and then I'm thinking I'm going to have a training session on Wednesday we had one a couple days ago too but it's
+2:02:272 hours, 2 minutes, 27 secondslike drill training and stuff where we practice like bodyguard drills and stuff yeah yeah yeah all right I just
+2:02:352 hours, 2 minutes, 35 secondsjumped
+2:02:472 hours, 2 minutes, 47 secondsin
+2:03:042 hours, 3 minutes, 4 secondsoh nice hello father hello son how are you
+2:03:132 hours, 3 minutes, 13 secondshow is life buddy also I'm not stinky you're stinky
+2:03:292 hours, 3 minutes, 29 secondsright I need to go find banana but I added you to this floor so if you look through the pin comment or yeah yeah yeah I'll I'll take care of all that
+2:03:372 hours, 3 minutes, 37 secondstoday sounds good all right yeah thank you thank you glad to have you of
+2:03:472 hours, 3 minutes, 47 secondscourse I am well how is you I'm doing all right
+2:03:562 hours, 3 minutes, 56 secondswas a Monday but a sleepy Monday for me but it is all right I had a very restful
+2:04:052 hours, 4 minutes, 5 secondsweekend because we do our um all our family Thanksgiving stuff we do the weekend before Thanksgiving so
+2:04:122 hours, 4 minutes, 12 secondsThanksgiving is a four or five day break basically because I don't you know I don't do anything on Thanksgiving Day or
+2:04:202 hours, 4 minutes, 20 secondsthe weekend after so it's basically like a miniature vacation uh and as far as are you
+2:04:262 hours, 4 minutes, 26 secondswinning um I would certainly say yes because I'm still alive you only get
+2:04:352 hours, 4 minutes, 35 secondsone life in this um experiment thingy they're doing I don't even know if they call it an experiment civilization
+2:04:422 hours, 4 minutes, 42 secondsevent um so I'm still live on day two going in into day three tomorrow so I would say
+2:04:522 hours, 4 minutes, 52 secondsthat counts as a win for sure pretty exhausted from
+2:04:592 hours, 4 minutes, 59 secondsThanksgiving um so this is yeah it's it's basically hardcore um it's it's a
+2:05:062 hours, 5 minutes, 6 secondsone week long thing it's 7 days straight um from 5: to 7:00 p.m. um I had to apply and make like a
+2:05:162 hours, 5 minutes, 16 secondslike application video explaining why and what I would do when I was in why they should let me in etc
+2:05:232 hours, 5 minutes, 23 secondsetc um if you die due to like a glitch or like you're spawning in
+2:05:312 hours, 5 minutes, 31 secondsand you get spawned in underground or something they'll um let you back
+2:05:402 hours, 5 minutes, 40 secondsonello but if you die to like PVP or falling or not being careful then you
+2:05:482 hours, 5 minutes, 48 secondsyou're you're out for the duration of the event um it's uh it's a cool little concept it's the first time
+2:05:552 hours, 5 minutes, 55 secondsI've done something similar to this I'm enjoying it so far um it's been really cool I just
+2:06:042 hours, 6 minutes, 4 secondsjoined up with this group today I spent yesterday wandering doing a little bit of stealing um so I'm wondering if
+2:06:122 hours, 6 minutes, 12 secondsthat's going to come back to haunt me if uh I'm going to get in trouble for that one I need to figure where our miners
+2:06:192 hours, 6 minutes, 19 secondsare and see if I can give them some pickaxes CU I don't need all these extra pickaxes
+2:06:272 hours, 6 minutes, 27 secondsstealing yes it's um I mean I'm I'm I'm I'm playing a
+2:06:342 hours, 6 minutes, 34 secondscharacter right I'm not being myself I wouldn't especially like this island is super
+2:06:412 hours, 6 minutes, 41 secondsBarren um do have seeds should compost uh I was told to save up some try to get a double stack of seeds and
+2:06:502 hours, 6 minutes, 50 secondsthen compost after extra seeds in case you know gets
+2:06:582 hours, 6 minutes, 58 secondsburnt down or something happens
+2:07:062 hours, 7 minutes, 6 secondscompost guys my my dear Farmers tomorrow I'm G to try and have a little villain for us
+2:07:142 hours, 7 minutes, 14 secondsso we can meet community yes I'll start my Farmer
+2:07:292 hours, 7 minutes, 29 secondsSyndicate this is painful one stack at a time I know this is making someone somewhere mad that I'm
+2:07:382 hours, 7 minutes, 38 secondsdoing it this way ish said so there's good news and there's bad
+2:07:472 hours, 7 minutes, 47 secondsnews good news we are extending the time by 15 minutes what's the bad
+2:08:032 hours, 8 minutes, 3 secondsnews bad news the Sun is going down for the first time soon
+2:08:112 hours, 8 minutes, 11 secondsoh the sun will be setting the sun will be setting the Vampires Will Come
+2:08:192 hours, 8 minutes, 19 secondsthe sun will be setting the sun will be setting sun will be
+2:08:462 hours, 8 minutes, 46 seconds[Music]
+2:08:472 hours, 8 minutes, 47 secondssetting y the Sun is setting the Sun is
+2:08:572 hours, 8 minutes, 57 secondssetting is setting the sun will be setting it
+2:09:062 hours, 9 minutes, 6 secondsis do any of you guys need food or you guys all good
+2:09:172 hours, 9 minutes, 17 secondsokay house oh yeah my okay let me catch up on
+2:09:252 hours, 9 minutes, 25 secondschat good night approaches we need to light everything yep good I'm glad it was painful for you
+2:09:342 hours, 9 minutes, 34 secondsto watch that's why I was doing it I knew it was going to be painful for someone somewhere
+2:09:432 hours, 9 minutes, 43 secondsum does this game follow Minecraft time or IRL time so for day one for the
+2:09:512 hours, 9 minutes, 51 secondsentirety of the day PVP was off meaning you couldn't Punch or hit other players
+2:09:572 hours, 9 minutes, 57 secondsum probably 15 to 30 minutes into today day two they turned PVP on
+2:10:072 hours, 10 minutes, 7 secondsum so far nobody has killed anybody else um it has all been dying to fall damage or lava or
+2:10:172 hours, 10 minutes, 17 secondsMonsters um but they also kept it day for the
+2:10:252 hours, 10 minutes, 25 secondsentirety of yesterday they kept it daytime um and today it's been daytime the whole time as well but they just put
+2:10:322 hours, 10 minutes, 32 secondsout an announcement now saying that the Sun is setting and it will be nighttime soon and as you can see the sun is no longer directly
+2:10:402 hours, 10 minutes, 40 secondsoverhead um so it will be dark soon
+2:10:462 hours, 10 minutes, 46 secondsTM how many people are in this Sim uh right now there are 943
+2:10:522 hours, 10 minutes, 52 secondsplayers we started with 1,000 yesterday um a handful have died
+2:11:002 hours, 11 minutesalready like I said it's uh two hours a day it's a set time limit
+2:11:082 hours, 11 minutes, 8 secondswhen people can be on yeah yesterday we hit 1,000 players like we hit the 1,000 player cap it was
+2:11:162 hours, 11 minutes, 16 secondsit's crazy big um the uh if you do exclamation point is
+2:11:242 hours, 11 minutes, 24 secondsis it'll link you to his YouTube channel and he's the one that hosts these things um and you can go see what he's done
+2:11:332 hours, 11 minutes, 33 secondsvideo wise for other events cuz this isn't this is you he's done several of these
+2:11:402 hours, 11 minutes, 40 seconds[Music]
+2:11:422 hours, 11 minutes, 42 secondsum experiment things already with a thousand players and they're like he makes like hourong videos over
+2:11:532 hours, 11 minutes, 53 secondsthem so it's it's really cool it's a cool little concept another stack of bread all right
+2:12:032 hours, 12 minutes, 3 secondsI am breaded up breaded
+2:12:132 hours, 12 minutes, 13 secondsup and also I'm going to be making a video um you can see in the top left corner it says recording I'm recording
+2:12:202 hours, 12 minutes, 20 secondsvia the replay mod so that I can have both the uh the stream recorded POV and
+2:12:262 hours, 12 minutes, 26 secondsthe um the in-game POV if you've ever watched a Minecraft video where like
+2:12:332 hours, 12 minutes, 33 secondsbasically they have free cam um it was using the replay mod pretty much
+2:12:472 hours, 12 minutes, 47 secondsguaranteed uh
+2:12:542 hours, 12 minutes, 54 secondsuh uh
+2:13:042 hours, 13 minutes, 4 secondsuh what did you do I've got blocks I'll block it off solv solv what did you
+2:13:122 hours, 13 minutes, 12 secondsdo solv what did you do if Soul Liv's hiding in a
+2:13:252 hours, 13 minutes, 25 secondshouse
+2:13:322 hours, 13 minutes, 32 seconds[Music]
+2:13:402 hours, 13 minutes, 40 secondsseconds it's just soul of making the
+2:13:432 hours, 13 minutes, 43 seconds[Laughter]
+2:13:462 hours, 13 minutes, 46 secondsnoise I think other guys like the hous I don't anywhere
+2:13:562 hours, 13 minutes, 56 secondsstand I was in the middle of building my house I got yeah
+2:14:112 hours, 14 minutes, 11 secondsapparently yes
+2:14:252 hours, 14 minutes, 25 secondsoh what's that water oh okay it's pretty decent so
+2:14:362 hours, 14 minutes, 36 secondsfar I'm assuming some hostile will spawn
+2:14:462 hours, 14 minutes, 46 secondsbe oh two skeletons in the distance right they're
+2:14:572 hours, 14 minutes, 57 secondsready there's another big house full of people in that direction as
+2:15:112 hours, 15 minutes, 11 secondswell the hell's going on here did you hear the horn yes why you on the building there
+2:15:222 hours, 15 minutes, 22 secondshiding FW just blew
+2:15:312 hours, 15 minutes, 31 secondsa yeah I know I feel like we're all so worried for
+2:15:382 hours, 15 minutes, 38 secondsnothing I placed a few torches but I feel like tomorrow we definitely need to light this place up more and
+2:15:462 hours, 15 minutes, 46 secondslike a good decent area I have
+2:15:562 hours, 15 minutes, 56 secondsa anyone have a furnace do I have a face cam so that your May H Macy girl when I redeem I do but it's not plugged in right now I don't use it very
+2:16:062 hours, 16 minutes, 6 secondsoften must go now father but have fun all righty feel better get some
+2:16:132 hours, 16 minutes, 13 secondsrest I will pit Macy for you even though you didn't do a redeem thanks for stopping
+2:16:222 hours, 16 minutes, 22 seconds[Music]
+2:16:282 hours, 16 minutes, 28 secondsby I think we did a pretty good job lighting up the place I don't see any mobs yet I'm still out
+2:16:442 hours, 16 minutes, 44 secondshere reference to last season don't worry about it my reference to season two I I think I
+2:16:532 hours, 16 minutes, 53 secondswatch that is that I want to sound but that's acre all right yes the AC ire minor question is anyone going out to
+2:17:012 hours, 17 minutes, 1 secondget resources from moms and stuff like string arrows bow I have no ability to
+2:17:082 hours, 17 minutes, 8 secondsdo that how long does the EV the first
+2:17:152 hours, 17 minutes, 15 secondsbread if you guys need food D help me we should be good gotcha I wouldn't mind
+2:17:232 hours, 17 minutes, 23 secondssome string if we can so then we can make see any mobs are you are we out here killing
+2:17:322 hours, 17 minutes, 32 secondsthem for resources yo I just got music D oh
+2:17:462 hours, 17 minutes, 46 secondshey
+2:18:012 hours, 18 minutes, 1 secondzombies
+2:18:122 hours, 18 minutes, 12 secondsokay oh that TPS is rough
+2:18:242 hours, 18 minutes, 24 secondsthere's just zombies out here so far from this direction there's
+2:18:352 hours, 18 minutes, 35 secondszombies where are all these who built those there's a
+2:18:462 hours, 18 minutes, 46 secondslittle
+2:18:592 hours, 18 minutes, 59 secondsanything outside of our civilization is
+2:19:082 hours, 19 minutes, 8 secondsanarchy what it's a farm I assume
+2:19:192 hours, 19 minutes, 19 secondsthis is I think Valley of wheat no wait we're not near the river rattle them
+2:19:312 hours, 19 minutes, 31 secondsboys nice bones for bone meal so there's no
+2:19:442 hours, 19 minutes, 44 secondscreepers got to make a m Farm we got to make a m Farm yeah I think that's a
+2:19:512 hours, 19 minutes, 51 secondsthing we should do tomorrow
+2:19:572 hours, 19 minutes, 57 secondshello seen any mobs around directly
+2:20:162 hours, 20 minutes, 16 secondsthat nice team uh he dropped an
+2:20:242 hours, 20 minutes, 24 secondsarrow what I'm going to go back and tell the news yeah this is good information to
+2:20:312 hours, 20 minutes, 31 secondshave a mob farm would probably be
+2:20:462 hours, 20 minutes, 46 secondsgood
+2:20:562 hours, 20 minutes, 56 secondsoh yeah this is temporary I um my my castle all the way over there we bring
+2:21:032 hours, 21 minutes, 3 secondsnews we should make a mob farm quickly because the mobs Dr um skeletons drop
+2:21:102 hours, 21 minutes, 10 secondsgunpowder yeah' yeah we got we got gunpowder from a skeleton okay that's pretty good
+2:21:192 hours, 21 minutes, 19 secondsthen I don't want that just put it in here we found four
+2:21:252 hours, 21 minutes, 25 secondsearlier yeah so apparently it drops from they have modified drops
+2:21:342 hours, 21 minutes, 34 secondsokay I don't have anything for that there's no we got some from a witch
+2:21:432 hours, 21 minutes, 43 secondsas well witch I know witches can drop yes do you want drip
+2:21:532 hours, 21 minutes, 53 secondsStone it's turning day we can already it's turning day
+2:22:022 hours, 22 minutes, 2 secondsis out few minutes left
+2:22:132 hours, 22 minutes, 13 secondsuntil idea minutes Ione take a picture um a group of the sunrise oh yeah everyone come everyone
+2:22:222 hours, 22 minutes, 22 secondstake a good picture picture get everyone everyone everyone get over here
+2:22:292 hours, 22 minutes, 29 secondsfor good picture good picture everyone everyone hold everyone get in here for group
+2:22:372 hours, 22 minutes, 37 secondspicture huh please take a group picture
+2:22:452 hours, 22 minutes, 45 secondsplease yo you got got a diamond to spare no damn it I got a music disc I'm
+2:22:522 hours, 22 minutes, 52 secondstrying to get auk yeah I
+2:23:022 hours, 23 minutes, 2 secondshave no that's crazy where is
+2:23:112 hours, 23 minutes, 11 secondseveryone not here was this like a meeting ping everyone we're taking a
+2:23:262 hours, 23 minutes, 26 secondspicture would you like to people yeah yeah can I join the group
+2:23:342 hours, 23 minutes, 34 secondsphoto welcome back yeah I don't know who made all the
+2:23:412 hours, 23 minutes, 41 secondsuh there's an Among Us yeah there's an Among
+2:23:502 hours, 23 minutes, 50 secondsUs server's about to turn off like any second two
+2:24:162 hours, 24 minutes, 16 secondsminutes they're
+2:24:322 hours, 24 minutes, 32 secondscominging everyone get behind me oh okay spread out a
+2:24:442 hours, 24 minutes, 44 secondsbit going all right all good you
+2:24:532 hours, 24 minutes, 53 secondsdid yeah I think some people missed the photo oh no oh round two round two round two everybody go
+2:25:022 hours, 25 minutes, 2 secondsback just like family gatherings in
+2:25:142 hours, 25 minutes, 14 secondsthe I'm hoping this time we actually got okay good yeah conratulations
+2:25:252 hours, 25 minutes, 25 secondsyeah I I'm to send me that picture so I use it I'll put it I'll
+2:25:392 hours, 25 minutes, 39 secondsput need to ditch a lot of these materials
+2:25:572 hours, 25 minutes, 57 secondsdo we have a spot for just general blocks oh here we go uh I've got Cobble I've got gravel
+2:26:052 hours, 26 minutes, 5 secondsI've got diorite I'm just looking to drop stuff off to clear my inventory yeah
+2:26:142 hours, 26 minutes, 14 secondseverywhere oh need all B uh
+2:26:222 hours, 26 minutes, 22 secondsCobble there's deep slate gravel
+2:26:332 hours, 26 minutes, 33 secondssomewhere yeah Miss no Miss building
+2:26:412 hours, 26 minutes, 41 secondshere throw that in there mob drops
+2:26:482 hours, 26 minutes, 48 secondsanywhere there we go what about copper do we where should
+2:27:002 hours, 27 minutesI take copper Orion ingots here yeah I have no use for
+2:27:092 hours, 27 minutes, 9 secondscopper still no I know people are making tree farms
+2:27:172 hours, 27 minutes, 17 secondsbut most people are turning the woods directly into houses after oh is that the first
+2:27:262 hours, 27 minutes, 26 secondskill it yeah that might be first Blood First Blood
+2:27:372 hours, 27 minutes, 37 secondsBaby First Blood on the end of day two skow that
+2:27:442 hours, 27 minutes, 44 secondsis I don't know who ramsy is so ramai I don't know
+2:27:532 hours, 27 minutes, 53 secondscross I need to find banan banan banan I need to talk to
+2:28:012 hours, 28 minutes, 1 secondyou um can I make you a temporary squad leater for tomorrow since I have work
+2:28:122 hours, 28 minutes, 12 secondstomorrow so banan uh can you uh be the squad leader of honor Squad tomorrow while I'm at work I
+2:28:202 hours, 28 minutes, 20 secondsable to make it thank you and it should be pinned who's a met squ in the
+2:28:282 hours, 28 minutes, 28 secondschat I'll make sure everything to thank you and I'll have more instructions for everybody
+2:28:372 hours, 28 minutes, 37 secondstomorrow okay likely by the time the event starts and be in Discord breaks anyway
+2:28:452 hours, 28 minutes, 45 secondsthank you I need to go no
+2:29:062 hours, 29 minutes, 6 secondswor that went away a long time ago what does that mean no idea what they're referring to
+2:29:162 hours, 29 minutes, 16 secondsthere took
+2:29:262 hours, 29 minutes, 26 secondsfurnaces oh they're in the chest yeah they're all in that
+2:29:422 hours, 29 minutes, 42 secondschest do I want to log out at not near the water that's where seconds I can do it yeah I don't want to log out near the water I'm
+2:29:532 hours, 29 minutes, 53 secondsscared I I can deposit this I getting to a house just to be sure yep yep I can deposit
+2:30:032 hours, 30 minutes, 3 secondsthis all right wheat deposited red deposited uh also I have a music disc oo which one very fancy H
+2:30:122 hours, 30 minutes, 12 secondsStall oh of course oh use that what to get diamond we get
+2:30:212 hours, 30 minutes, 21 secondsboth and that's the end of day
+2:30:342 hours, 30 minutes, 34 secondstwo see Rose is live I think we're going to
+2:30:422 hours, 30 minutes, 42 secondsdo a little cheeky little raid on Rose
+2:30:522 hours, 30 minutes, 52 seconds[Music]
+2:31:012 hours, 31 minutes, 1 secondmake sure I spelled this name right all righty guys thank you for
+2:31:102 hours, 31 minutes, 10 secondshanging out today uh day two that was pretty that's
+2:31:192 hours, 31 minutes, 19 secondshow you English that's how I would summarize the day that was uh certainly day two all right I'm going to send you
+2:31:272 hours, 31 minutes, 27 secondsguys on over to Rose um thank you guys for watching hanging out if you're new uh feel free to drop a follow like I
+2:31:342 hours, 31 minutes, 34 secondssaid I'll be live every day this week doing this content um until I die or the event ends hopefully I make it to the
+2:31:422 hours, 31 minutes, 42 secondsend of the event but with how they've shaken things up prior who knows knows who knows um but
+2:31:512 hours, 31 minutes, 51 secondsyeah I will see you guys next time I guess I should start the raid that would be a
+2:31:582 hours, 31 minutes, 58 secondsgood start but uh yeah thank you guys for
+2:32:032 hours, 32 minutes, 3 secondshanging out and I will see you all next
+2:32:102 hours, 32 minutes, 10 secondstime bye-bye
