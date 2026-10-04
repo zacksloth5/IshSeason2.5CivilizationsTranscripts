@@ -1,0 +1,1122 @@
+Chapter 1: Map and shader setup
+0:5757 secondsall right
+1:081 minute, 8 secondsgoing to be planting some
+1:281 minute, 28 secondsbuilds
+1:581 minute, 58 secondsokay
+2:092 minutes, 9 secondsI'm going to test some uh some shaders
+2:172 minutes, 17 secondsuh why can't I get to shaders whoa wait
+2:282 minutes, 28 secondswhat
+2:402 minutes, 40 secondsinteresting we'll uh we'll restart
+2:502 minutes, 50 secondsthat hello please work LV mod
+2:582 minutes, 58 secondsupdator
+3:243 minutes, 24 secondsokay actually this is a really good map before we start
+3:403 minutes, 40 secondsnow what is this area why why is there
+3:483 minutes, 48 secondsa oh Mafia plus Citadel okay so we're like around the mafia
+3:553 minutes, 55 secondsthey're in between us and Valley of wheat I realized they were so
+4:094 minutes, 9 secondsclose coastal defense array interesting I like that the uh the
+4:184 minutes, 18 secondscenter island has been has not been claimed I think because it would start a
+4:284 minutes, 28 secondswar haven't even heard of some of these heard the nation of
+4:364 minutes, 36 secondsnun Blue Cross obviously AEL I think I've heard of them but I
+4:454 minutes, 45 secondsthey're not a big factor Observatory I they've been here a while but I never heard about anything I of cow they have
+4:524 minutes, 52 secondsa cow or they have a a mushroom alarna alarna I don't know how how
+4:594 minutes, 59 secondsthey're pronouncing it Icarus I have no acis is bordering us
+5:095 minutes, 9 secondsand I have no idea what their deal is
+5:255 minutes, 25 secondsnone I'm going to I'm just going to run the lobby mod installer
+Chapter 2: Building and environment prep
+6:066 minutes, 6 secondsoh oh start this is the map maker okay uh
+6:236 minutes, 23 secondsum said give the valley of wheat back that slice of land which slice of land I don't know
+6:306 minutes, 30 secondsValley of wheat started off peaceful but they've they've been hostile pretty hostile not like War level of hostile
+6:386 minutes, 38 secondsbut from what I understand they're constantly on edge they're worried about thieves and they're
+6:506 minutes, 50 secondslike just not very welcoming as a group
+7:107 minutes, 10 secondsawesome full screen is now borderless window if I Tab out it still
+7:187 minutes, 18 secondsrefreshes that [ __ ]
+7:287 minutes, 28 secondssucks why does it do
+7:387 minutes, 38 secondsthat you not do that what I'm trying to avoid I guess we're just going to live
+7:477 minutes, 47 secondswith the uh with that I have
+7:567 minutes, 56 secondsshaders here but I don't know how to how am I supposed to access them uh guess oh video settings
+8:078 minutes, 7 secondsthough we're going to we're going to [ __ ] with some shaders I can actually run astac but there's some weirdness
+8:138 minutes, 13 secondsgoing on with the lights
+8:288 minutes, 28 secondshere
+8:598 minutes, 59 secondscan I turn this off oh CRT off okay that's
+9:289 minutes, 28 secondsoff does it think that everything is waving I wonder
+9:399 minutes, 39 secondsif no the the the sky is too they've changed so much what the
+9:499 minutes, 49 secondshell is going on Sky Sun
+9:589 minutes, 58 secondsMoon
+10:2810 minutes, 28 secondsh I'm going to look this
+10:3410 minutes, 34 secondsup why does astrx uh look like everything is
+10:4410 minutes, 44 secondsdistorted this is not a good search term
+10:5810 minutes, 58 secondswavy
+11:0511 minutes, 5 seconds[Music]
+11:0911 minutes, 9 secondsit's clearly a
+11:2711 minutes, 27 secondspostprocess I turn all of these off
+11:4111 minutes, 41 secondsmaybe no huh it like thinks I'm in
+11:5711 minutes, 57 secondswater
+12:1212 minutes, 12 secondsoh I open Steam looks like I'm in
+12:2712 minutes, 27 secondswater
+12:3012 minutes, 30 seconds[Music]
+12:3112 minutes, 31 secondsthat shouldn't it shouldn't is really annoying very very
+12:4012 minutes, 40 secondsannoying um
+12:5212 minutes, 52 secondsoh oh whatever that did just solved it
+13:0413 minutes, 4 secondsokay whatever whatever is doing it is a part of the ultra
+13:1213 minutes, 12 secondssetting so maybe high that does it too okay so I'm going
+13:2213 minutes, 22 secondsto start with medium and just
+13:2913 minutes, 29 secondswork
+13:5713 minutes, 57 secondsup
+14:1114 minutes, 11 secondsmotion blur off waving
+14:2714 minutes, 27 secondsblocks so far so
+14:4114 minutes, 41 secondsgood the [ __ ] is rx uh oh I see I see I
+14:5714 minutes, 57 secondssee
+15:1015 minutes, 10 secondswe'll do a a realistic
+15:2715 minutes, 27 secondswater
+15:4415 minutes, 44 secondsthere's some weird block stuff happening with this oh but it's because it's flowing
+15:5715 minutes, 57 secondsweirdly
+16:1816 minutes, 18 secondswe up the green and the blue value
+16:3016 minutes, 30 secondsoh I just realized I can um just apply and see
+16:5316 minutes, 53 secondsit and I did it again
+16:5716 minutes, 57 seconds[ __ ]
+16:5916 minutes, 59 secondsokay now sun/ Moon could
+17:2717 minutes, 27 secondspick and one day I'll learn not to do
+17:3817 minutes, 38 secondsthat sky cloud config realistic
+17:5017 minutes, 50 secondsclouds let me look at the sky while I do this
+18:1418 minutes, 14 secondsthat's kind of cool but I really don't like it not going to
+18:2718 minutes, 27 secondslie oh I
+18:4718 minutes, 47 secondssee now the Aurora I want to turn
+18:5718 minutes, 57 secondson
+19:0819 minutes, 8 secondslet me let me enter a uh single player world or even like just
+19:1519 minutes, 15 secondsMinecraft yeah
+19:2719 minutes, 27 secondsyeah where is the Aurora oh I see I see it's literally above me
+19:5719 minutes, 57 secondsokay
+20:2520 minutes, 25 secondsand then the planet
+20:3620 minutes, 36 secondsthis is what I wanted to change plan it size turn this down to
+20:5320 minutes, 53 secondslike3 now it's this is all on the on this side
+21:0321 minutes, 3 secondshey y what's up
+21:2721 minutes, 27 secondsmuch
+21:3821 minutes, 38 secondsuh okay getting a Spam call not a great
+21:4921 minutes, 49 secondstime for that
+22:3222 minutes, 32 secondsI think I'm going to actually disable clouds
+22:4822 minutes, 48 seconds[Music]
+22:5222 minutes, 52 secondsentirely oh now that's the
+23:0223 minutes, 2 secondsG where's the nebula
+23:1323 minutes, 13 secondsgalaxy planet okay so uh it's
+23:1923 minutes, 19 seconds2:45 I'm going to shift over to working on
+Chapter 3: Graveyard planning and trial
+23:3723 minutes, 37 secondshello hello hello hey what's up okay let's see who who do we have in here right now okay
+23:4523 minutes, 45 secondsjust ask three for now you might want do another announcement
+23:5623 minutes, 56 secondsyeah few people should float
+24:1724 minutes, 17 secondsin yeah I don't know uh we'll just wait for a few more basically today what we're going to try to do uh is do do we
+24:2724 minutes, 27 secondsknow if anyone let me check if anyone responded to nope nobody responded to it do we
+24:3424 minutes, 34 secondsknow if this spot where I'm at here is currently being built on it looks like there's something here
+24:4124 minutes, 41 secondsand there's a spot for something but behind the fountain what
+24:4924 minutes, 49 secondswhat uh no I don't know who's been here okay I don't even know if that's a good spot do we want to keep the graveyard
+24:5624 minutes, 56 secondskind of away from hello guys hello you all want to see the
+25:0425 minutes, 4 secondsprogress I have for the yeah I'm trying to figure out where to put the graveyard right now oh we have we have something
+25:1125 minutes, 11 secondswe have something propped up up here I was about to say this heeld is a good place for gra yeah yeah yeah we we'll do it here do we want to do it up up top
+25:2025 minutes, 20 secondshere hold on hold on can you show me what can you like screen share for a second I just I'm in this my single player like
+25:2825 minutes, 28 secondsworking on the thing that are we going to do the Templar or
+25:3525 minutes, 35 secondsnot I don't know it's not up to me really uh I can get started uh yeah that hell works I was just worried about uh
+25:4425 minutes, 44 secondsit overlapping with where I wanted to place a yeah no I I I think we're this is probably fine okay I'll I'll show you
+25:5225 minutes, 52 secondsall my thing that I've oh my God there's diamonds in here done yet because I haven't had time to work on it very much
+26:0026 minutesyo Che this out oh is okay I like how there's
+26:1226 minutes, 12 secondsthere's diamonds in here the anti x-ray oh it's the anti x-ray it's the anti x-ray that would be hilarious
+26:1926 minutes, 19 secondsthough if there were just diamonds in in these yeah this is what I have for the uh thing so far I I'm thinking of a new
+26:2926 minutes, 29 secondsname that is it's not it's not uh sharing properly is it not no no I'm not seeing anything either hold
+26:4326 minutes, 43 secondson is it working now uh I think so yes yes yes okay uh
+26:5326 minutes, 53 secondsthis is what I have on it so far it's going to be a lot dear God dude turn turn motion blur off on your shaders
+27:0127 minutes, 1 secondplease so I have the first line of like Defence in here so
+27:0727 minutes, 7 secondslike oh just
+27:2627 minutes, 26 secondsso oh announcement from the Glorious
+27:3527 minutes, 35 secondsleader yeah I'm I did set up I'm I just figured out how many ticks I need for
+27:4127 minutes, 41 secondsRedstone to make a lava dispenser system gotcha
+27:4727 minutes, 47 secondsso yeah I'm gonna work on that probably I don't have really much time today to continue designing
+27:5627 minutes, 56 secondsthis so I'll work on it more tomorrow I don't know what's up with
+28:0228 minutes, 2 secondsthis lighting
+28:2628 minutes, 26 secondsuh why is this so
+28:3628 minutes, 36 secondsbright uh yes I'm going to keep working on it right now I thought it was closer to the event than I have a couple
+28:4328 minutes, 43 secondsminutes to work on it question is once we do remove the
+28:5428 minutes, 54 secondswhat do we want to do with that little area there where the food stem was yeah so
+29:0529 minutes, 5 secondsum okay so I think that we should get a oh that that was my phone okay uh we
+29:1129 minutes, 11 secondsshould probably get a path going up up here and up the side so let me uh let me let me Trace that
+29:2629 minutes, 26 secondsout so we'll have the main road come up
+29:3629 minutes, 36 secondshere and essentially a path coming up the side
+29:4529 minutes, 45 secondshere I don't think we really need to do a schematic I feel like a schematic would just bog us down with the graveyard we should just I I have a list
+29:5329 minutes, 53 secondsof everyone who's died and we should uh and where they're from and we should probably section it
+30:0230 minutes, 2 secondsoff into like rough areas so like we should have one area for the farmers one for the builders you know stuff like
+30:0930 minutes, 9 secondsthat um I have no idea what this weird lighting is
+30:2030 minutes, 20 secondsabout how do you even craft maps from normal Minecraft forgot uh it's a a compass and
+30:2730 minutes, 27 secondsand the comp yep you probably start doing the map in
+30:3430 minutes, 34 secondsthe actual server no you can't place a map unfortunately yeah that's was what I
+30:4030 minutes, 40 secondswas about to say wait why Nota for lag I guess rest in peace you can't have a
+30:4830 minutes, 48 secondsitem frame maybe um I don't know maybe they'll they'll place a map for us like
+30:5730 minutes, 57 secondsif we ask yeah I put the map inside the
+31:0531 minutes, 5 secondstemple where she I feel like my mission today should be demolishing all the
+31:1231 minutes, 12 secondsteritories uh yeah we do need to do that as well all that aren't in left honestly we remove quite a few yesterday yeah I
+31:2131 minutes, 21 secondshave a somewhat busy day because I'm uh going to Island to help M diamonds okay
+31:2831 minutes, 28 secondsokay I don't think it's going to be it I think they were doing H I think they did the three hour thing because it was
+31:3531 minutes, 35 secondsweekend should I build the fountain or not do we plan to do something else
+31:4431 minutes, 44 secondsthere Fountain is really cool but uh I am not sure about the placement exactly because right now it still leaves like a
+31:5331 minutes, 53 secondslot of space in here I mean this can be used what is this cobblestone I was trying to plan something out but
+32:0032 minutesright now we do not have a plan for this space so might just this space butty that's
+32:0832 minutes, 8 secondswhy I'm you know un sure whether yeah yeah I think it's an import thing look at that or like a floating I don't know
+32:2032 minutes, 20 secondslike the MC doesn't surrounded by buildings we can leave that small space open or something if someone wants to do
+32:2932 minutes, 29 secondssomething later I guess or at worst case scenario at the worst case scenario we can make it a
+32:3732 minutes, 37 secondspark with some trees and some booes or something like that I guess I can't believe ry's restaurant
+32:4532 minutes, 45 secondsstill isn't done it's been like being built straight for like seven days he's almost there yeah and plus he hasn't really had any build team on him so it's
+32:5332 minutes, 53 secondsjust been him he did have no he had Curry which died wanted it was like two or two or three guys working at I
+33:0233 minutes, 2 secondsthink so I have to make some repairs to the Coliseum because breett Fest left a bit of damage on it oh yeah
+33:1533 minutes, 15 secondsyeah there's some sand that's been lost I replaced it over here but it's like this pie over here all right I was
+33:2333 minutes, 23 secondsnotice one of the entrances and the uh spo's little View place has the back entrance completely open which is bad for
+33:3333 minutes, 33 secondssecurity some in the area below the VIP Booth is missing some slabs right yeah
+33:4033 minutes, 40 secondsslabs but once we do remove all the do you want to do anything with this place or
+33:4933 minutes, 49 secondsno where pretty big open space right front of under Helm oh I have no idea what what's happening with under Helm no
+33:5633 minutes, 56 secondsright in front of they're gonna build it all out down there starter area starter yeah because without the
+34:0334 minutes, 3 secondsgraves the starter area will be free free to build on so I don't know if we G to put anything there yeah I have no idea I'm trying to
+34:1234 minutes, 12 secondsmake this design kind of like funnel shaped so like as you make your way up
+34:1934 minutes, 19 secondsmore space around to keep uh defending and going up more space for people
+34:2834 minutes, 28 secondsand less space to get in CU we're going to want a bunch of
+34:3834 minutes, 38 secondspeople up top the best defensive structure right now is probably the colum UNL life yeah I know that we could defend that from
+34:4734 minutes, 47 secondsthe center although we wouldn't have The High Ground yeah Citadel Citadel then it' be like the
+34:5434 minutes, 54 secondsbest place I guess that too until this gets built I I'm GNA make sure this is like
+35:0335 minutes, 3 secondsthe best possible defense structure how close is the Citadel to being finished are you guys like oh yeah
+35:1035 minutes, 10 secondsyeah we literally just need like a few blocks of um of Mangrove and some AEL aelia doing
+35:2135 minutes, 21 secondsuh like why did you guys make this Mangrove logs oh my God yeah no
+35:2735 minutes, 27 secondskidding who but it was planks in the original design wasn't it why is it mang vogs like D no it was it was uh it was
+35:3435 minutes, 34 secondsplanks since like way early like Chang he's saying why did you put Mangrove logs instead uh because it
+35:4335 minutes, 43 secondslooks better overall I think it like
+35:5435 minutes, 54 secondsuh at least we have mro true true we also hav we haven't waxed a lot
+36:0236 minutes, 2 secondsof the copper have we oh no we have not we have not gotten that yet I guess we can just leave it I'm not gonna lie yeah it really doesn't
+36:1036 minutes, 10 secondsmatter I don't think yeah I see some of the statues or at
+36:1736 minutes, 17 secondsleast one of the statues is finished are you able to make like world edit copies between like and just like
+36:2536 minutes, 25 secondssend them to a different world are you asking like because Normal
+36:3236 minutes, 32 secondsworld edit no I mean maybe I don't know probably not because it would be easier if I could just copy and paste this to
+36:4136 minutes, 41 secondsthe build server but like I mean if you have
+36:4736 minutes, 47 secondsaccess to where you have the uh scam
+36:5436 minutes, 54 secondscolan you have this I don't really know like anything about world edit so I was just asking well you
+37:0337 minutes, 3 secondshave to you need creative access to use for edit it's not
+37:1137 minutes, 11 secondslike so which ones what we what are we working on today the schematics wise uh currently the bath house is in progress
+37:1937 minutes, 19 secondsI think one group is doing the Villa area that's near the Citadel yep yep and then one group's actually finished The Citadel is
+37:2837 minutes, 28 secondssomebody going to delete all of those uh TR blossoms where I'm going to be doing that yeah we're going to be removing
+37:3637 minutes, 36 secondsthem cherry blossoms are everywhere man everywhere
+37:4537 minutes, 45 secondsyeah yeah I mentioned this yesterday General once we finish the bath house I assume we're not going to have that much time once it's actually
+37:5337 minutes, 53 secondsfinished so that if we you know if we have any extra time anyone's free to use it to do
+38:0138 minutes, 1 secondwhatever proba our last major ones do we have sheep I do not I have not heard of sheep
+38:1038 minutes, 10 secondsI've heard cows chickens I have not heard sheep specifically sheep I hope somebody's gonna go get
+38:1938 minutes, 19 secondssheep for us me too they should make like Stone signs or something I feel like that something
+38:2738 minutes, 27 secondsthat's is someone going to be working on this like whatever this is yeah I'm going to do it right at the
+38:3438 minutes, 34 secondsstart I think this is cool is anyone going to be working on the temple over here did not mean to say that in
+38:4038 minutes, 40 secondsgame I also want to do that I
+38:4738 minutes, 47 secondsmight like that yeah I love on that is there a schematic for this
+38:5538 minutes, 55 secondsyeah like 5 minutes ago is it from this world like is it with the road or everything uh I mean this literally
+39:0439 minutes, 4 secondstaken from here uh from here it's not it's not with the road though it's like one block higher uh it's 59 boys it's
+39:1239 minutes, 12 secondsabout time yep all right I can play this is nice do you have a schematic for your uh Villa the what is it called the I'm
+39:2039 minutes, 20 secondsgoing to I'm going to get a rough graveyard like idea going that's that's number one
+39:2839 minutes, 28 secondspriority with I'll do yeah I'll geted on that
+39:3839 minutes, 38 secondsfinish do we want to go with a lighter block or a darker block for the like the tone will really matter for the
+39:4539 minutes, 45 secondsuh the some trees you're going to have to clear out are we going I get that
+39:5239 minutes, 52 secondsthat's fine I'm going to start off with getting some Spruce cuz I think we still eat a lot of spruce do I have to restart my game once I have the scha
+40:0240 minutes, 2 secondscoped I you don't need to restart it should be just oh uh server's
+40:0940 minutes, 9 secondsopening yeah uh let me get the I'll repost the bath house schematic for was
+40:1740 minutes, 17 secondsasking not listed in the server let's go white listed and the official schematics
+40:2540 minutes, 25 secondsforing I me I still have to leave because iot
+40:3140 minutes, 31 secondsto Aon the first like seconds y like the first three minutes off and
+40:3940 minutes, 39 secondsunplayable it's always bad at start but it gets better quickly no it's just the people joining after that it's so
+40:4740 minutes, 47 secondsCo well hello um H dude by the way one of the
+40:5540 minutes, 55 secondsmining min chats down below um so we're just investing in our beautiful mining
+41:0241 minutes, 2 secondsVC we're going to begin construction of the under Helm today and we were wondering if there was any okay I'm in
+41:1041 minutes, 10 secondsbuilders that were interested in aiding Us in that Venture it's fine if there aren't but we could use all the help we
+41:1641 minutes, 16 secondscould get um we mostly just meant made plans for today already but yeah un
+41:2341 minutes, 23 secondswe're kind of already busy with other projects if any of us happen to finish our projects we can try and send someone over y all right no worries I don't
+41:3241 minutes, 32 secondsthink it's gonna be likely if I'm being honest so I wouldn't there so many people in the French Kiss what are you guys working on today
+41:4141 minutes, 41 secondsuh the bath house is being worked on uh one group is working to finish the Citadel and another group is working to
+41:4841 minutes, 48 secondswork on a villa nice all right then I wish you the
+41:5341 minutes, 53 secondsbest of luck all right so I'm go a few more trees because I
+42:0342 minutes, 3 secondswant what do we need we need Spruce do we actually divide ourselves and Kus maybe I know that be easier yeah
+42:1342 minutes, 13 secondssplit for two boys all right so I'm going to be
+42:2042 minutes, 20 secondsfacilitating riddit um arrest
+42:2942 minutes, 29 secondsall right I'm
+42:5442 minutes, 54 secondsin all right
+43:0443 minutes, 4 secondsgood morning westelm
+43:2543 minutes, 25 secondstoday
+43:4243 minutes, 42 secondshey are you guys military mining okay
+43:5543 minutes, 55 secondsokay
+44:3144 minutes, 31 secondsI did not make my usame for this EV I promise so like are you like just kind
+44:3944 minutes, 39 secondsof an island halfway yeah don't know I'm
+44:4944 minutes, 49 secondsjust because of this event my name is Island for this event
+44:5944 minutes, 59 secondsall right hello place
+45:0645 minutes, 6 secondswas yeah so the place it was placed in the yeah okay you placed it there drifter uh Drifter you're military
+45:1545 minutes, 15 secondsright cor uh I have the roll technically yes but so the what it was placed on
+45:2445 minutes, 24 secondsoriginally yeah that's fine where is my I don't have a shovel
+45:3145 minutes, 31 secondsthat is annoying I'm actually just going to go get some diamond stuff cuz I heard I could get some I'm just going to see if I can get some be back in a second
+45:4045 minutes, 40 secondsyeah yep oh the lag might kill
+45:4945 minutes, 49 secondsyikes just waiting on a few others there a allot of people in the VC
+45:5745 minutes, 57 secondsthat does not want to daytime daytime might of God has made it
+46:0446 minutes, 4 seconds[Music]
+46:0646 minutes, 6 secondsday well you look good while you're live right now Al I don't know how much longer that's going to last everyone everyone in VC thought it was a joke
+46:1446 minutes, 14 secondsthey didn't want to come I just think it's funny as it is pretty
+46:2246 minutes, 22 secondsfunny I love this was is free free is a
+46:3446 minutes, 34 secondsbird all right who else is are we waiting on okay
+46:4946 minutes, 49 secondsokay yeah we're waiting for like two more people not guilty guilty see kill his ass execution
+46:5746 minutes, 57 secondson the we are here to Mercy Me guys I want to have like of
+47:0747 minutes, 7 secondscourse I'm just going to send a picture of the schematic place in general so there's I will be
+47:1647 minutes, 16 secondsyour I'll make sure do that all right I'll be your lawyer hold On's I'm sing D just to make sure it's the
+47:2447 minutes, 24 secondssame I'm sorry no no e dropping excuse me no dropping all right so did you do this
+47:3347 minutes, 33 secondscrime yeah I think that's where I placed it but I'll go come check in a second my other lawyer shot I should never do say
+47:4147 minutes, 41 secondsit okay R I'm going to ask you in messages okay you can sh he's
+47:4947 minutes, 49 secondsguilty no I'm not I think I think he did it because I saw him do it and he admitted it to me many times yeah I think he did it because we just
+47:5747 minutes, 57 secondshad like a lot of people that reported this and his yeah he's also I've heard
+48:0448 minutes, 4 secondsthat his nickname is the senator of stealing is everyone's
+48:2048 minutes, 20 secondshere oh hey we're not hey rle your mic is really low again
+48:2848 minutes, 28 secondsokay guys I made oh I I made a place for our
+48:3748 minutes, 37 secondsRebellion but I guess be okay for guys okay we're going downstairs everyone come on in where the the trial
+48:4548 minutes, 45 secondswill be held in the basement we're so [ __ ] dead uh yeah I'm not going down there until uh the military arrives if I
+48:5348 minutes, 53 secondsif I die tell them what happened here okay and rebuild my
+49:0049 minutesfarm yeah that that's so sketchy EP it we
+49:1149 minutes, 11 secondsball rdit rdit if I die down here
+49:2449 minutes, 24 secondsI well they're both equally
+49:3349 minutes, 33 secondsdangerous I'm going to CRA some chairs for everyone one ax to break one of those Benes and we're done all right one moment I'm crafting
+49:4249 minutes, 42 secondschairs you're crafting chairs what is this down here oh yeah I really I really
+49:4949 minutes, 49 secondswould like to have this out in public no he's just showing us something he's not actually going to kill us I
+49:5649 minutes, 56 secondsdon't think uh I you no one will get hurt here this is a perfectly legal law
+50:0250 minutes, 2 secondslawyer trial all right so what what is oh I'm wait no no no no no no no why are no I'm sorry we're we're bringing back
+50:1150 minutes, 11 secondsthe uh it is perfect safe in here I can no nope no no sorry why why are you destroying
+50:1750 minutes, 17 secondseverything I'm opening can you guys can can we talk we could go we could we could go through the door and until you
+50:2650 minutes, 26 secondsstarted back out your en I think okay you know what actually guys take back I wouldn't come in here I wouldn't I would come here I wouldn't step on the
+50:3450 minutes, 34 seconds[Music]
+50:3550 minutes, 35 secondseither wow wow give me the [ __ ] out of here oh my God oh my God okay
+Chapter 4: Assassination and escape
+50:4350 minutes, 43 secondsRichard oh my God they're escaping he's escaping he's fleeing the scene wait kill him kill him
+50:5050 minutes, 50 secondskill himed he's dead Kos he's done he's done he's out he's fleeing the C ping
+50:5950 minutes, 59 secondsmilitary ping the military Run cover up the top
+51:1951 minutes, 19 secondshe's all right
+51:5551 minutes, 55 secondsyeah it looks so
+52:1852 minutes, 18 secondsdifferent dog that was wild what did he do oh he's stolen so much he's uh he's a a wanted criminal
+52:2752 minutes, 27 secondsand we're he's now kill on site hey all if uh if riddit comes
+52:3552 minutes, 35 secondsthrough kill him on site kill kill on site he just tried s riddit is now kill on site he just attempted an
+52:4252 minutes, 42 secondsassassination of six people on six people yeah he he just tried to lead us to a trap luckily I knew it was a trap and backed out but he
+52:5152 minutes, 51 secondstriggered It Anyways R yes rdit is now kill on site
+53:0453 minutes, 4 secondsokay [ __ ] I don't have time sorry sorry Farmland
+53:1553 minutes, 15 secondsokay he's probably fleeing right
+53:2453 minutes, 24 secondsnow I wish I'd followed him I have literally no idea where he
+53:3253 minutes, 32 secondswent okay so placed it and I'm going to start Excavating some of the place around where the temple is I'll get hey if you guys see Reddit alert the
+53:4153 minutes, 41 secondsmilitary immediately he's now kill on site R who is he what does he look like oh just you'll see his name does he have
+53:4953 minutes, 49 secondsanother right chest plate no no no no okay good but he's full diamond and he uh he just attempted an assassination
+53:5753 minutes, 57 secondssomeone on me was going to I was going to be the target it was it was so obvious it was a
+54:0454 minutes, 4 secondstrap though and I was not fooled I was not going to take the chance what what's his skin uh I don't
+54:1254 minutes, 12 secondsknow it shouldn't be that hard to identify him okay
+54:2254 minutes, 22 secondsoh that's not anyone I think we know do not Harbor rid
+54:3454 minutes, 34 secondsit ah trees don't Decay oh God damn
+54:4454 minutes, 44 secondsit oh my they have zero Spruce loads in the qu rosters that's
+54:5454 minutes, 54 secondsgreat why hoes are useful get rid of leaves quickly someone okay I've joined where
+55:0355 minutes, 3 secondsare you guys there was lava there was lava on the yellow side as well uh where are you still trapped well I'm in the
+55:1155 minutes, 11 secondsthe ladder water where you escaped I'm in there yeah I I can mine the obsidian on top okay because I couldn't mine up because of the obsidian I but when I got
+55:2155 minutes, 21 secondsstuck on the ladder because I couldn't swim back down because ladder kept push so I kept suffocating so I had to log out yeah you guys do know that reddit's
+55:2855 minutes, 28 secondsnow kill on site is rdit I think he surrendered but I think he needs definitely let's host are you
+55:3755 minutes, 37 secondssurrendering someone yeah I'm coming back with guys okay I'm going to get sped I'm where he is yeah no they're occupied instigating [ __ ] so that the
+55:4655 minutes, 46 secondsmilitary wasn't there I'm going to have W no you're going to the colum guys come let let me one mine one block to save my
+55:5555 minutes, 55 secondsfriend thank you I got he also tried to cover up the top as
+56:0356 minutes, 3 secondswell are you safe now yeah no R I do have to say that was really poorly executed cons All Things Considered not
+56:1156 minutes, 11 secondswell planned I'm still logged off it's safe now is the water gone because I've not got much so bring him back
+56:1956 minutes, 19 secondsup he might actually try to oh [ __ ] someone check on him keep your eyes on I thought he was I I was going to check
+56:2856 minutes, 28 secondsnear the center of the island where I assume he was headed to is it safe for me to log in though is he just down there yeah it's it's safe now you can
+56:3656 minutes, 36 secondslog in but you have an infinite lava generator you oh [ __ ] no no block it block it block it
+56:4456 minutes, 44 secondssomeone blocking it someone is killing you guys is did he run down the tunel is killing you what the
+56:5156 minutes, 51 seconds[ __ ] in and he is he he's way down there what the [ __ ] guys what the [ __ ] UHD
+56:5956 minutes, 59 secondskilling people destroy that water we need to go in there two people Ching there okay so what's happening what just
+57:0657 minutes, 6 secondshappened br's killing me no other is blocking you I'm trying to help stop walking ding they're
+57:1457 minutes, 14 secondsding he's all right all right come on guys is they safe come on watch out watch out what what if out standing what
+57:2257 minutes, 22 secondsthe [ __ ] what about wait everyone move out of I want to see if there's lava this wait those blocks the water behind it need wait how are you guys standing
+57:3057 minutes, 30 secondshere there's a hole under there's a hole under the dirt wait what the [ __ ] is am I bugged don't stand here guys don't
+57:3857 minutes, 38 secondsstand here because I can do that you is this a bug oh I I I uh there's a hole I dirt
+57:4757 minutes, 47 secondsthere to cover it up where it wasn't loading in for me no is is that water gone yet if others stopped [ __ ]
+57:5557 minutes, 55 secondstrying to kill you can you [ __ ] stop killing word you are literally let him
+58:0458 minutes, 4 secondsthrough yeah add her her back off doesn't like the farmers from what I've seen yes I can explain what is happening
+58:1158 minutes, 11 secondsrdit just attempted an assassination and is now the water boiling water and we're now we're escorting him back to the
+58:1958 minutes, 19 secondsColiseum I'm on two hearts he's trapped where those blocks are placed yeah stop placing those blocks he is
+58:2758 minutes, 27 secondstrapped in there all right so I think they can come down he logged
+58:3458 minutes, 34 secondsout police just back off please is rdit combat logging What's
+58:4258 minutes, 42 secondsHappening Here No it rdit isn't combat logging no reddit's right here next to us oh okay I see him Ward w is trapped
+58:5058 minutes, 50 secondsunderneath this water and we need to block it go to the Coliseum help you said we need to block it well we need to block it from up
+58:5958 minutes, 59 secondsthere oh jeez just go to the Coliseum I think someone tell you to go there right it's safe now you can you can
+59:0659 minutes, 6 secondscomez you're [ __ ] right you got no CH but people people are trying to kill you for some reason I don't know I all all right come back in and see
+59:1559 minutes, 15 secondswhat happens I don't know I think Crystal killed you but I don't know all right he's safe all right ready
+59:2359 minutes, 23 secondsfor your trial to the Coliseum come let's go why is he
+59:3059 minutes, 30 secondsexcited did they put lava here oh no I hey hey come on oh there is no Lava here let's go go up go up what is this no
+59:3959 minutes, 39 secondsproblem I almost I didn't man to get it time we have extra ladders yeah
+59:4959 minutes, 49 secondssure oddest assassination attempt ever for saving me thank you actively kill you yes it was other people this started
+59:5859 minutes, 58 secondsfrom you know I was situation because of uh Adder thought that you were trying
+1:00:061 hour, 6 secondsto escape by breaking those blocks so we kept placing them come on go to the col weirdo me
+1:00:131 hour, 13 secondshave potential crimes to answer for be cooperative hey stopit him stop him potential goes
+1:00:201 hour, 20 secondswild we just have to make sure that when we take him to the Coliseum no violence I don't want any violence against this guy no matter how much I hate him is he
+1:00:291 hour, 29 secondspeople hey sorry s hit the wrong guy hit the wrong guy are we is spoo on the way too like
+1:00:391 hour, 39 secondsWhat's Happening Here who's oh my god really yeah not fantastic especially
+1:00:471 hour, 47 secondsbecause I had to start the session by running after you bastard dude this is
+1:00:551 hour, 55 secondsI call this was uh he attempted to flee all right bring him around the side I
+1:01:031 hour, 1 minute, 3 secondsnominate myself to be rd's lawyer that is a bad plan dude who whoa who whoa whoa whoa whoa whoa whoa get out of it what are you
+1:01:111 hour, 1 minute, 11 secondsdoing in there what you doing there get out get out get out get out get out get out get out get out get out [ __ ] okay I was the idiot I was the idiot oh my god
+1:01:181 hour, 1 minute, 18 secondsget him get him back in here come on oh my God all right
+1:01:271 hour, 1 minute, 27 seconds[ __ ] oh my God is this the first official Coliseum yeah whoever's dog this is
+1:01:351 hour, 1 minute, 35 secondsshould probably get out of the way I don't want anything that happen everyone is what am I witnessing right now we
+1:01:441 hour, 1 minute, 44 secondsfinally have a Col Tri what's happening Coliseum fight this is
+1:01:501 hour, 1 minute, 50 secondsit this is the Coliseum fight not yet not yet we need to trial him
+1:01:591 hour, 1 minute, 59 secondsfirst was messed up that was [ __ ] up I just got we're having a trial for r r
+1:02:091 hour, 2 minutes, 9 secondstried tried to assassinate like eight of us just now yeah yeah he he literally like I was the only smart one that
+1:02:161 hour, 2 minutes, 16 secondsdecided this room was not safe I don't know why y'all thought for even a second that this would work out
+1:02:241 hour, 2 minutes, 24 secondsgive them your iron armor can somebody please stop the r why is there so many people in the [ __ ] Coliseum why why
+1:02:311 hour, 2 minutes, 31 secondsare they all just sitting there they're military guys let's just have a couple guards at the entrance and exit you guys
+1:02:391 hour, 2 minutes, 39 secondsdon't need to all crowd around him is complaining about the amount of people are
+1:02:481 hour, 2 minutes, 48 secondsyour bloody military not doing anything on their bloody asses bloody military get out of this lower area you're
+1:02:571 hour, 2 minutes, 57 secondsnot I'm know this come hello how are you hello are you my
+1:03:061 hour, 3 minutes, 6 secondscompe I don't know I good luck
+Chapter 5: Coliseum trial by combat
+1:03:161 hour, 3 minutes, 16 secondsman animac not a fight yet
+1:03:251 hour, 3 minutes, 25 secondseveryone oh wow okay wait it is a fight oh [ __ ] one oh God Remy what did you
+1:03:361 hour, 3 minutes, 36 secondsdo can we have a test what did my boy Remy some from the from the incident to testimony we don't want to hear it all
+1:03:451 hour, 3 minutes, 45 secondsright Remy organized lizz's assassination oh wow wow so we have two attempted
+1:03:531 hour, 3 minutes, 53 secondsassassins and one successful I'm going to nice that's convenient for where we
+1:04:001 hour, 4 minutesare yeah yeah lizz's death was caused by an Island Tour I don't see how this is
+1:04:081 hour, 4 minutes, 8 secondsjust uh I don't know as was
+1:04:171 hour, 4 minutes, 17 secondsI Oh no you're getting he's getting announc no
+1:04:291 hour, 4 minutes, 29 secondsoh yeah his shield is kind of treasonous isn't it what's up with why dying what what's
+1:04:401 hour, 4 minutes, 40 secondsup with re why is he fighting Remy uh R has consistently stolen as well as disobeyed orders someone he also just
+1:04:491 hour, 4 minutes, 49 secondstried to assassinate eight of us or six of us oh yeah including me also threaten to assassinate the emperor multiple times yeah and he's threaten to kill
+1:04:581 hour, 4 minutes, 58 secondsother people okay I can see why we they want one person dead over the
+1:05:041 hour, 5 minutes, 4 secondsother yeah hey nuben long time no see
+1:05:121 hour, 5 minutes, 12 seconds[Music]
+1:05:151 hour, 5 minutes, 15 secondsoh oh sorry sorry is this yours it's yours it's yours oh okay
+1:05:251 hour, 5 minutes, 25 secondsthis is your second thank you are we waiting on ish is that what's
+1:05:341 hour, 5 minutes, 34 secondsgoing on uh ish should be spectating this I saw him earlier dude all the military
+1:05:411 hour, 5 minutes, 41 secondsguys like standing around holy crap it's kind of it's yeah it's crazy especially how you all have diamond
+1:05:481 hour, 5 minutes, 48 secondsarmor I think you can are are you like a builder or a farmer or something uh
+1:05:541 hour, 5 minutes, 54 secondsI'm Remy's my boss that's why I'm here okay we don't hear you what it have to
+1:06:021 hour, 6 minutes, 2 secondsbe in R hey D yeah it's right hey stand on the Deep slate things stand R
+1:06:111 hour, 6 minutes, 11 secondsit what are you doing don't give your life away the is even open yet Gladiators wait no hold on this feels
+1:06:191 hour, 6 minutes, 19 secondsunfair it's unfair let's let's make it up Hey listen listen we we deal with Justice
+1:06:261 hour, 6 minutes, 26 secondshere whoa SP spood I must say this might not be the best idea if unless you want to
+1:06:341 hour, 6 minutes, 34 secondsrevolt you might want to make it a fair fight the the r it has more evidence against him the more evidence they have against them less
+1:06:421 hour, 6 minutes, 42 secondsarmor there's there's Witnesses of people that stabbed you look at your shield look at your
+1:06:481 hour, 6 minutes, 48 seconds[Music]
+1:06:491 hour, 6 minutes, 49 secondsShield rdit how do you your Shield is literally an exed out stand stand on
+1:07:031 hour, 7 minutes, 3 secondsyour this might be a really bad idea are you ready doesn't
+1:07:121 hour, 7 minutes, 12 secondsseem a tri give him all right gentlemen wait may I do something blood a tri may I do
+1:07:201 hour, 7 minutes, 20 secondssomething rude oh there you go all right it you are charged of
+1:07:291 hour, 7 minutes, 29 secondsattempted murder attempted assassination higher up before we start me the senator
+1:07:371 hour, 7 minutes, 37 secondsthat he tried to assassinate I would like to give him this for the
+1:07:431 hour, 7 minutes, 43 seconds[Music]
+1:07:481 hour, 7 minutes, 48 secondsfight I will now head back up
+1:07:581 hour, 7 minutes, 58 secondsbe
+1:08:161 hour, 8 minutes, 16 secondsinteresting what food distributor in West Helm are you serious
+1:08:251 hour, 8 minutes, 25 secondsM stand back stand back stand back stand on your Podium oh jeez I missed it going the wrong way
+1:08:321 hour, 8 minutes, 32 secondsaround you get to go free I've given him a fighting chance I
+1:08:401 hour, 8 minutes, 40 secondshave given him a Fighting Chance ready it probably won't be enough but it Gladiator are you
+1:08:501 hour, 8 minutes, 50 secondsready in the name of westelm and Emperor spood you may
+1:08:581 hour, 8 minutes, 58 seconds[Music]
+1:09:011 hour, 9 minutes, 1 secondbegin 500 whoa whoa whoa what's going on here come on what's the third
+1:09:101 hour, 9 minutes, 10 secondsparty this is already chos all right back up back
+1:09:171 hour, 9 minutes, 17 secondsno go little Rat Run Run keep going keep
+1:09:251 hour, 9 minutes, 25 secondsfighting by comat
+1:09:341 hour, 9 minutes, 34 secondsa innocent all
+1:09:371 hour, 9 minutes, 37 seconds[Music]
+1:09:391 hour, 9 minutes, 39 secondsalong yeah yep that's I guess
+1:09:491 hour, 9 minutes, 49 secondsI'm hello sorry he's he's de right now get undened thank you guys for
+1:09:591 hour, 9 minutes, 59 secondsplaying I will miss you yeah I wish that you didn't make it like like kept fighting till the end but it is what it
+1:10:081 hour, 10 minutes, 8 secondsis at third the Y the Y stop when I was killing him and he did not fight back so I
+1:10:151 hour, 10 minutes, 15 secondsstopped yeah but then then we continued yeah then he ate GLE and Rec continued not very fair f but
+1:10:241 hour, 10 minutes, 24 secondsyeah I don't think you should have W anyway I think you you've done there so much I can defend you I didn't want you
+1:10:321 hour, 10 minutes, 32 secondsto die yet I think I was a biggest supporter of we just murdered
+1:10:381 hour, 10 minutes, 38 seconds[Music]
+1:10:411 hour, 10 minutes, 41 secondssomeone give it to Remy may I retrieve my chest plate yes I
+1:10:491 hour, 10 minutes, 49 secondsgot it okay cool thank you guys bye bye that was mine that was mine you hear that what' you say d if actually do have
+1:10:581 hour, 10 minutes, 58 secondsa big part restaurant so I can get put that it's going to be right after this yeah like right now probably okay we'll do it
+1:11:071 hour, 11 minutes, 7 secondslater let's at0 is the guy who sings with the guitar still alive yes he is and he is still
+1:11:141 hour, 11 minutes, 14 secondsdoing songs Miss
+1:11:271 hour, 11 minutes, 27 secondsif there are no Remy fans then I do not exist like how we're celebrating him even though he's still a
+1:11:381 hour, 11 minutes, 38 seconds[Music]
+1:11:491 hour, 11 minutes, 49 secondscriminal y he's free he's free I'm innocent I Pi up blue
+1:11:551 hour, 11 minutes, 55 secondscarpet you never did anything wrong Remy he never did anything wrong
+1:12:021 hour, 12 minutes, 2 secondsoh that's very burned this burn it oh yeah burn that's like har those are the
+1:12:101 hour, 12 minutes, 10 secondsguys those the things of the guy that killed uh that he killed who was that I have a I have
+1:12:191 hour, 12 minutes, 19 secondsa he writing a five paragraph story right now
+1:12:331 hour, 12 minutes, 33 secondsI uh no not oh it's just a
+1:12:391 hour, 12 minutes, 39 seconds[Music]
+1:12:491 hour, 12 minutes, 49 secondsgra oh [ __ ] yeah you're right I do oh is that really necessary teabag him teabag him
+1:12:581 hour, 12 minutes, 58 seconds[Music]
+1:13:001 hour, 13 minutesyeah grandle how are you feeling how are you feeling about all this I mean little conflicted because he
+1:13:101 hour, 13 minutes, 10 secondswas like someone wrot penis on the back he was he was one of the first like friends me my enchanted like iron armor
+1:13:171 hour, 13 minutes, 17 secondsthat I the back oh wow he was there for he was there honestly well I'm sorry for your
+1:13:241 hour, 13 minutes, 24 secondsloss but he did he he committed oh jeez a lot would be an understatement of
+1:13:321 hour, 13 minutes, 32 secondsPR y just missed a trial by combat we had our first trial by combat in the Coliseum because he tried to
+1:13:401 hour, 13 minutes, 40 secondsassassinate me and six others reive how do I get out is this way and
+1:13:511 hour, 13 minutes, 51 secondsthe winner was pronounced the Winner's crimes were pronounced null so Remy the owner of the French
+1:14:001 hour, 14 minutesciss is free 4:30 430 party at Remy's 4:30 okay okay okay let's
+Chapter 6: Geopolitics and conflict
+1:14:091 hour, 14 minutes, 9 secondsgo he was a really evil guy going that was a really weird situation to H this Tower I'm going to
+1:14:181 hour, 14 minutes, 18 secondsbe honest what was happening there I was the thir the idea of him okay so let me okay let me explain this
+1:14:251 hour, 14 minutes, 25 secondsis this is what happened he wanted he created a bunker which had a trap red side and blue side and
+1:14:361 hour, 14 minutes, 36 secondsV people to stand on the red the people think innocent one was blue and he was going to kill the people who thought he
+1:14:431 hour, 14 minutes, 43 secondswas guilty we found out someone broke the carpet before it happened we escaped I chased after him but he placed
+1:14:521 hour, 14 minutes, 52 secondsobsidian on the top and then I got stuck in the water and I couldn't get back down because of the yeah bro doed himself he came back to
+1:15:001 hour, 15 minuteshelp me he surrendered to come help me he did in fact do that escape so so
+1:15:081 hour, 15 minutes, 8 secondsafter after trying to kill you he wanted to save face and to pretend to well it wasn't intense to me because I was always going to about innocent because I
+1:15:161 hour, 15 minutes, 16 secondslove it he wasn't Menace but he was our little Menace right so I think out of everyone I don't think he really was needed so I think when he found out that
+1:15:241 hour, 15 minutes, 24 secondsI was in trouble he did come back me I think that me and Ary were likely the main targets yeah I even told him out out of
+1:15:321 hour, 15 minutes, 32 secondsthe game that I thought I thought it was really chill like apart from everything and then he still was trying to assassinate US at the end of the day and
+1:15:401 hour, 15 minutes, 40 secondshe was one of our best Farmers he was always Remy was innocent by comat Justice exactly yeah Remy is now complet
+1:15:481 hour, 15 minutes, 48 secondsworks right I really don't know how to feel about this wait I do have a question about that though was that like true Justice was served yeah Justice was
+1:15:551 hour, 15 minutes, 55 secondsserved was was the Remy was was was the false Remy accusation like real it was
+1:16:031 hour, 16 minutes, 3 secondsbased in Merit he won his fight he wanted his freedom back he's not guilty he's
+1:16:111 hour, 16 minutes, 11 secondsinnocent it was a false accusation nothing happened yes yes it doesn't really matter if the evidence or he's innocent yeah he's
+1:16:201 hour, 16 minutes, 20 secondsinent very innocent that's not terrifying I mean what we could do is
+1:16:311 hour, 16 minutes, 31 secondslike we just if if we have another person we just make Reby fight as the champion
+1:16:371 hour, 16 minutes, 37 secondsoh true true yeah yeah Remy is now our champion against any other criminals yeah well how many other
+1:16:471 hour, 16 minutes, 47 secondscriminals do we have aside from him uh I mean I mean if they get Ry back but the Comm between us uh I really don't think
+1:16:551 hour, 16 minutes, 55 secondsthat 's gonna let himself get taken no especially because he's he is in Commonwealth right and then we have to
+1:17:031 hour, 17 minutes, 3 secondsyeah he's we have to take him by force yeah and that would what if we all just go there and be like oh we're having a party come on he he won't he won't dig
+1:17:121 hour, 17 minutes, 12 secondsit yeah we they're not gonna fall for that
+1:17:211 hour, 17 minutes, 21 secondsexactly Jes no he killed Jesus Jesus Jesus we're
+1:17:281 hour, 17 minutes, 28 secondssupposed to kill Jes oh my god there better be 11 days what the heck all right well I have
+1:17:361 hour, 17 minutes, 36 secondsto go check in on my construction cohort or my construction crew now this was
+1:17:421 hour, 17 minutes, 42 secondseventful okay I got thank you to all of you dude that is wild I think I'm going
+1:17:521 hour, 17 minutes, 52 secondsto get into the video with that at the very last moment when they were about to have their fight it was going
+1:17:591 hour, 17 minutes, 59 secondsto be Remy in full armor versus riddit with no armor and I I the yeah the person that
+1:18:071 hour, 18 minutes, 7 secondswell I'm going to be part of the plot the person that um the person that uh was he was
+1:18:151 hour, 18 minutes, 15 secondsfighting Reddit who tried to assassinate me and six others I came out and gave him my chest plate for the fight
+1:18:231 hour, 18 minutes, 23 secondsuh some Channel again uh no he has not died he is still alive and well and making more
+1:18:381 hour, 18 minutes, 38 secondssongs I eventually do want to check out INF furnace D there's a lot of death who SP that was whoa whoa whoa holy dude can
+1:18:471 hour, 18 minutes, 47 secondsI can I shepher you into the Coliseum please all right to the Coliseum spider's gone okay um that was our that was our second in command that was that
+1:18:551 hour, 18 minutes, 55 secondswas our second in command that just died oh my
+1:19:101 hour, 19 minutes, 10 secondsGod that's massive I feel that's yeah our second in command just got assassinated as well as another military
+1:19:201 hour, 19 minutes, 20 secondsmember that's what not assassinated it was likely a ATT yeah no this holy crap we just lost
+1:19:281 hour, 19 minutes, 28 secondsspider holy [ __ ] he a war he just died got murdered he just got murdered yeah spider just died he just died yeah oh my
+1:19:371 hour, 19 minutes, 37 secondsgod oh I just saw the GTA oh my God uh military should be protecting the Coliseum right now or SP he uh he went he went to go he went to Commonwealth to
+1:19:451 hour, 19 minutes, 45 secondstalk to R that's what happened oh wow okay so they're setting up more yeah we need to give up the fight on Ry B they they just killed spiders so
+1:19:541 hour, 19 minutes, 54 secondswe're not giving it up okay yeah that's fair we're going to war with them I think probably we should we should officially declare war where's food dude I'm the senator of
+1:20:031 hour, 20 minutes, 3 secondsconstruction I'm way out of my debt depth oh
+1:20:141 hour, 20 minutes, 14 secondsis if you guys are you guys should be protecting shm right now probably well but there's permanent
+1:20:221 hour, 20 minutes, 22 secondsbodyguard okay good because careful yeah they've been there since day one no no no I know I know but I if I had to
+1:20:311 hour, 20 minutes, 31 secondsguess now would be the time for someone try Topp us
+1:20:381 hour, 20 minutes, 38 secondsyeah like one or two yeah that's fair don't I guess I'm a little worried okay I'm just a little sorry about that
+1:20:451 hour, 20 minutes, 45 secondsI'm just a little uh on edge yeah yeah this whole this whole thing is shaking me up a little of course of course
+1:20:551 hour, 20 minutes, 55 secondsdude holy crap
+1:21:051 hour, 21 minutes, 5 secondsJesus that's uh ish by the way at the Coliseum that was um that was the creator he he was watching that
+1:21:141 hour, 21 minutes, 14 secondsfight wedding at West H hel had time for a wedding all right
+1:21:251 hour, 21 minutes, 25 secondscome I'm busy trying to get the clip of ridit death you should probably do that after
+1:21:331 hour, 21 minutes, 33 secondsthe event after this I'm probably go back hey do you have I got stuck
+1:21:481 hour, 21 minutes, 48 secondsyeah hello how you going uh I'm going fine uh yeah yeah I heard about I saw that death that was pretty yeah yeah no
+1:21:561 hour, 21 minutes, 56 secondsum so spider just died and yeah and I almost got assassinated with six
+1:22:051 hour, 22 minutes, 5 secondsothers oh my God where were uh that was on us our little trial with Reddit luckily I realized that this was 100% a
+1:22:141 hour, 22 minutes, 14 secondstrap and was able to back out which I probably shouldn't have for the story but I I my character is also
+1:22:221 hour, 22 minutes, 22 secondson edge and very careful so keep in mind I'm yeah uh I'm a builder at heart I am not a
+1:22:291 hour, 22 minutes, 29 secondssenator um and also yes General if you die you die what what what was your question what was like what was his trap
+1:22:361 hour, 22 minutes, 36 secondsor something okay so we were going to have a vote and there were two sides there was a red and a blue carpet and depending on the vote we were going to
+1:22:441 hour, 22 minutes, 44 secondsstand on the red or the blue and everyone that voted him guilty was going to get killed but somebody broke the carpet and discovered the Trap
+1:22:541 hour, 22 minutes, 54 secondstrap but I already knew it was a trap going into it I almost didn't follow him down there and I was very very careful
+1:23:021 hour, 23 minutes, 2 secondsand so I didn't even see it happen but luckily nobody was caught in there he fled the scene but Ward someone who's going to vote him innocent got trapped
+1:23:101 hour, 23 minutes, 10 secondsunder some water remember General water is boiling in this island you die in water and he came back and turned
+1:23:181 hour, 23 minutes, 18 secondshimself in so that he could help Ward Escape building uh but not out of like kindness because
+1:23:251 hour, 23 minutes, 25 secondsshe was going to die yeah uh but or or like because someone was going to die it's because he was a
+1:23:321 hour, 23 minutes, 32 secondssympathizer now General it's the idea is the rich Island versus the poor island we are the poor
+1:23:391 hour, 23 minutes, 39 secondsisland describe is um we're the poor island but we have become the richest and strongest Nation despite being on
+1:23:471 hour, 23 minutes, 47 secondsthe poor island I'll be back in like 20 I'll talk to him I'll talk stop should you got the what the [ __ ] our second in command got assassinated once before and
+1:23:541 hour, 23 minutes, 54 secondsspider took over the position holy
+1:24:031 hour, 24 minutes, 3 seconds[ __ ] uh dude this is wild man that seems
+1:24:121 hour, 24 minutes, 12 secondsunfortunate yeah no the whole thing is is rough uh nobody died though except for him so I guess it's not that big of a
+1:24:201 hour, 24 minutes, 20 secondsdeal okay well we've are second the left and the right hand now I
+1:24:261 hour, 24 minutes, 26 secondsguess yeah oh yeah we've left both oh [ __ ] so the emperor is just ahead on a
+1:24:341 hour, 24 minutes, 34 secondson a torso now doesn't have any left or right hand man
+1:24:421 hour, 24 minutes, 42 secondsyeah that means we have to go to war doesn't it yeah we're going to go to war with uh I have a feeling that he that
+1:24:511 hour, 24 minutes, 51 secondsuh [ __ ] I have a feeling that sh is going to get assassinated by the end of the
+1:24:571 hour, 24 minutes, 57 secondsseason that is a so Commonwealth uh we have to fight we don't have we must the
+1:25:041 hour, 25 minutes, 4 secondsprevious senator of construction already have to plotted against oo our second in command and assisted in his death well
+1:25:121 hour, 25 minutes, 12 secondsnot assisted he didn't do enough to prevent it from happening he then fled this place to Commonwealth
+1:25:201 hour, 25 minutes, 20 secondsCommonwealth is on Island and their politics are [ __ ] Island 2 had was rolling in diamonds they had so much
+1:25:281 hour, 25 minutes, 28 secondsores they had everything they could have wanted but they got bored are we gathering at the colum they didn't die
+1:25:351 hour, 25 minutes, 35 secondsthey didn't die last Senator did not die um I don't know to be
+1:25:411 hour, 25 minutes, 41 secondshonest he fled after the guilt of not doing more to help oo
+1:25:491 hour, 25 minutes, 49 secondsyeah he he fled to Island 2 to Commonwealth Commonwealth is in disarray and they are our biggest uh aggressors
+1:25:571 hour, 25 minutes, 57 secondsright now he fled to Commonwealth and we went hey what's up are you from uh what good where are you
+1:26:051 hour, 26 minutes, 5 secondsfrom I'm just one oh you're a Blue Cross oh uh would you like some like iron armor or anything oh no I have some okay
+1:26:121 hour, 26 minutes, 12 secondsokay okay well welcome to the Citadel oh thank you appreciate it just want to see what this building was yeah
+1:26:201 hour, 26 minutes, 20 secondsyeah uh hey the admin dude if you pester an admin on
+1:26:301 hour, 26 minutes, 30 secondsThis Server you will never get in yeah yeah we're still we're still doing some finishing touches but yeah this is where all the Senate meetings
+1:26:371 hour, 26 minutes, 37 secondsare are held pure Dro does work on the server yes pjo and KK both however they do they
+1:26:471 hour, 26 minutes, 47 secondsare not event staff they are developers thank you for letting me come in of course of course no
+1:26:561 hour, 26 minutes, 56 secondsproblem yeah yeah yeah um this is a large YouTuber they got 7500 applications for last for this
+1:27:051 hour, 27 minutes, 5 secondsseason um so yeah we
+1:27:121 hour, 27 minutes, 12 secondshave uh yeah anyways um Commonwealth had the insane assassination uh thing that happened uh
+1:27:211 hour, 27 minutes, 21 secondsRy is there we sent yesterday we were going to send delegates to go fetch Arty
+1:27:271 hour, 27 minutes, 27 secondswho by the way I sympathize with I like Ary I think that he needs to be tried for his crimes but we're never going to
+1:27:341 hour, 27 minutes, 34 secondscatch him we um he just wants to live his days on the countryside without worry of death and so although I'm a
+1:27:421 hour, 27 minutes, 42 secondssympathizer I'm not in any way going to betray uh West H I am I am a West helian
+1:27:501 hour, 27 minutes, 50 secondsthrough and through and and um like if spw asked me to be his right-hand man right now I would take
+1:27:571 hour, 27 minutes, 57 secondsthat job I don't care about the stress or the risk of assassination I would do it
+1:28:061 hour, 28 minutes, 6 secondsum the uh so we went to go fetch Ry we were going to send a and this is not
+1:28:131 hour, 28 minutes, 13 secondsaard d y this is a r TI e aka the previous senator of construction we were going to fetch him
+1:28:211 hour, 28 minutes, 21 secondsand send a legate a AKA delegate you know basically a somebody who's a diplom
+1:28:291 hour, 28 minutes, 29 secondsdiplomat to go uh retrieve him they set up an ambush in the Commonwealth but when 15 military 15 of
+1:28:381 hour, 28 minutes, 38 secondsour military arrived instead they called it off nobody's farming this so I I think
+1:28:491 hour, 28 minutes, 49 secondsI'm okay to to take some of this and plant it I might even leave some in the
+1:28:561 hour, 28 minutes, 56 secondschest I don't really want to take a uh bre three oh God hey breakfast is not
+1:29:021 hour, 29 minutes, 2 secondshappening this time here that's good yesterday's breakfast was chaotic as
+1:29:091 hour, 29 minutes, 9 seconds[ __ ] um so they just spent sent spider our second in command now or I guess originally third in command now second
+1:29:181 hour, 29 minutes, 18 secondsin command to I guess uh declare war slash retrieve him not sure and they
+1:29:251 hour, 29 minutes, 25 secondskilled him and another military member so we are now going to declare war we were already thinking about it so this is
+1:29:391 hour, 29 minutes, 39 secondsguaranteed yeah it's not even hey quarter Masters thank you for
+1:29:471 hour, 29 minutes, 47 secondsuh staying at your post during all the chaos you're committed
+1:29:531 hour, 29 minutes, 53 secondsI try I don't know where the other guys are yeah I don't have that I don't have
+1:30:031 hour, 30 minutes, 3 secondsif you go to the ish Discord it should be discord.gg is uh you can uh message any of the event
+1:30:141 hour, 30 minutes, 14 secondsstaff you can see there top left you can see a bunch of the event staff admins or anyone with uh with four red dots and
+1:30:221 hour, 30 minutes, 22 secondsthen event staff I think is the single purple I'm not
+1:30:291 hour, 30 minutes, 29 secondssure of I'm I'm going to drop some stuff here
+1:30:421 hour, 30 minutes, 42 secondsI picked up for over time I should have this on
+1:30:501 hour, 30 minutes, 50 secondsme a war yeah I just got back oh and you hey do you have any
+1:30:581 hour, 30 minutes, 58 secondslapis you can spare Jesus how can I thank you very much I'll just take half return I don't use hey
+1:31:071 hour, 31 minutes, 7 secondsGrand hey there were you guys at the meeting I was Far think we're going to
+1:31:171 hour, 31 minutes, 17 secondswar oh my against the guys that k spider yeah um ex we're not going
+1:31:251 hour, 31 minutes, 25 secondsWar us I think we're another one as well there's like a few people but I don't think it's going to be
+1:31:331 hour, 31 minutes, 33 secondstomorrow from the sounds of what I heard each we're going to have a building session tomorrow and then it's going to be the day after hello hello uh can I
+1:31:411 hour, 31 minutes, 41 secondshave a blast furnace uh some hay and some uh some iron for anvils to for the
+1:31:481 hour, 31 minutes, 48 secondstop of the C statue uh oh yeah so uh do discord.gg is in any DM
+1:31:581 hour, 31 minutes, 58 secondsjust do it in mind that should get you to the Discord you can then message an event staff uh event staff you can see the ones that are on right now are on
+1:32:061 hour, 32 minutes, 6 secondsthe top left but they should be available have a blast furnace what else you want I I can I can craft a blast furnace uh so can I have uh some smooth Stone yeah and I also need some wheat
+1:32:151 hour, 32 minutes, 15 secondsfor ha really affect the build so and I think some diorite and andesite and Stone
+1:32:261 hour, 32 minutes, 26 secondsso these are the uh quarter Masters by the way this was my build project The Citadel I was I that was the the team
+1:32:331 hour, 32 minutes, 33 secondsthat I led whereas zti uh who is now uh co- or the uh second in command yeah uh
+1:32:401 hour, 32 minutes, 40 secondsled the Coliseum build I can go check hold on I've got to do a graveyard only I was
+1:32:481 hour, 32 minutes, 48 secondsone I you thank you thank you thank you I appreciate it all right thank you all right I also got to start on the
+Chapter 7: Constructing the graveyard
+1:32:591 hour, 32 minutes, 59 secondsuh on the graveyard that was the first bit of
+1:33:081 hour, 33 minutes, 8 secondsdrama that I've been directly associated with let me find some dirt to fill this
+1:33:161 hour, 33 minutes, 16 secondsin with maybe the rest of the requia members join up I don't know with the common hey guys uh so right now this
+1:33:251 hour, 33 minutes, 25 secondsthis is kind of troubled times I don't know if you guys heard we did okay just just letting you know you might want to have a couple people ready to uh cut
+1:33:341 hour, 33 minutes, 34 secondsdown the just like the leaves left if you want to cut down the leaves also kind of awkward but we planed the
+1:33:411 hour, 33 minutes, 41 secondsgraveyard for right next to this so if if you'd like if you'd like for me to wait until after the wedding
+1:33:481 hour, 33 minutes, 48 secondsto start I can do that snow if we can get it that would be logical yeah yeah okay I I'll wait until the end of the wedding to start start building the
+1:33:571 hour, 33 minutes, 57 secondsgraves and burying bodies right so that's nothing to I know exactly so I'll work on all the cobblestone stuff that's hilarious what are you guys working on
+1:34:061 hour, 34 minutes, 6 secondsyeah a temple outside the Citadel oh okay this this this okay yeah good good job guys uh sorry that I haven't really been here I was dealing with all that
+1:34:131 hour, 34 minutes, 13 secondsdrama uh I'm going to be Focus I'm going to wait until after the wedding to start the graveyard because it's right next to the wedding and it would be kind of odd
+1:34:211 hour, 34 minutes, 21 secondsuh you know bury bodies right next to the wedding while it's happening that's just a little tone
+1:34:291 hour, 34 minutes, 29 secondsdeatha uh here we're here to celebrate I'm lugging O's corpse around while they're like you might may now kiss and
+1:34:361 hour, 34 minutes, 36 secondsI'm like actively like this Temple could just be O's grave oh yeah we could put the the set no but o o and Lizzie have a
+1:34:441 hour, 34 minutes, 44 secondsnice Grave by the shore I think it's kind of quite nice so I think we're going to leave them there this okay
+1:34:501 hour, 34 minutes, 50 secondsReserve this for spood yeah maybe spider or yeah I guess oh I I
+1:35:001 hour, 35 minutesguess we should ask oo like just out of character just ask him if you'd prefer no but but it's kind of better if it comes from
+1:35:121 hour, 35 minutes, 12 secondsus yeah that's fair enough where this okay
+1:35:211 hour, 35 minutes, 21 secondsso we just declared war but we're going to wait two days to get to it that's kind of weird like
+1:35:291 hour, 35 minutes, 29 secondstomorrow yeah you didn't hear that oh so so it's like a planned War cuz yeah he needs a big finale yeah so that's they giving
+1:35:381 hour, 35 minutes, 38 secondstomorrow a build day which is going to be oh tomorrow a build day as well he said it's a build day but it's mainly for people to prepare like get resources ready for the war which is going to be
+1:35:461 hour, 35 minutes, 46 secondsthe day after but also for us Builders it's also just good because it means it gives us a build day yeah that's that's
+1:35:531 hour, 35 minutes, 53 secondswhat I heard is say he might change plans but still uh I wonder if we're going to have to
+1:36:011 hour, 36 minutes, 1 secondfight I mean I'll fight I I'll fight if I need to I I got to the quarterfinals in the uh no I died in the first round
+1:36:081 hour, 36 minutes, 8 secondsbut I I still I'll I'll do it anyway I I'll still fight I mean if you'd like you don't have to yeah as Senator construction none of the builders are
+1:36:171 hour, 36 minutes, 17 secondsunless SPO overturns this like SP is the only one currently able to overturn this ruling that Builders do are not required
+1:36:261 hour, 36 minutes, 26 secondsto fight just move to our Villas and just go ah yes nice nice retirement what are
+1:36:331 hour, 36 minutes, 33 secondsthey going do are they going yeah are they going to retire
+1:36:461 hour, 36 minutes, 46 secondswhy that's what um nap is working on
+1:37:041 hour, 37 minutes, 4 secondshere I'm going to make a list of things that I need right now oh jeez I've got two pings oh West Home official announcements you GNA go
+1:37:121 hour, 37 minutes, 12 secondsto the wedding hello oh oh I should have attended the meeting I didn't see that I might stop by in a bit Yeah I think I'll
+1:37:191 hour, 37 minutes, 19 secondsdo the same no I I think I think it's over oh wait what are you guys talking about the wedding oh yeah
+1:37:281 hour, 37 minutes, 28 secondsyeah is it over someing someone please break before it
+1:37:361 hour, 37 minutes, 36 secondsgrows right at the Grave by the entrance to
+1:37:451 hour, 37 minutes, 45 secondsthe the quter Masters
+1:37:561 hour, 37 minutes, 56 secondsthis sounds a bit hectic getting a bit
+1:38:081 hour, 38 minutes, 8 secondsheated actually what am I doing I'm working I should be working from the inside that's much easier what am I doing it's
+1:38:201 hour, 38 minutes, 20 secondsdumb West Helm planting the booes oh my Lord
+1:38:281 hour, 38 minutes, 28 secondsanother one grew [ __ ] no I cut that one down already but
+1:38:371 hour, 38 minutes, 37 secondsit's I just removed four saplings over here just the I know they're so annoying they're so annoying to remove yeah
+1:38:451 hour, 38 minutes, 45 secondssomeone's spamming saplings again crucify them
+1:38:531 hour, 38 minutes, 53 secondsthe crime of planting trees you will now be executed uh the funny thing is everybody
+1:39:011 hour, 39 minutes, 1 secondon the build team hates them okay I'm heading over to the wedding all right okay I'm just gonna
+1:39:101 hour, 39 minutes, 10 secondsdestroy this one as well and I'm gonna head there as
+1:39:201 hour, 39 minutes, 20 secondswell I did not mean to do
+1:39:381 hour, 39 minutes, 38 secondsthat yeah let's try
+1:39:451 hour, 39 minutes, 45 secondsoh this is our vacation today so we're going we're going crazy
+1:40:041 hour, 40 minutes, 4 secondsall right thank you thank you thank you right you as
+1:40:161 hour, 40 minutes, 16 secondswell hi hi I need like oh wait are okay sorry sor are you just enchanting okay uh can I
+1:40:251 hour, 40 minutes, 25 secondshave okay this is kind of an odd order I need about like five more iron blocks I
+1:40:311 hour, 40 minutes, 31 secondsneed like I don't know 10 or 16 bamboo
+1:40:371 hour, 40 minutes, 37 secondsblocks uh I need like 16 Spruce logs or wood and uh I don't know uh 10 do we
+1:40:471 hour, 40 minutes, 47 secondshave jungle we got some okay so like five or 10 jungle logs uh and then a little bit of
+1:40:551 hour, 40 minutes, 55 secondsMangrove if you have it and do you have pumpkins five oh oh whoops my bad my bad oh no I'm sorry I'm sorry here here here
+1:41:041 hour, 41 minutes, 4 secondsokay okay my my bad I'm so
+1:41:141 hour, 41 minutes, 14 secondssorry got any specific names I do not
+1:41:211 hour, 41 minutes, 21 secondsthis event is currently closed though somehow there's at least 700 people alive still dude the last event they did by
+1:41:301 hour, 41 minutes, 30 secondsday like 10 there were only like or by day like five there were only like six people alive or 600 people
+1:41:381 hour, 41 minutes, 38 secondsalive or 400 like there there was it went way faster last
+1:41:481 hour, 41 minutes, 48 secondstime all right thank you so oh thank you so much I appreciate it oh and Noah
+1:42:001 hour, 42 minutesjungle uh final day might be tomorrow or it might be the day after oh it's the day after
+1:42:071 hour, 42 minutes, 7 secondstomorrow it was a it's a 10 to 11 Day event thank you thank you I appreciate it sorry about hitting you okay hey
+1:42:161 hour, 42 minutes, 16 secondspanap panap oh wait we don't have diamonds anymore oh whoa whoa whoa whoa whoa whoa that those were leaders of uh
+1:42:271 hour, 42 minutes, 27 secondsCovenant wow wow
+1:42:331 hour, 42 minutes, 33 secondswow it dude sag slag tis are the best execution method it's
+1:42:451 hour, 42 minutes, 45 secondsinstant what the
+1:42:491 hour, 42 minutes, 49 seconds[ __ ]
+1:42:531 hour, 42 minutes, 53 secondswhoa who's that I don't know who that is uh because they only do one of these
+1:43:011 hour, 43 minutes, 1 secondevery 6 to eight months dude you know the amount of planning it takes to get a 1,000 they did all this map is custom they had to come up with a concept you
+1:43:101 hour, 43 minutes, 10 secondscan only do like two of these a year it's why there's
+1:43:181 hour, 43 minutes, 18 secondsapplications also only why only like 15% of us actually got like
+1:43:311 hour, 43 minutes, 31 secondsin okay oh wait that was that was
+1:43:491 hour, 43 minutes, 49 secondsproper oh that's already
+1:43:551 hour, 43 minutes, 55 secondsplaced we have uh stone brick
+1:44:071 hour, 44 minutes, 7 secondsstairs we'll start off with stone bricks yeah no this is this is an
+1:44:141 hour, 44 minutes, 14 secondsintense event plus it's two hours of everyone's day for like two plus we our
+1:44:211 hour, 44 minutes, 21 secondsbuild day last time was 4 hours long two plus hours each day this
+1:44:281 hour, 44 minutes, 28 secondsevent how do you how do you carve a pumpkin oh well this is about to break
+1:44:351 hour, 44 minutes, 35 secondsit is it sheares it's shares right I think it's
+1:44:451 hour, 44 minutes, 45 secondsshares oh oh [ __ ] well oh wait that that broke it
+1:44:551 hour, 44 minutes, 55 secondsproperly oh wow okay I forgot that you can just break pumpkins okay cool I'm
+1:45:021 hour, 45 minutes, 2 secondsnot going to complain INF ferace isn't going into a closed building where assassinations have taken place good idea INF ferace
+1:45:111 hour, 45 minutes, 11 secondsthey're meeting at the Commonwealth I think where those stag assassinations happened on day three or
+1:45:191 hour, 45 minutes, 19 secondssomething and then a
+1:45:281 hour, 45 minutes, 28 secondsbamboo how you do bamboo PL like dry bamboo the bamboo planks and
+1:45:471 hour, 45 minutes, 47 secondsthen okay yeah yeah yeah so is this
+1:46:011 hour, 46 minutes, 1 secondthis dude I need to empty my inventory a little bit holy
+1:46:141 hour, 46 minutes, 14 secondscrap I didn't get the other iron I needed that's fine whatever
+1:46:221 hour, 46 minutes, 22 secondsiron must be in short supply right now apparently they're having issues mining so they're probably being very
+1:46:311 hour, 46 minutes, 31 secondscautious that's a bamboo Mosaic how do you do bamboo Bamboo Mosaic oh
+1:46:381 hour, 46 minutes, 38 secondsit I don't know is it a stone
+1:46:491 hour, 46 minutes, 49 secondscutter no obviously not yeah I have no
+1:47:001 hour, 47 minutesclue oh whoa banhammer new kids was banned
+1:47:111 hour, 47 minutes, 11 secondsokay got first ban
+Chapter 8: Resource gathering and dialogue
+1:47:211 hour, 47 minutes, 21 secondsfarmer statue is almost
+1:47:391 hour, 47 minutes, 39 secondsdone God damn it okay there's tons of boats up here dude I hate working like this like this is such a waste of time God I hate working like
+1:47:471 hour, 47 minutes, 47 secondsthis yeah it's not that it's it's specifically like I I'm doing the statues up here and they're so timec
+1:47:551 hour, 47 minutes, 55 secondsconsuming for no reason the statues you mean the um in the Citadel okay
+1:48:021 hour, 48 minutes, 2 secondsright oh there's lives inside the temple oh my yeah I know it's so jungle fence I think it's jungle
+1:48:111 hour, 48 minutes, 11 secondsfence wait it'll tell me guys oh my God I just went F yeah you
+1:48:191 hour, 48 minutes, 19 secondssaid what I went to Island too and really okay what what for why be very careful because there's traps everywhere traps I
+1:48:281 hour, 48 minutes, 28 secondsit was crazy before just made that announcement I was literally just in luminar what's up luminara I don't know whatever it's
+1:48:371 hour, 48 minutes, 37 secondscalled I was there that's where I was I had to go because the quarter Masters had no uh dye or wool so I had to go to
+1:48:441 hour, 48 minutes, 44 secondsI'm just a builder I did see the wedding yeah okay okay are we cool with you guys yeah know
+1:48:521 hour, 48 minutes, 52 secondsthat was interesting that was a it's good did you hear about the war yeah all right between me and you
+1:49:001 hour, 49 minuteswe're cool I like your uh your banners trying to look at your Shield oh God yeah probably oh that's awesome love
+1:49:091 hour, 49 minutes, 9 secondsthat is it a squ now I have literally everything I purple D and everything this is great the milk shop yeah great
+1:49:181 hour, 49 minutes, 18 secondsgood where you from going to be done by the end of the day
+1:49:301 hour, 49 minutes, 30 secondshopefully so yum Cookie how are we doing Stone wise what do we need um I think we're doing fine Stone wise um it's just
+1:49:391 hour, 49 minutes, 39 secondsI need like dirt just to do scaffolding I'll just take this there's a lot of dirt there right
+1:49:471 hour, 49 minutes, 47 secondsperfect there's more in the small test if you want yeah okay um so tomorrow might be a build day
+1:49:551 hour, 49 minutes, 55 secondsI did over here is talking about something like that so maybe tomorrow be build day to like preparation for the actual like you know
+1:50:031 hour, 50 minutes, 3 secondsyeah for the actual War that's Escape Route in case anything happens something worthy of him making a
+1:50:131 hour, 50 minutes, 13 secondsvideo what do you mean you don't take fall damage if you're in a boat yeah and there are holes or esape
+1:50:221 hour, 50 minutes, 22 secondsboots around there yes okay what is this these are these are statues to honor so this is a farmer
+1:50:301 hour, 50 minutes, 30 secondsstatue and we're uh over there is going to be uh the uh uh culture statue so our community
+1:50:371 hour, 50 minutes, 37 secondsstatue uh this is our uh military statue and this is our Building statue
+1:50:441 hour, 50 minutes, 44 secondsbut we haven't built them going to yes yes I'm looking at the schematic right now so I see them
+1:50:511 hour, 50 minutes, 51 secondsthat's nice dude you're this is gorgeous thank you thank you thank you it's not even done we still have a the
+1:51:001 hour, 51 minutesRO we have so we won't be needing snow make sure you do a mix of both polished and
+1:51:081 hour, 51 minutes, 8 secondsnon-polished yeah I was the one that made looks we have a few builds I when I when
+1:51:171 hour, 51 minutes, 17 secondsI made it I used I used I'll check out the progress to go over there yeah exactly
+1:51:251 hour, 51 minutes, 25 secondsso it's better off yeah not that much to see like at the front facade will be finished
+1:51:321 hour, 51 minutes, 32 secondsbut yeah we have other of trouble we're unfortunately a bit short in lab at the yeah I understand that we uh we had a
+1:51:391 hour, 51 minutes, 39 secondsbunch of our Builders trying to find whats to the space over here with and it
+1:51:451 hour, 51 minutes, 45 secondswas the perfect size this return Maybe hey guys oh you do the ah yes you did
+1:51:531 hour, 51 minutes, 53 secondsthe fountain that's good let's go a dude this is going to be rough I don't know replaced
+1:52:001 hour, 52 minutesthe uh what's it called uh the bricks you had on their roof with I should really uh fair enough
+1:52:091 hour, 52 minutes, 9 secondsthat's fair enough this is the
+1:52:211 hour, 52 minutes, 21 secondsthis I need a b another bamboo trapo why is it so expensive to make
+1:52:291 hour, 52 minutes, 29 secondsbamboo oh because it's so cheap to like get bamboo
+1:52:421 hour, 52 minutes, 42 secondsitself oh whoa just popped into place I need two spruce
+1:52:591 hour, 52 minutes, 59 secondsoh wait this would have been more than enough okay that's fine yeah know I'm struggling right now just to like so why does commonwealth
+1:53:081 hour, 53 minutes, 8 secondshate us so much we hate we hate them they're housing already and they
+1:53:151 hour, 53 minutes, 15 secondsand they uh planned an ambush oh they also just they killed our leaders
+1:53:231 hour, 53 minutes, 23 secondsor did to them is that what happened again yeah
+1:53:311 hour, 53 minutes, 31 secondswas General I I am so busy in my life right now if you want to learn how to stream there are literally thousands of
+1:53:391 hour, 53 minutes, 39 secondsvideos you can you can follow that will be far better at explaining than I assume we get a trial he gets
+1:53:481 hour, 53 minutes, 48 secondsmurdered why are we are we still sending them on their own for that we should be sending like 10 guards with them uh well we did
+1:53:571 hour, 53 minutes, 57 secondsoriginally the original uh uh Ambush was thwarted because we sent more than they
+1:54:041 hour, 54 minutes, 4 secondswere uh we sent the military like 15 people oh you said you were like six and
+1:54:111 hour, 54 minutes, 11 secondsI thought you were like Diplomat and stuff well there was diplom there was going to be just a uh a uh legot
+1:54:201 hour, 54 minutes, 20 secondsthere but instead they sent like the whole military essentially which is why they which is why uh and nobody died during that cuz
+1:54:291 hour, 54 minutes, 29 secondsthey called it off the uh the
+1:54:401 hour, 54 minutes, 40 secondsAmbush uh it does not cost money it's called stream elements and if you're streaming on Twitch it's integrated into streamlabs
+1:54:481 hour, 54 minutes, 48 secondsOBS you streamlabs uh some of some features are locked with streamlabs OBS but you start the cemeter if not you can just uh do
+1:54:571 hour, 54 minutes, 57 secondsstream elements and uh you can figure out how to get it so that it
+1:55:131 hour, 55 minutes, 13 seconds[Music]
+1:55:151 hour, 55 minutes, 15 secondsshows who are you guys waiting for we're waiting for uh should I let him
+1:55:231 hour, 55 minutes, 23 secondsknow that you're here uh if you can in yeah I'm in okay okay so you already
+1:55:371 hour, 55 minutes, 37 secondsknow all
+1:55:481 hour, 55 minutes, 48 secondsright
+1:56:161 hour, 56 minutes, 16 secondshello good things
+1:56:391 hour, 56 minutes, 39 secondsun can I get this out of their way
+1:56:581 hour, 56 minutes, 58 secondsI'm I'm going to put a pumpkin here temporarily oh we have a smoke the smoker is what we need how do you craft
+1:57:071 hour, 57 minutes, 7 secondsa smoker oh wait so uh
+1:57:201 hour, 57 minutes, 20 secondsSP is out a trial or ending trial uh he left the trial already but then he had
+1:57:311 hour, 57 minutes, 31 secondsanother well there's no time like the present to propose our idea because it already sounds like the whole original plan fell apart but I guess Gauntlet
+1:57:381 hour, 57 minutes, 38 secondscould make it yeah although
+1:57:461 hour, 57 minutes, 46 secondsyeah make the warhe I should have told them it was collaborative effort I just kind of I
+1:57:541 hour, 57 minutes, 54 secondsmean it is true that this interior was heavily me but not all of
+1:58:031 hour, 58 minutes, 3 secondsit I just kind of choked into pressure there yeah I accidentally just do
+1:58:141 hour, 58 minutes, 14 secondsa yeah uh I think I will message you on
+1:58:221 hour, 58 minutes, 22 secondssounds good oh he's here
+1:58:291 hour, 58 minutes, 29 secondsoh helloo why are you guys
+1:58:351 hour, 58 minutes, 35 secondshere yeah it's pretty small one sec I'll be
+1:58:441 hour, 58 minutes, 44 secondsback sorry stuff's going down so you DM
+1:58:521 hour, 58 minutes, 52 secondsoh I'm going to put my character away whoa oh what oh [ __ ] Remy's gone
+1:59:041 hour, 59 minutes, 4 secondswhat did Remy do oh [ __ ] other hoods is our
+1:59:101 hour, 59 minutes, 10 secondsmilitary uh they what the [ __ ] they just said he was doing it for law
+1:59:171 hour, 59 minutes, 17 secondsso oh God I mean he wants to go out then oh
+1:59:301 hour, 59 minutes, 30 secondsgod oh frick we are losing a lot of members though I don't
+1:59:371 hour, 59 minutes, 37 secondslike uh hello bushes are literally the bane of my life okay sorry uh can I have some copper ingots and do you guys have
+1:59:441 hour, 59 minutes, 44 secondslike another enough for another an nice stuff so yeah they look nice yeah but they hurt and
+1:59:581 hour, 59 minutes, 58 secondsuh ask there no crafting table out of diamond dude we
+2:00:072 hours, 7 secondsare by who if you're going to get someone on W to murder for L you should probably let
+2:00:152 hours, 15 secondsus know first yeah that would be very question I was just I wasn't asking
+2:00:232 hours, 23 secondsquestion okay thank you thank you oh wait there's
+2:00:352 hours, 35 secondsa and you also have uh a little bit of Cobble and some Redstone just enough
+2:00:462 hours, 46 secondsfor I don't think I'm going to do an observer I do not use lunar I use Labby because
+2:00:542 hours, 54 secondsof features like check this up here I'm just doing it based on the outside it looks better this
+2:01:022 hours, 1 minute, 2 secondsway okay yeah there I think yeah I know it was supposed to be a cobblestone on the inside but it looks nicer like that on
+2:01:112 hours, 1 minute, 11 secondsthe outside so I'm keeping it that way so uh with lbby I can
+2:01:182 hours, 1 minute, 18 secondsdo widgets Spotify check this
+2:01:292 hours, 1 minute, 29 secondsout lby is also just great because I can like talk to other people whole social thing so yeah I I
+2:01:362 hours, 1 minute, 36 secondsrecommend Lobby it's awesome it also allows you to use Fabric and stuff which I think lunar does as well
+2:01:442 hours, 1 minute, 44 secondsbut do you have the Siz Stone in the yes it has been yeah what do you want
+2:01:542 hours, 1 minute, 54 secondssorry um Stone SE the stone blocks at the back side if you can place them oh yeah I'll go do
+2:02:022 hours, 2 minutes, 2 secondsthat oh oh uh I was just build been a very eventful interesting day hasn't it should I uh lot of things happened what
+2:02:122 hours, 2 minutes, 12 secondsso I don't know if we're going to war tomorrow or the day after but I'm sure we'll find out
+2:02:342 hours, 2 minutes, 34 secondsguess I can't do that right using plot
+2:02:442 hours, 2 minutes, 44 secondsarmor okay pretty sure that's mostly done all right I'm just going to craft the materials down yeah okay good now let's finish the
+2:02:522 hours, 2 minutes, 52 secondscolumns add the top bit the top bit to the colum yeah
+2:02:592 hours, 2 minutes, 59 secondsthis okay Stone stairs aot I really want to get it done before have stone we do not have stone I have some I have stone
+2:03:092 hours, 3 minutes, 9 secondsI have stone but not much okay I'm going to ask for a couple of steps yeah
+2:03:152 hours, 3 minutes, 15 secondsask also for the for the we need the red Terra Cota to keep up I have I have 16
+2:03:232 hours, 3 minutes, 23 secondsred terra cotta I'm hoping that's enough is it I don't think it's enough it's don't they have any more that's the
+2:03:322 hours, 3 minutes, 32 secondsproblem I'll ask for a couple more if they have
+2:03:412 hours, 3 minutes, 41 secondsit reor 7 tempting
+2:03:532 hours, 3 minutes, 53 secondsguys what the crap is happening I don't know where everywhere a lot there's a lot of [ __ ]
+2:04:002 hours, 4 minutesgoing oh yeah Remy got killed by Remy was rdmd I think though right nobody had was no I think it was I think
+2:04:092 hours, 4 minutes, 9 secondsit was I think it was I think he wanted it to be
+2:04:152 hours, 4 minutes, 15 secondshonest suicide but with a you fly I have it too if that makes sense yeah probably
+2:04:232 hours, 4 minutes, 23 secondswon't even be in the video though I can I can turn it off yeah probably not but who
+2:04:312 hours, 4 minutes, 31 secondsknows that right there we go I should have it on me I have no
+2:04:472 hours, 4 minutes, 47 secondsidea
+2:05:032 hours, 5 minutes, 3 secondsoh many well at least it wasn't wizzy we could died even though he was kind of a prankster first day with that or was it
+2:05:122 hours, 5 minutes, 12 secondsthe second day that was the second day okay that was a glory to West Helm kill
+2:05:192 hours, 5 minutes, 19 secondsoh god what the [ __ ] happened well wizzy killed someone everyone same glory to westm so it must
+2:05:282 hours, 5 minutes, 28 secondshave been someone we didn't like that might have been a commonwealth I'm not
+2:05:392 hours, 5 minutes, 39 secondssure before the session ends I'm going to see if I can get more diamond armor just for you know reasons no you cannot they have no diamonds pretty much no
+2:05:462 hours, 5 minutes, 46 secondsdiamonds n never mind then where actually is the Commonwealth by the way is it on this island or the other
+2:05:552 hours, 5 minutes, 55 secondsIsland it's on the other Island okay well good to
+2:06:062 hours, 6 minutes, 6 secondsknow I have no idea what I just witnessed I don't have a diamond sword which is kind of
+2:06:172 hours, 6 minutes, 17 secondsconcerning all right I got 30 more request to stream what do you mean that should give us enough to finish it good
+2:06:242 hours, 6 minutes, 24 secondsgood good you you set that in settings what what do you mean stream you ever just you ever just look into the sky and wonder what art he's doing
+2:06:322 hours, 6 minutes, 32 secondsright now request I don't even know what you're talking about General where look tutoral I don't know what
+2:06:402 hours, 6 minutes, 40 secondshappened can you guys explain that what happened a with Arty yeah uh he defected
+2:06:482 hours, 6 minutes, 48 secondsafter his guilt or I guess not guilt yeah he left after his guilt defected went to Commonwealth we tried to get him back
+2:06:562 hours, 6 minutes, 56 secondsthey planned a Ambush didn't go through then we tried to get him back again today and they killed spider Common
+2:07:042 hours, 7 minutes, 4 secondsWealth housing Arty and now we're going to war with them all over Arty man
+2:07:162 hours, 7 minutes, 16 secondsyep um I would was he he was guilty because what his
+2:07:222 hours, 7 minutes, 22 secondshis his Aqueduct didn't work yeah uh no not just that also the uh the stuff with
+2:07:302 hours, 7 minutes, 30 secondsuh with oo I'm dropping some Stone stairs right ah thank thanks
+2:07:372 hours, 7 minutes, 37 secondsthanks yeah I've not been in the Blue Cross yet ah I'm going to try do the line of
+2:07:462 hours, 7 minutes, 46 secondsonight you're going to the that feels like here yeah yeah that's what I meant sorry
+2:07:542 hours, 7 minutes, 54 secondsgo into your settings and it should be like a stream key thing and you can post like look that
+2:08:012 hours, 8 minutes, 1 secondup right now is not the time to be discussing how to stream has anyone had any contact with RTI actually uh out of
+2:08:092 hours, 8 minutes, 9 secondscharacter yes okay so why is why is he killing so many
+2:08:162 hours, 8 minutes, 16 secondspeople he wants to be a uh
+2:08:262 hours, 8 minutes, 26 secondsyeah need oh no excuse me director 7's going off what's up with
+2:08:352 hours, 8 minutes, 35 secondsthat guy he's Mass killing people what the heck why yeah he he wants to be main character I
+2:08:432 hours, 8 minutes, 43 secondsthink uh mix of stuff mix of places
+2:08:502 hours, 8 minutes, 50 secondsyo uh can I get some food one of you
+2:08:572 hours, 8 minutes, 57 secondsguys y I'll just take a yeah
+2:09:082 hours, 9 minutes, 8 secondscarrots just jumping behind you filling up the a mix places there's a meeting going
+2:09:172 hours, 9 minutes, 17 secondson in the Citadel oh my God
+2:09:262 hours, 9 minutes, 26 secondsthat's yes let's go oh oh oh oh uh I believe it is northeast of here oh did I okay oh
+2:09:342 hours, 9 minutes, 34 secondsyeah I've missed it's you're going to go up the mountain I have some on me no I've got it I'm I'm just going to finish
+2:09:422 hours, 9 minutes, 42 secondsthe pillars I missed few I kind of want to explore some of the other areas but I just don't have all right there it is
+2:09:512 hours, 9 minutes, 51 secondsnice it was a good
+2:09:532 hours, 9 minutes, 53 seconds[Music]
+2:09:542 hours, 9 minutes, 54 secondsrun where that whole crowd of Island two people oh they they're heading to
+2:10:012 hours, 10 minutes, 1 secondmidnight okay they're just passing through he none of them knew how to get there though why why does everyone care about director 7 he literally just
+2:10:092 hours, 10 minutes, 9 secondskilled seven people
+2:10:122 hours, 10 minutes, 12 seconds[Music]
+2:10:152 hours, 10 minutes, 15 secondsyeah unless it was a cult in which k I think it
+2:10:322 hours, 10 minutes, 32 secondsis yep just
+2:10:412 hours, 10 minutes, 41 secondsdown you scared me for a sec I thought I was getting C leader
+2:10:502 hours, 10 minutes, 50 secondsgreen the first hi imagine being killed a lot of deaths today do anyone even like put a many
+2:11:002 hours, 11 minutesdeaths I can't tell uh I feel like having this
+2:11:122 hours, 11 minutes, 12 secondsum not sure how I feel about that given the whole situation with Reddit
+2:11:232 hours, 11 minutes, 23 secondshe this part's done I think the DI over yeah I think Di's
+2:11:342 hours, 11 minutes, 34 secondsdone I'll craft the
+2:11:422 hours, 11 minutes, 42 secondscampfires like literally so many deaths
+2:11:522 hours, 11 minutes, 52 secondswhoa Al mes are the MVP this
+2:12:002 hours, 12 minutes[Music]
+2:12:112 hours, 12 minutes, 11 secondsseason goel you just to
+2:12:262 hours, 12 minutes, 26 secondsus two just sitting outside the cannonballs came screaming through the
+2:12:352 hours, 12 minutes, 35 seconds[Music]
+2:12:402 hours, 12 minutes, 40 secondsSW she took crying then I watch the candle Lim and curl and sh
+2:12:482 hours, 12 minutes, 48 secondsshutter afraid to touch her and as the flame went dead I
+2:12:562 hours, 12 minutes, 56 seconds[Music]
+2:12:572 hours, 12 minutes, 57 secondsgot Tia outside the city burn all it was
+2:13:102 hours, 13 minutes, 10 secondshell on Earth wow whoa we used to have a performer like you I know
+2:13:212 hours, 13 minutes, 21 secondsdark I think this the first time breathing there he is you show me remember we were playing dead people
+2:13:312 hours, 13 minutes, 31 secondssolders soldiers they will come not everyone
+2:13:402 hours, 13 minutes, 40 secondscan I highly doubt you to really I join the Cavalry and perish from from home a
+2:13:462 hours, 13 minutes, 46 secondslife a life sweetest candy I may never live to
+2:13:552 hours, 13 minutes, 55 seconds[Music]
+2:14:092 hours, 14 minutes, 9 secondsknowes the that drove us our homes will drag the living back and limping from the darkness with our hatred and our
+2:14:172 hours, 14 minutes, 17 secondstrack
+2:14:192 hours, 14 minutes, 19 seconds[Music]
+2:14:242 hours, 14 minutes, 24 secondslad oh God it's called is State the way to infer you know yeah you you joined
+2:14:312 hours, 14 minutes, 31 secondsthe wrong one oh that's my bad what else do I have song again that
+2:14:382 hours, 14 minutes, 38 secondsfeel looks very topical okay follow me follow me I've got work to do but keep it
+2:14:452 hours, 14 minutes, 45 secondsup hope you're recording
+2:14:552 hours, 14 minutes, 55 secondsunfortunately I I have enough to do that I can't like just stay
+2:15:032 hours, 15 minutes, 3 secondswhoa oh the shaders
+2:15:132 hours, 15 minutes, 13 secondsright I okay I can pick that one out shiny there's still a meeting DRX I'm getting
+2:15:202 hours, 15 minutes, 20 secondsthe worst LU on these
+2:15:322 hours, 15 minutes, 32 secondspickaxes hey here's what I'm going to do
+Chapter 9: Finalizing the graveyard
+2:15:392 hours, 15 minutes, 39 secondsyo yeah yeah you know better back there yeah yeah can you uh tell them to come here real quick all right I'll
+2:15:492 hours, 15 minutes, 49 secondsget G I keep the important stuff on me now let's
+2:16:132 hours, 16 minutes, 13 secondsgo I've been getting really shitty enchanting
+2:16:212 hours, 16 minutes, 21 secondsyeah like I'm relatively safe around this whole thing okay I'm going to start working on the graveyard should be able to reach it right
+2:16:382 hours, 16 minutes, 38 secondstime last ioke to I there's a lot of people
+2:16:482 hours, 16 minutes, 48 secondsyou said three you want
+2:16:572 hours, 16 minutes, 57 secondsthree we're done oh gosh that's way more than three I'm seeing a lot of Sor we're not really
+2:17:062 hours, 17 minutes, 6 secondsyeah up hi is there any way that I could get like at least three diamonds a stack of
+2:17:162 hours, 17 minutes, 16 secondsbread tomorrow final day all right yeah I got I got to get
+2:17:272 hours, 17 minutes, 27 secondsthis graveyard though done
+2:17:362 hours, 17 minutes, 36 secondsokay so while I'm buying the quarter Masters I'm going to get some uh SP or dark
+2:17:462 hours, 17 minutes, 46 secondsC this is a Quarter Master Place yeah no
+2:17:542 hours, 17 minutes, 54 secondsit's really cool yeah I am being help we don't have mang welcome to West
+2:18:032 hours, 18 minutes, 3 secondsyou guys from uh we're just kind of traveling Nomads at this point we kind of all defected from our Nations okay okay well
+2:18:112 hours, 18 minutes, 11 secondswhere were you guys originally uh I'm shean she a uh I'm tricolor oh you're
+2:18:192 hours, 18 minutes, 19 secondstricolor okay we're actually like clst with tricolor yeah no I know I was one of the uh I was one of the uh leaders of Tri but I kind
+2:18:272 hours, 18 minutes, 27 secondsof yeah quite a few things happened and then like this is one of the only few days I'm able to play the event so you
+2:18:352 hours, 18 minutes, 35 secondsknow well welcome welcome do you have any diorite for the
+2:18:412 hours, 18 minutes, 41 secondsbuilders yeah yeah no I'm single like a pretty just came here
+2:18:512 hours, 18 minutes, 51 secondschick what do you mean by he came in here earlier thank you very much hello can I
+2:18:582 hours, 18 minutes, 58 secondsget some andesite uh some Stone and some dark oak SL Spruce for the graveyard can I get some
+2:19:062 hours, 19 minutes, 6 secondsnumbers I don't know a stack of logs of dark oak uh you have
+2:19:142 hours, 19 minutes, 14 secondsit and the other blocks oh uh other blocks mean just like a couple stacks of stone a couple stacks of
+2:19:222 hours, 19 minutes, 22 secondsandesite okay thank you oh wow hello hey guys sorry we're we're working on something special why why you been
+2:19:322 hours, 19 minutes, 32 secondst Okay found exactly two of them thank you very hey blue
+2:19:422 hours, 19 minutes, 42 secondsCR we've been here enough times you know for numbers yeah yeah my bad I this one we didn't have a schematic for so okay
+2:19:512 hours, 19 minutes, 51 secondsyeah appreciate it have you one off gun we can walk out a little bit and if you have
+2:20:012 hours, 20 minutes, 1 secondlike I missed most of the drama because I've been like I haven't seen any of the other nations other than screenshots and
+2:20:092 hours, 20 minutes, 9 secondsuh some videos how the [ __ ] are we going to
+2:20:182 hours, 20 minutes, 18 secondsconvert this to a graveyard
+2:20:332 hours, 20 minutes, 33 secondsokay uh do it on Discord send him a link on your
+2:20:392 hours, 20 minutes, 39 secondsDiscord your Discord not uh not here
+2:21:002 hours, 21 minuteshey uh hey when you guys are done are you guys down to help with the graveyard sure
+2:21:092 hours, 21 minutes, 9 secondsawesome I don't know how looks we'll see I think I have a few more roads to put leaves so
+2:21:182 hours, 21 minutes, 18 secondsif we have time I'll come help also I don't know if tomorrow is going to be a build day or anything no tomorrow's going to be the final day apparently
+2:21:242 hours, 21 minutes, 24 secondsokay okay well that's fine to this build literally just took like
+2:21:332 hours, 21 minutes, 33 secondsone session which is good it's almost done so that's yeah a bunch of our plans we couldn't complete which is unfortunate I know but you
+2:21:422 hours, 21 minutes, 42 secondsknow whatever
+2:22:052 hours, 22 minutes, 5 secondsshould have an axe okay yep done enough got enough for that good nice do you have like any and theight on you so
+2:22:132 hours, 22 minutes, 13 secondsI can continue the roof I and theight yeah sure I'll give you
+2:22:202 hours, 22 minutes, 20 secondshere I've got it's not made into regular I mean if you p and KY if you
+2:22:282 hours, 22 minutes, 28 secondsguys want I can try get a ceremony between you guys before the day ends it's oh God another wedding here oh
+2:22:362 hours, 22 minutes, 36 secondsGod cuz uh okay we're building okay okay cuz we're building the graveyard which there's a bit of drama it's a good
+2:22:452 hours, 22 minutes, 45 secondsstory uh me and P have tried to get married before but I left him at the altar oh wow yeah no I objected and I
+2:22:522 hours, 22 minutes, 52 secondsstole the bride away so wow okay cool yeah this is a bit of drama and now we're like rekindling our bonds of friendship we're going to get and I'm
+2:23:002 hours, 23 minuteslearning and I'm learning more about pack Packa along the way and yeah yeah well
+2:23:102 hours, 23 minutes, 10 secondsis be buil okay
+2:23:252 hours, 23 minutes, 25 secondsI got to organize my
+2:23:462 hours, 23 minutes, 46 secondsinventory is only the roof left uh yes I think so well and the
+2:23:532 hours, 23 minutes, 53 secondsinside but like that's less important
+2:24:122 hours, 24 minutes, 12 secondsyeah you sent it in your DMs hopefully go check
+2:24:242 hours, 24 minutes, 24 secondsthose if you send it here it's not going to go
+2:24:322 hours, 24 minutes, 32 secondsthrough oh it's probably Indiana God I've got to I've got to
+2:24:422 hours, 24 minutes, 42 secondshurry D I am fumbling so hard today
+2:25:042 hours, 25 minutes, 4 secondsare are you going to
+2:25:152 hours, 25 minutes, 15 secondsrec dude it's unfortunate they didn't get this cleared
+2:25:222 hours, 25 minutes, 22 secondsfirst now it's like hanging over the
+2:25:452 hours, 25 minutes, 45 secondsgraveyard going to drop a bunch of stuff there I
+2:25:582 hours, 25 minutes, 58 secondsdon't have to worry about inventory space and I'm going to make a sign that
+2:26:072 hours, 26 minutes, 7 secondssays we'll make it I guess dark
+2:26:142 hours, 26 minutes, 14 secondsoak keep swapping my server which is
+2:26:452 hours, 26 minutes, 45 secondsunfortunate
+2:27:152 hours, 27 minutes, 15 secondsJesus
+2:27:422 hours, 27 minutes, 42 secondsI want it to be like dead and desolate I don't want it to have all this like you know stop
+2:27:512 hours, 27 minutes, 51 secondshere we are almost done yes
+2:28:122 hours, 28 minutes, 12 secondsindeed I think that's the no I think the roof is done
+2:28:192 hours, 28 minutes, 19 secondsyeah let's give me the good the look around for mistakes okay uh we only have
+2:28:262 hours, 28 minutes, 26 secondslike 10 15 minutes so uh you guys can help just like quickly I need dirt and course dirt but
+2:28:352 hours, 28 minutes, 35 secondsI can just grab some of that from supposed to beor up
+2:28:452 hours, 28 minutes, 45 secondsthere what the [ __ ] why was turnab brought
+2:29:062 hours, 29 minutes, 6 secondsback the only that's is the inside too bad this is like the first
+2:29:142 hours, 29 minutes, 14 secondsevent I missed the community
+2:29:242 hours, 29 minutes, 24 secondsevent oh can you clean the dirt inside with your sh because I have none Ah that's fair sure uh give me a minute I'm
+2:29:332 hours, 29 minutes, 33 secondsjust need to get rid of these chests these chests just in a
+2:29:442 hours, 29 minutes, 44 secondsway I didn't have to place a corer don't do
+2:30:112 hours, 30 minutes, 11 secondsthat these things yeah just try and empty those
+2:30:182 hours, 30 minutes, 18 secondschests if you want to if you need to move them inside the um building just do
+2:30:322 hours, 30 minutes, 32 secondsit and stairs and look at that there we
+2:30:422 hours, 30 minutes, 42 secondsgo and the graveyard is almost ready okay cool I just need uh I need help
+2:30:502 hours, 30 minutes, 50 secondsokay sure um hey um if you're capable of cleaning could you clean these chests up I'll go help him with the graveyard yeah
+2:30:582 hours, 30 minutes, 58 secondsyeah yeah I do thean just remove them put them inside or wherever it doesn't matter uh what blocks do you need uh we need Co dirt dirt uh and deep slate
+2:31:082 hours, 31 minutes, 8 secondsCobble deep slate dirt course dirt let's gra what I got and Cobble de slate I don't have any
+2:31:162 hours, 31 minutes, 16 secondsof that but I'll see what I can got all the dirt and I have like only three course dirt where is this
+2:31:232 hours, 31 minutes, 23 secondsgraveyard being built I see yeah thank
+2:31:352 hours, 31 minutes, 35 secondsyou JM Supremacy so what's is there a schematic
+2:31:432 hours, 31 minutes, 43 secondsfor this or just going off just going off of oh shoot I just accidentally made the wrong thing oh my God so got stop it with the
+2:31:522 hours, 31 minutes, 52 secondsrising lava jeez you can see uh you can see here like what I'm doing with the wall I it's going to be like a variation of like kind of just like a broken down
+2:32:012 hours, 32 minutes, 1 secondwall
+2:32:142 hours, 32 minutes, 14 secondsyeah hey Yumm hello you guys just making we're making
+2:32:222 hours, 32 minutes, 22 secondsthe graveyard yeah should save that full saturation for the first time
+2:32:292 hours, 32 minutes, 29 secondssince the beginning of the game how much longer however much longer this event goes for just kind of doing like okay so how how actually where is it where do
+2:32:382 hours, 32 minutes, 38 secondsyou where is the um what's the sort of space we're looking yeah so we're we're planning to all this I want to make uh coar dirt and
+2:32:462 hours, 32 minutes, 46 secondsdirt all this area that's like gravel and stuff uh and then these crosses are kind of like a good point at which like
+2:32:542 hours, 32 minutes, 54 secondsthe crosses will be on this side okay so there will be some down here we also want some up there so I'm
+2:33:012 hours, 33 minutes, 1 secondgoing to continue the path up yeah I might just work on replacing all the getting do what about gravel do you like
+2:33:102 hours, 33 minutes, 10 secondsgravel or not uh we can keep the gravel okay or some of it some of it we keep some of it uh not all of it um can
+2:33:192 hours, 33 minutes, 19 secondsI do you have course dirt and stuff did you get it from the quarter Masters I have three I have three only okay so we're going to have to I need I've got too much stuff in my I'm just going to
+2:33:262 hours, 33 minutes, 26 secondsgo deposit some of this stuff it's too much in my inventory you should probably uh stop by the qu Masters as well you're talking you're talking in chat sorry oh
+2:33:332 hours, 33 minutes, 33 secondsyou can uh you can like probably deposit at the Quarter Master as well that's what I was doing yeah I'm going to then go um also know
+2:33:432 hours, 33 minutes, 43 secondsthe event uh is only 2 hours per day day unless it's a build day or they extend it so it could end in 7 minutes or they
+2:33:522 hours, 33 minutes, 52 secondscould extend it by 30 minutes or an hour which is why I do not
+2:34:032 hours, 34 minutes, 3 secondsknow I'm just making a deposit all the leftover all my leftover stuff
+2:34:122 hours, 34 minutes, 12 secondssorry and then uh the course dirt yep I'll grab
+2:34:252 hours, 34 minutes, 25 secondsthat a lot of stuff going on in chat I want no part of it yeah sorry about that um could I also grab some um
+2:34:342 hours, 34 minutes, 34 secondscoar dirt if you have any
+2:34:472 hours, 34 minutes, 47 secondsI can't be too hung up on each detail oh wait I'm going to make some Cobble balls
+2:35:012 hours, 35 minutes, 1 secondCobble hey thank
+2:35:152 hours, 35 minutes, 15 secondsyou it just looks
+2:35:222 hours, 35 minutes, 22 secondsgood this place just looks good it's just that makes me feel happy that makes me feel good it's like hell yeah good job guys we walk through down the main
+2:35:312 hours, 35 minutes, 31 secondsroad and it just looks good I'm just I think I'm I think I'm
+2:35:392 hours, 35 minutes, 39 secondsjust going to check out everything before we log off because I'll bring back fair I I do really want to get the uh yard done but um if you want to take
+2:35:482 hours, 35 minutes, 48 secondsa break to do that you've been working all day
+2:36:112 hours, 36 minutes, 11 secondsyeah I think this is where I want to put all the crosses for the build team Earth the
+2:36:262 hours, 36 minutes, 26 secondsuh I need to figure out exactly who died and I'm going to use Mangrove is
+2:36:342 hours, 36 minutes, 34 secondsreally scarce but I'm going to use it I feel it's only
+2:36:432 hours, 36 minutes, 43 secondsfitting so the
+2:36:542 hours, 36 minutes, 54 secondsmorg okay dirt and course dirt I will chest for you
+2:37:032 hours, 37 minutes, 3 secondsDelta Curry penguin agriculture oh Curry penguin was buried
+2:37:122 hours, 37 minutes, 12 secondselsewhere yep okay there you go Bunch do course
+2:37:352 hours, 37 minutes, 35 secondsstep uh hi uh Gone Too Soon yes G too
+2:37:442 hours, 37 minutes, 44 secondssoon
+2:38:382 hours, 38 minutes, 38 secondsall right try Kad
+2:39:442 hours, 39 minutes, 44 secondsuh
+2:39:592 hours, 39 minutes, 59 secondsokay Island two listen Mega Man drops uh when is this January 7th
+2:40:142 hours, 40 minutes, 14 secondsnice yeah I really hope it is not okay okay I'm glad that the uh that it's
+2:40:352 hours, 40 minutes, 35 secondsnot yeah I just need to man I just walk through this place and it's just so
+Chapter 10: Event debrief and future war
+2:40:442 hours, 40 minutes, 44 secondsbeautiful we've done such a good job oh
+2:41:002 hours, 41 minutesyeah hey do you guys have um a banner I could have I do
+2:41:132 hours, 41 minutes, 13 secondsnot how's the event going it's going pretty well overall uh not for everyone though seems
+2:41:222 hours, 41 minutes, 22 secondswe're going to war anything interesting happened yeah I was almost
+2:41:312 hours, 41 minutes, 31 secondsassassinated uh by someone that I was holding a trial for an unofficial trial that I wanted the military there but
+2:41:382 hours, 41 minutes, 38 secondsthey were off doing [ __ ] uh like who knows tton dead I've
+2:41:452 hours, 41 minutes, 45 secondsliterally no idea no clue uh I know pretty much nothing that's happening outside our walls other
+2:41:532 hours, 41 minutes, 53 secondsthan that we're going to war with Commonwealth um in fact being a senator I should be
+2:42:002 hours, 42 minutesincluded in these conversations but I'm on the ground doing stuff which day was the the assassination that was today that was earlier this
+2:42:092 hours, 42 minutes, 9 secondssession I was asking they killed several other people or they they attempted to assassinate me and several others got we're then
+2:42:182 hours, 42 minutes, 18 secondsescorted what's your faction I'm westel I am the lead Builder who uh helped design and build a
+2:42:252 hours, 42 minutes, 25 secondscitadel and now I'm the senator of construction after already uh
+2:42:352 hours, 42 minutes, 35 secondsfled and then proceeded to betray us
+2:42:442 hours, 42 minutes, 44 secondslightly tempted uh ambush in coordination with Commonwealth which is why we were going to
+2:42:552 hours, 42 minutes, 55 secondswar I should not be here working on the
+2:43:052 hours, 43 minutes, 5 secondsgraveyard yeah I was almost assassinated uh by ridit who was a known thief and luckily I knew something was going to
+2:43:132 hours, 43 minutes, 13 secondshappen so I uh backed out of the room before it happened and somebody broke the carpet and revealed the
+2:43:212 hours, 43 minutes, 21 secondsTrap and uh so that didn't work there were then uh there was then a Coliseum fight which
+2:43:292 hours, 43 minutes, 29 secondsis Ish attended we had um him fight uh Remy who was tried
+2:43:362 hours, 43 minutes, 36 secondsfor um for planning the assassination of Lizzy our our senator of Agriculture the
+2:43:452 hours, 43 minutes, 45 secondsother day day Ramy won that fight was declared Victorious and was wiped clean and then
+2:43:532 hours, 43 minutes, 53 secondsAdder hoods a me a member of our military killed him in C Cold Blood so now ader hoods is Kos kill on
+2:44:052 hours, 44 minutes, 5 secondssite oh yeah today's been eventful as [ __ ] how many hours uh 2 hours unless they extend it like I think today
+2:44:132 hours, 44 minutes, 13 secondsthey're extending it a bit oh no no they're not log off in a safe
+2:44:262 hours, 44 minutes, 26 secondsplace it doesn't really matter tomorrow will be a build day I think that's what is said uh there's a a little bit of a
+2:44:342 hours, 44 minutes, 34 secondstone deaf thing happening over there where they built their wedding ceremony area right next to where we were building a
+2:44:402 hours, 44 minutes, 40 secondsgraveyard oh my God oh my now this got to get kicked by the way this uh this
+2:44:472 hours, 44 minutes, 47 secondsForks between the graveyard and so this is that and the graveyard's like right to the left of this which we
+2:44:562 hours, 44 minutes, 56 secondsare building oh where's O's grave is all the way over there 's grave is by the shore with Lizzy and we're going to add spider
+2:45:052 hours, 45 minutes, 5 secondsthere yeah he has a nice I'm colum Coliseum Coliseum 108 7 6 5 4 you make
+2:45:122 hours, 45 minutes, 12 secondsit 3 2 1 on shut down it's down for real all right nice
+2:45:202 hours, 45 minutes, 20 secondslook at those zesty military guys yo yo yo yo milary whoa whoa whoa whoa where oh was right above us what the heck who
+2:45:282 hours, 45 minutes, 28 secondsthat who was that guy was did that was was not oh my God
+2:45:372 hours, 45 minutes, 37 secondswas there is an attempted assassination sorry wait what the what the [ __ ] just happened wait another one grip Stone was just placed down there also it's about
+2:45:452 hours, 45 minutes, 45 secondsto end Crystal uh yeah it it seems there was a piece of dripstone that was just placed just now is that is that
+2:45:532 hours, 45 minutes, 53 secondsAlto yeah crystal is that Al sax sorry I forgot to I forgot to type
+2:46:002 hours, 46 minutesthe wrong I'm on ten I don't know how the hell Island one has stayed United this entire
+2:46:082 hours, 46 minutes, 8 secondstime uh one final for y'all um
+2:46:152 hours, 46 minutes, 15 seconds[Music]
+2:46:182 hours, 46 minutes, 18 secondstomor goodbye and also just one last round of applause for all of our performers for all left see Crystal can you uh can you
+2:46:262 hours, 46 minutes, 26 secondssend me the replay once we're done I yeah I was kind of looking down so I have no idea freaking TKE more like a freaking bad Cup oh somebody was saying
+2:46:352 hours, 46 minutes, 35 secondssomething I didn't see who that was who the [ __ ] ping me
+2:47:072 hours, 47 minutes, 7 secondstwice all right debrief starting 10 people joined during that oh
+2:47:152 hours, 47 minutes, 15 secondswe got a lot of people coming in woohoo I'm just going to give it a bit more time to feed everyone through I don't think we'll make it to at a lot of
+2:47:222 hours, 47 minutes, 22 secondspeople died
+2:47:292 hours, 47 minutes, 29 secondsum wait I got a I got a message I about this day rip
+2:47:412 hours, 47 minutes, 41 secondsspider all right folks 77 oh my God okay come on we can make it to at anyways um
+2:47:482 hours, 47 minutes, 48 secondsI'm going to see if anyone no okay okay I'm going to get straight into it so today we had a lot of pros and cons I'm going to go through the pros first and
+2:47:562 hours, 47 minutes, 56 secondsthen we'll go to the cons first of all we had a really really fun um Coliseum match we had blood was shed
+2:48:062 hours, 48 minutes, 6 secondsthere was somebody that came in trying to stop the fight they got obliterated
+2:48:132 hours, 48 minutes, 13 secondsum another oh God this ghost listen to me right now you [ __ ] listen to me right now I
+2:48:222 hours, 48 minutes, 22 secondsneed all of you into the void I'm sorry you can come back oh [ __ ] we hit 80 we hit
+2:48:332 hours, 48 minutes, 33 seconds80 I want all of you to get your [ __ ] swords and your [ __ ] axes and beat
+2:48:402 hours, 48 minutes, 40 secondsthe [ __ ] out of Island too anyways uh it was great with y'all uh it had to be like this it sucks that
+2:48:482 hours, 48 minutes, 48 secondsit did but one death yeah yeah it was for West H now we're g to go sweep floor of
+2:48:562 hours, 48 minutes, 56 secondsIsland too I think also oh I'm just thinking optimistically spider you're no longer up here it's just it's just me now I'm going to be
+2:49:032 hours, 49 minutes, 3 secondsalone um oo's death if it wasn't for oo's death spider wouldn't be dead but if it wasn't oh [ __ ] sake he's here
+2:49:112 hours, 49 minutes, 11 secondsnow oh my God I summoned him we have oh my God I'm I'm the ghost of Chris's past
+2:49:212 hours, 49 minutes, 21 seconds[ __ ] oh my god oh well can we call after this I'll give you a catch up on what's Happening actually I'm not that
+2:49:272 hours, 49 minutes, 27 secondsyeah sure but oh yeah so essentially we we are probably one of the most
+2:49:352 hours, 49 minutes, 35 secondshighlighted Nations definitely now especially with the whole declaration of war speech that I had um we are um main
+2:49:452 hours, 49 minutes, 45 secondsthing is is I'm not going to get any consoles if I I if I die um the Senate
+2:49:512 hours, 49 minutes, 51 secondswill decide out the fate of West Ham uh it will turn into a democracy uh but that also I can only say that because
+2:49:592 hours, 49 minutes, 59 secondsyou can't kill me on the Bild day uh if it is a build day um and then after that it's probably going to be the big fight if that doesn't happen then I'm taking
+2:50:072 hours, 50 minutes, 7 secondsthat all back West hon will go to Anarchy um but anyways apart from that uh another Pro was oh yeah the war
+2:50:152 hours, 50 minutes, 15 secondsdeclaration everyone in that room it was awesome go on West hm um apart from that what else have we got you know I'll go
+2:50:242 hours, 50 minutes, 24 secondsstraight to the negatives um so first of all R actually the positive R died um now on to the
+2:50:322 hours, 50 minutes, 32 secondsnegatives um um so oh no yeah I forgot the wedding I forgot about the wedding I forgot
+2:50:392 hours, 50 minutes, 39 secondsabout the wedding the wedding was fun I just say if I didn't go to that wedding I would be dead right now the seat that me and saps were sitting in had a
+2:50:482 hours, 50 minutes, 48 secondsdripstone on it two dripstones and turnt died because he went into that seat if I wasn't if I
+2:50:562 hours, 50 minutes, 56 secondsdidn't go to the wedding I would be dead saps would be dead and this whole thing the war thing would basically be
+2:51:022 hours, 51 minutes, 2 secondsdone love conquers all the the meeting was at the at like clay J's thing in uh but it was it thought was it was useless
+2:51:102 hours, 51 minutes, 10 secondsoverall that one kind of flopped got revived let's go I I I need to go into a call with him after this actually um apart from that
+2:51:192 hours, 51 minutes, 19 secondswe also have um the death of Remy the rat now this is where the drama gets
+2:51:272 hours, 51 minutes, 27 secondsreal so there was evidence of him paying to murder someone
+2:51:362 hours, 51 minutes, 36 secondshowever he was pardoned by me because he won the the trial by combat despite this someone
+2:51:452 hours, 51 minutes, 45 secondscalled adah hoods murdered them and disobeyed his goal his
+2:51:532 hours, 51 minutes, 53 secondsrole as military and he murdered them out of his own personalized anger the death was
+2:52:012 hours, 52 minutes, 1 secondunjust and tomorrow there will be Justice and I'll let Lizzy come up fine I didn't realize I had Shooters
+2:52:092 hours, 52 minutes, 9 secondsacross West hwn like that but shout out to Adder I [ __ ] guess
+2:52:182 hours, 52 minutes, 18 secondsany who oh X out's coming up oh I forgot about X I'm sorry oh my
+2:52:242 hours, 52 minutes, 24 secondsGod hey the one day I don't come and watch anyone's stream on what's Happening oh my
+2:52:322 hours, 52 minutes, 32 secondsgod um and one more thing kill as many play um Island 2 players as you can for
+2:52:392 hours, 52 minutes, 39 secondsme please you know what's funny now can can Ry not not evil Arty are are Arty
+2:52:462 hours, 52 minutes, 46 secondscan he make a thing about the ghost of uh the ghosts of westelm with legate legate's kind of
+2:52:542 hours, 52 minutes, 54 secondslike ruling over all of us and then it's like Oho and I and all and Remy and the Holy Spirit no no no no ex the
+2:53:042 hours, 53 minutes, 4 secondsone but anyways like ex yeah Exile just say the only actual God I think that's actually been built was just you I think
+2:53:112 hours, 53 minutes, 11 secondswe just believe in you real um yeah Wubba come on up Exel I love you all
+2:53:172 hours, 53 minutes, 17 secondsright I do want to say Adder did try to block in Ward when uh rid did try to
+2:53:242 hours, 53 minutes, 24 secondssave him after uh fleeing he turned himself in to save Ward and although this was not out of necessarily kindness
+2:53:322 hours, 53 minutes, 32 secondsbecause of a human life it was because it was sympathetic uh uh Adder did in fact keep continuing to block him in
+2:53:412 hours, 53 minutes, 41 secondsunder the water multiple times when asked to stop so I I I oh yeah yeah I know I know I
+2:53:482 hours, 53 minutes, 48 secondsjust wanted to add that because that was uh that was something that happened right after the assassination attempt uh
+2:53:552 hours, 53 minutes, 55 secondsfrom RIT okay it was misinformation okay yeah um the other thing we are almost done
+2:54:042 hours, 54 minutes, 4 secondswith the uh graveyard so once that's built uh we'll actually have a place to bury all the dead people which there are
+2:54:102 hours, 54 minutes, 10 secondsa lot of now um so oh yeah I mean compared to other nations uh we are we're trying to catch no we're not
+2:54:192 hours, 54 minutes, 19 secondsuh but we we're still doing very well compared to all the other nations I mean today was a bad day how many did we lose R it one two three I think we lost right
+2:54:282 hours, 54 minutes, 28 secondsno four who else died um so we lost RIT we lost um Remy
+2:54:352 hours, 54 minutes, 35 secondswe lost um who's the third person spider spider that was dude how did you and then who was the fourth that's what I'm
+2:54:432 hours, 54 minutes, 43 secondstrying to think there's a fourth I can't remember so it was someone I can't remember who was it there no way this [ __ ] has already forgot about me
+2:54:512 hours, 54 minutes, 51 secondsdude it's been 30 minutes are you how do you have the ability to come up here what some random guy I can't remember who anyways um
+2:55:002 hours, 55 minutesapart from that uh those were probably the main negatives it's a shame about spider dying but it's for a greater cause uh now look at us he's hopefully
+2:55:082 hours, 55 minutes, 8 secondshe's in the video that would be cool uh the wedding was wholesome honestly yesterday was quite demotivating westelm it felt like the whole the story wasn't
+2:55:162 hours, 55 minutes, 16 secondsgoing anywhere but now west Helm is at its strongest there's a lot of attention on it and as well as that we're all
+2:55:232 hours, 55 minutes, 23 secondshaving a nice time really apart from the ad hoods thing and all that but it was fun to watch a it was fun to actually use the Coliseum for its intended
+2:55:322 hours, 55 minutes, 32 secondspurpose um so best worst case scenario well not worst case but it it might be in the video um like cuz that is it's
+2:55:412 hours, 55 minutes, 41 secondsquite cool to show that like even in like b-roll um um not breakfast breakfast is none in that uh Fe what
+2:55:492 hours, 55 minutes, 49 secondsabout what about the death of those two people yeah I mean we don't want to do
+2:55:562 hours, 55 minutes, 56 secondstoo much killing beforehand I mean we also did a we murdered two people as well but at the moment like especially for tomorrow let's try not to touch the
+2:56:052 hours, 56 minutes, 5 secondsCommonwealth um because in the meantime because even though they murdered someone during a diplomatic meeting I was speaking to them before before the
+2:56:142 hours, 56 minutes, 14 secondsCommonwealth before I before before we killed people diplomats in quotations from the Commonwealth one of the things they did was they wanted to they wanted
+2:56:222 hours, 56 minutes, 22 secondsto um they I I asked them why they killed a diplomat and they like I don't know uh and then they just sh gave us
+2:56:302 hours, 56 minutes, 30 secondsspider's head so we killed those diplomats an eye for an eye now that is dealt with now it's the deal with the
+2:56:362 hours, 56 minutes, 36 secondsTyranny on Ireland to they
+2:56:422 hours, 56 minutes, 42 secondswere uh it's a skill issue um but anyways yeah but oh No Just say those
+2:56:512 hours, 56 minutes, 51 secondstwo people they oh no they weren't like random diplomats by the way those were the two Runners up for Commonwealth I just want to let you know that sorry I should have made that more clear those
+2:56:582 hours, 56 minutes, 58 secondswere like the two people that would cuz the the old leader died those two people were the next to go into it and yeah they wer like equally as bad no it's not
+2:57:072 hours, 57 minutes, 7 secondslike n no I didn't like they weren't just random people anyways um those were the main things there was a lot of good a lot of bad and hopefully the B base
+2:57:162 hours, 57 minutes, 16 secondslooks really nice tomorrow and after that um most people will probably be drafted if you really don't want to
+2:57:232 hours, 57 minutes, 23 secondsfight let me know I'm not going to force everyone uh but I would I think the more people the higher the chance of winning you don't want to be on the losing side
+2:57:302 hours, 57 minutes, 30 secondseven though we we we've a lot of people have joined us because there is a lot of tyranny on island too um apart from that most people are probably going to have
+2:57:382 hours, 57 minutes, 38 secondsto join even the Senators even I'm going which seems a bit dumb but you know I'm doing it sees if CES a four I'll fight
+2:57:452 hours, 57 minutes, 45 secondsyou know what I mean uh uh unfortunately neither spider or oo will fight in the battle sorry yeah is
+2:57:532 hours, 57 minutes, 53 secondshe I appreciate for slaving away all day to get you netherite chest plate oh I want to give a quick shout out to that
+2:58:002 hours, 58 minutesyeah izy come on explain what have you done today it was also SS Baka but we we got
+2:58:082 hours, 58 minutes, 8 secondsyou your netherite chest plate so St but I'm still going to be in for in the Great War yeah
+
